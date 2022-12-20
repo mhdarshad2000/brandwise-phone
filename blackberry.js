@@ -66,7 +66,7 @@ async function detailsPage(cityUrl,brand) {
                         else 
                         arr[count]["address"] = string.replace(serviceCenterName.text(),"").replace(tel[1],"").replaceAll("\n","").replaceAll("\t","").replace("Contact:","").replaceAll("   ","").replaceAll(" ","").trim()
 
-                        arr[count]["phone"] = tel[2]?tel[2].trim():tel[1]?.split("\n\n\n\t\t")[0].trim()
+                        arr[count]["phone"] = tel[2]?tel[2].replace('x',"*").replace(/[a-z]/gi,'').replaceAll("(","").replaceAll(")","").trim():tel[1]?.split("\n\n\n\t\t")[0].replace('x',"*").replace(/[a-z]/gi,'').replaceAll("(","").replaceAll(")","").trim()
                         count ++
                     }
                 
