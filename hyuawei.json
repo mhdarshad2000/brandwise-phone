@@ -47,19 +47,7 @@
             },
             {
                 "name": "Montgomery",
-                "link": "https://www.service-center-locator.com/huawei/alabama/huawei-montgomery-alabama.htm",
-                "city": [
-                    {
-                        "serviceCenter": "CPR Cell Phone Repair",
-                        "address": "2801AVaughnPlzRd,Montgomery,AL36116",
-                        "phone": "(334) 239-7438"
-                    },
-                    {
-                        "serviceCenter": "CPR Cell Phone Repair",
-                        "address": "2801AVaughnPlzRd,Montgomery,AL36116",
-                        "phone": "(334) 239-7438"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/alabama/huawei-montgomery-alabama.htm"
             }
         ]
     },
@@ -68,44 +56,7 @@
         "states": [
             {
                 "name": "Anchorage",
-                "link": "https://www.service-center-locator.com/huawei/alaska/huawei-anchorage-alaska.htm",
-                "city": [
-                    {
-                        "serviceCenter": "High Frequency Wireless",
-                        "address": "636E15thAve#STE1,Anchorage,AK99501",
-                        "phone": "(907) 677-9577"
-                    },
-                    {
-                        "serviceCenter": "Mta",
-                        "address": "611E12thAve#101,Anchorage,AK99501",
-                        "phone": "(907) 793-4100"
-                    },
-                    {
-                        "serviceCenter": "Allstar Communications",
-                        "address": "(907)770-5720",
-                        "phone": ""
-                    },
-                    {
-                        "serviceCenter": "Alaska United",
-                        "address": "2550DenaliSt#STE520,Anchorage,AK99503",
-                        "phone": "(888) 442-8662"
-                    },
-                    {
-                        "serviceCenter": "Qt Tel",
-                        "address": "600ENorthernLightsBlvd,Anchorage,AK99503",
-                        "phone": "(907) 278-4404"
-                    },
-                    {
-                        "serviceCenter": "High Frequency Wireless",
-                        "address": "702WNorthernLightsBlvd,Anchorage,AK99503",
-                        "phone": "(907) 677-9577"
-                    },
-                    {
-                        "serviceCenter": "Alaska Communications",
-                        "address": "3600DenaliSt,Anchorage,AK99503",
-                        "phone": "(907) 563-8000"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/alaska/huawei-anchorage-alaska.htm"
             },
             {
                 "name": "Fairbanks",
@@ -227,7 +178,44 @@
             },
             {
                 "name": "Kodiak",
-                "link": "https://www.service-center-locator.com/huawei/alaska/huawei-kodiak-alaska.htm"
+                "link": "https://www.service-center-locator.com/huawei/alaska/huawei-kodiak-alaska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Alaska Communications",
+                        "address": "3484RezanofDrE,Kodiak,AK99615",
+                        "phone": "(800) 808-8083"
+                    },
+                    {
+                        "serviceCenter": "North American Telecom, Inc.",
+                        "address": "(888)510-8732",
+                        "phone": "NAT-CES@msn.com"
+                    },
+                    {
+                        "serviceCenter": "BandTel LLC",
+                        "address": "(800)730-2870",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "Bristol Bay Cellular Partnership",
+                        "address": "(907)246-6399",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "Bristol Bay Telephone Cooperative Inc",
+                        "address": "(907)246-3403",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "AT&T",
+                        "address": "402WMarineWay,Kodiak,AK99615",
+                        "phone": "(907) 481-2981"
+                    },
+                    {
+                        "serviceCenter": "GCI Cable Inc",
+                        "address": "2011MillBayRd,Kodiak,AK99615",
+                        "phone": "(907) 486-3334"
+                    }
+                ]
             }
         ]
     },
@@ -236,14 +224,7 @@
         "states": [
             {
                 "name": "Flagstaff",
-                "link": "https://www.service-center-locator.com/huawei/arizona/huawei-flagstaff-arizona.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Tec Rehab Flagstaff iPhone, iPad, iPo...",
-                        "address": "901 N San Francisco St Unit 1\n\t\t  Flagstaff, AZ 86001",
-                        "phone": "(928) 600-6768"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/arizona/huawei-flagstaff-arizona.htm"
             },
             {
                 "name": "Phoenix",
@@ -282,7 +263,14 @@
             },
             {
                 "name": "Yuma",
-                "link": "https://www.service-center-locator.com/huawei/arizona/huawei-yuma-arizona.htm"
+                "link": "https://www.service-center-locator.com/huawei/arizona/huawei-yuma-arizona.htm",
+                "city": [
+                    {
+                        "serviceCenter": "D B Phone",
+                        "address": "(928) 342-7103",
+                        "phone": ""
+                    }
+                ]
             }
         ]
     },
@@ -291,44 +279,22 @@
         "states": [
             {
                 "name": "Conway",
-                "link": "https://www.service-center-locator.com/huawei/arkansas/huawei-conway-arkansas.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Cell Phone Hut",
-                        "address": "6000WMarkhamSt#STE3010,LittleRock,AR72205",
-                        "phone": "(501) 614-7449"
-                    },
-                    {
-                        "serviceCenter": "Phones & Accessories",
-                        "address": "8717StagecoachRd,LittleRock,AR72210",
-                        "phone": "(501) 455-1611"
-                    },
-                    {
-                        "serviceCenter": "Easy Office Phone",
-                        "address": "(501)764-3391",
-                        "phone": ""
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/arkansas/huawei-conway-arkansas.htm"
             },
             {
                 "name": "Fayetteville",
-                "link": "https://www.service-center-locator.com/huawei/arkansas/huawei-fayetteville-arkansas.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Phone Doctors",
-                        "address": "3061NCollegeAve,Fayetteville,AR72703",
-                        "phone": "(479) 582-1300"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Accessories",
-                        "address": "2203SPromenadeBlvd,Rogers,AR72758",
-                        "phone": "(479) 631-0126"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/arkansas/huawei-fayetteville-arkansas.htm"
             },
             {
                 "name": "Fort Smith",
-                "link": "https://www.service-center-locator.com/huawei/arkansas/huawei-fort-smith-arkansas.htm"
+                "link": "https://www.service-center-locator.com/huawei/arkansas/huawei-fort-smith-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Easy Office Phone",
+                        "address": "(479) 235-3023",
+                        "phone": ""
+                    }
+                ]
             },
             {
                 "name": "Jonesboro",
@@ -401,24 +367,7 @@
             },
             {
                 "name": "Rogers",
-                "link": "https://www.service-center-locator.com/huawei/arkansas/huawei-rogers-arkansas.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Cell Phone Accessories",
-                        "address": "2203SPromenadeBlvd,Rogers,AR72758",
-                        "phone": "(479) 631-0126"
-                    },
-                    {
-                        "serviceCenter": "Phone Doctors",
-                        "address": "3061NCollegeAve,Fayetteville,AR72703",
-                        "phone": "(479) 582-1300"
-                    },
-                    {
-                        "serviceCenter": "Easy Office Phone",
-                        "address": "(479)877-3054",
-                        "phone": ""
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/arkansas/huawei-rogers-arkansas.htm"
             },
             {
                 "name": "Springdale",
@@ -484,19 +433,7 @@
             },
             {
                 "name": "Bakersfield",
-                "link": "https://www.service-center-locator.com/huawei/california/huawei-bakersfield-california.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Bakersfield Cell Phone Repair",
-                        "address": "2400MingAveUnitB,Bakersfield,CA93304",
-                        "phone": "(661) 214-5725"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1220OakSt,Bakersfield,CA93304",
-                        "phone": "(661) 323-1397"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/california/huawei-bakersfield-california.htm"
             },
             {
                 "name": "Berkeley",
@@ -541,11 +478,80 @@
             },
             {
                 "name": "Los Angeles",
-                "link": "https://www.service-center-locator.com/huawei/california/huawei-los-angeles-california.htm"
+                "link": "https://www.service-center-locator.com/huawei/california/huawei-los-angeles-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Majors Cell Phone Repair Center",
+                        "address": "9823SNormandieAve,LosAngeles,CA90044",
+                        "phone": "(888) 807-0364"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair Los Angeles",
+                        "address": "357814SCentinelaAve,LosAngeles,CA90066",
+                        "phone": "(888) 998-0777"
+                    },
+                    {
+                        "serviceCenter": "Customer I Phones & Repairs",
+                        "address": "614TorranceBlvd,RedondoBeach,CA90277",
+                        "phone": "(310) 540-3206"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "6891KatellaAve,Cypress,CA90630",
+                        "phone": "(714) 827-4277"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "21787VenturaBlvd,WoodlandHills,CA91364",
+                        "phone": "(818) 854-6850"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Pros",
+                        "address": "16451MagnoliaSt,Westminster,CA92683",
+                        "phone": "(714) 202-6768"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "9058TampaAve,Northridge,CA91324",
+                        "phone": "(818) 349-6850"
+                    }
+                ]
             },
             {
                 "name": "Oakland",
-                "link": "https://www.service-center-locator.com/huawei/california/huawei-oakland-california.htm"
+                "link": "https://www.service-center-locator.com/huawei/california/huawei-oakland-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Repair Ctr",
+                        "address": "2601SanBrunoAve,SanFrancisco,CA94134",
+                        "phone": "(415) 656-4418"
+                    },
+                    {
+                        "serviceCenter": "Sfi Phone & IPad Repair",
+                        "address": "1275ColumbusAve,SanFrancisco,CA94133",
+                        "phone": "(415) 913-7569"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1212BElCaminoReal,SanBruno,CA94066",
+                        "phone": "(650) 273-4209"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "3912WashingtonBlvd,Fremont,CA94538",
+                        "phone": "(510) 651-2055"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "859WElCaminoReal,MountainView,CA94040",
+                        "phone": "(650) 938-2355"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "859EElCaminoReal,MountainView,CA94040",
+                        "phone": "(650) 938-2355"
+                    }
+                ]
             },
             {
                 "name": "Riverside",
@@ -580,7 +586,34 @@
             },
             {
                 "name": "Sacramento",
-                "link": "https://www.service-center-locator.com/huawei/california/huawei-sacramento-california.htm"
+                "link": "https://www.service-center-locator.com/huawei/california/huawei-sacramento-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "6450FolsomBlvd,Sacramento,CA95819",
+                        "phone": "(916) 451-1402"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "9688BrucevilleRd#STE102,ElkGrove,CA95757",
+                        "phone": "(916) 714-1919"
+                    },
+                    {
+                        "serviceCenter": "Iparts & Phone Repairs",
+                        "address": "5941SanJuanAve,CitrusHeights,CA95610",
+                        "phone": "(916) 877-4763"
+                    },
+                    {
+                        "serviceCenter": "IParts and Phone Repairs",
+                        "address": "5933SanJuanAve,CitrusHeights,CA95610",
+                        "phone": "(916) 241-9210"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1850DouglasBlvd#STE402,Roseville,CA95661",
+                        "phone": "(916) 772-2772"
+                    }
+                ]
             },
             {
                 "name": "San Bernardino",
@@ -588,14 +621,7 @@
             },
             {
                 "name": "San Diego",
-                "link": "https://www.service-center-locator.com/huawei/california/huawei-san-diego-california.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Sell Phones And Repairs - SPAR",
-                        "address": "1135 Garnet Ave #STE 22\n\t\t  San Diego, CA 92109",
-                        "phone": "(858) 231-3372"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/california/huawei-san-diego-california.htm"
             },
             {
                 "name": "San Francisco",
@@ -630,7 +656,39 @@
             },
             {
                 "name": "San Jose",
-                "link": "https://www.service-center-locator.com/huawei/california/huawei-san-jose-california.htm"
+                "link": "https://www.service-center-locator.com/huawei/california/huawei-san-jose-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "14530CamdenAve,SanJose,CA95124",
+                        "phone": "(408) 559-9499"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "859WElCaminoReal,MountainView,CA94040",
+                        "phone": "(650) 938-2355"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "3912WashingtonBlvd,Fremont,CA94538",
+                        "phone": "(510) 651-2055"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "18562ProspectRd#STEB,Saratoga,CA95070",
+                        "phone": "(408) 703-4215"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "859EElCaminoReal,MountainView,CA94040",
+                        "phone": "(650) 938-2355"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1212BElCaminoReal,SanBruno,CA94066",
+                        "phone": "(650) 273-4209"
+                    }
+                ]
             }
         ]
     },
@@ -660,15 +718,56 @@
             },
             {
                 "name": "Aurora",
-                "link": "https://www.service-center-locator.com/huawei/colorado/huawei-aurora-colorado.htm"
+                "link": "https://www.service-center-locator.com/huawei/colorado/huawei-aurora-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1531StoutSt,Denver,CO80202",
+                        "phone": "(720) 508-8463"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1430WCedarAveC,Denver,CO80223",
+                        "phone": "(303) 366-3142"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5066SWadsworthWay,Littleton,CO80123",
+                        "phone": "(303) 948-1553"
+                    }
+                ]
             },
             {
                 "name": "Colorado Springs",
-                "link": "https://www.service-center-locator.com/huawei/colorado/huawei-colorado-springs-colorado.htm"
+                "link": "https://www.service-center-locator.com/huawei/colorado/huawei-colorado-springs-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "3440 N Academy Blvd\n\t\t  Colorado Springs, CO 80917",
+                        "phone": "(719) 573-6154"
+                    }
+                ]
             },
             {
                 "name": "Denver",
-                "link": "https://www.service-center-locator.com/huawei/colorado/huawei-denver-colorado.htm"
+                "link": "https://www.service-center-locator.com/huawei/colorado/huawei-denver-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1531StoutSt,Denver,CO80202",
+                        "phone": "(720) 508-8463"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1430WCedarAveC,Denver,CO80223",
+                        "phone": "(303) 366-3142"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5066SWadsworthWay,Littleton,CO80123",
+                        "phone": "(303) 948-1553"
+                    }
+                ]
             },
             {
                 "name": "Fort Collins",
@@ -729,24 +828,7 @@
             },
             {
                 "name": "Westminster",
-                "link": "https://www.service-center-locator.com/huawei/colorado/huawei-westminster-colorado.htm",
-                "city": [
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1531StoutSt,Denver,CO80202",
-                        "phone": "(720) 508-8463"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1430WCedarAveC,Denver,CO80223",
-                        "phone": "(303) 366-3142"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "5066SWadsworthWay,Littleton,CO80123",
-                        "phone": "(303) 948-1553"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/colorado/huawei-westminster-colorado.htm"
             }
         ]
     },
@@ -818,48 +900,48 @@
             },
             {
                 "name": "New London",
-                "link": "https://www.service-center-locator.com/huawei/connecticut/huawei-new-london-connecticut.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Main St Payphone",
-                        "address": "695MainSt,Middletown,CT06457",
-                        "phone": "(860) 343-9914"
-                    },
-                    {
-                        "serviceCenter": "E-Z Pager",
-                        "address": "611BankSt,NewLondon,CT06320",
-                        "phone": "(860) 442-3500"
-                    },
-                    {
-                        "serviceCenter": "Yorktei",
-                        "address": "228StateSt,NewLondon,CT06320",
-                        "phone": "(860) 444-8026"
-                    },
-                    {
-                        "serviceCenter": "Compass Rose Strategic Partners",
-                        "address": "516VauxhallSt,NewLondon,CT06320",
-                        "phone": "(860) 437-7600"
-                    },
-                    {
-                        "serviceCenter": "Global Cellulars",
-                        "address": "850HartfordTpke,Waterford,CT06385",
-                        "phone": "(860) 447-3022"
-                    },
-                    {
-                        "serviceCenter": "Get Wireless Now",
-                        "address": "692LongHillRd,Groton,CT06340",
-                        "phone": "(860) 326-5118"
-                    },
-                    {
-                        "serviceCenter": "Bolton Voice & Data Solutions",
-                        "address": "4PadgettPl,Waterford,CT06385",
-                        "phone": "(860) 444-9411"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/connecticut/huawei-new-london-connecticut.htm"
             },
             {
                 "name": "Norwalk",
-                "link": "https://www.service-center-locator.com/huawei/connecticut/huawei-norwalk-connecticut.htm"
+                "link": "https://www.service-center-locator.com/huawei/connecticut/huawei-norwalk-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "I Phone Repair Li Inc",
+                        "address": "601JerichoTpke,Syosset,NY11791",
+                        "phone": "(516) 364-0002"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "420CrosswaysParkDr,Woodbury,NY11797",
+                        "phone": "(516) 802-5257"
+                    },
+                    {
+                        "serviceCenter": "Phone Stitch & IPhone Repair",
+                        "address": "379Route25a,RockyPoint,NY11778",
+                        "phone": "(631) 849-6888"
+                    },
+                    {
+                        "serviceCenter": "Speed Wireless & Phone Fix and Repair",
+                        "address": "1000PalisadesCtrDr,WestNyack,NY10994",
+                        "phone": "(845) 358-1145"
+                    },
+                    {
+                        "serviceCenter": "Cardinal Phone Repair",
+                        "address": "280Broadway,Bethpage,NY11714",
+                        "phone": "(516) 342-6387"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "211WRoute59,Nanuet,NY10954",
+                        "phone": "(845) 507-0809"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "45MerrickRd,Amityville,NY11701",
+                        "phone": "(631) 576-4801"
+                    }
+                ]
             },
             {
                 "name": "Norwich",
@@ -874,23 +956,48 @@
             },
             {
                 "name": "Stamford",
-                "link": "https://www.service-center-locator.com/huawei/connecticut/huawei-stamford-connecticut.htm"
+                "link": "https://www.service-center-locator.com/huawei/connecticut/huawei-stamford-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "I Phone Repair Li Inc",
+                        "address": "601JerichoTpke,Syosset,NY11791",
+                        "phone": "(516) 364-0002"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "420CrosswaysParkDr,Woodbury,NY11797",
+                        "phone": "(516) 802-5257"
+                    },
+                    {
+                        "serviceCenter": "Speed Wireless & Phone Fix and Repair",
+                        "address": "1000PalisadesCtrDr,WestNyack,NY10994",
+                        "phone": "(845) 358-1145"
+                    },
+                    {
+                        "serviceCenter": "Cardinal Phone Repair",
+                        "address": "280Broadway,Bethpage,NY11714",
+                        "phone": "(516) 342-6387"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "211WRoute59,Nanuet,NY10954",
+                        "phone": "(845) 507-0809"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "28393rdAve,Bronx,NY10455",
+                        "phone": "(718) 402-3398"
+                    },
+                    {
+                        "serviceCenter": "I Phone Repair Long Island",
+                        "address": "86HempsteadTpke,WestHempstead,NY11552",
+                        "phone": "(516) 280-2380"
+                    }
+                ]
             },
             {
                 "name": "Waterbury",
-                "link": "https://www.service-center-locator.com/huawei/connecticut/huawei-waterbury-connecticut.htm",
-                "city": [
-                    {
-                        "serviceCenter": "24 Hour Phones & Accessories",
-                        "address": "349WMainSt,Waterbury,CT06702",
-                        "phone": "(203) 982-3183"
-                    },
-                    {
-                        "serviceCenter": "Kartele Cellular Phones",
-                        "address": "68SugarHollowRd,Danbury,CT06810",
-                        "phone": "(203) 794-1186"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/connecticut/huawei-waterbury-connecticut.htm"
             }
         ]
     },
@@ -926,7 +1033,24 @@
             },
             {
                 "name": "Wilmington",
-                "link": "https://www.service-center-locator.com/huawei/delaware/huawei-wilmington-delaware.htm"
+                "link": "https://www.service-center-locator.com/huawei/delaware/huawei-wilmington-delaware.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "516MiddletownWarwickRd,Middletown,DE19709",
+                        "phone": "(302) 378-4695"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "6851MarshallRd,UpperDarby,PA19082",
+                        "phone": "(215) 310-0143"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "5536N5thSt,Philadelphia,PA19120",
+                        "phone": "(215) 609-4515"
+                    }
+                ]
             }
         ]
     },
@@ -935,12 +1059,21 @@
         "states": [
             {
                 "name": "Fort Lauderdale",
-                "link": "https://www.service-center-locator.com/huawei/florida/huawei-fort-lauderdale-florida.htm",
+                "link": "https://www.service-center-locator.com/huawei/florida/huawei-fort-lauderdale-florida.htm"
+            },
+            {
+                "name": "Hialeah",
+                "link": "https://www.service-center-locator.com/huawei/florida/huawei-hialeah-florida.htm",
                 "city": [
                     {
+                        "serviceCenter": "CPR - Cell Phone Repair North Miami",
+                        "address": "13268BiscayneBlvd,Northmiami,FL33181",
+                        "phone": "(786) 475-7519"
+                    },
+                    {
                         "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1847CordovaRd,FortLauderdale,FL33316",
-                        "phone": "(954) 635-2676"
+                        "address": "14142SW8thSt,Miami,FL33184",
+                        "phone": "(305) 420-6680"
                     },
                     {
                         "serviceCenter": "CPR-Cell Phone Repair",
@@ -948,35 +1081,26 @@
                         "phone": "(954) 252-7177"
                     },
                     {
-                        "serviceCenter": "Creative R Us Computer & Phone Repair",
-                        "address": "547ESampleRd,PompanoBeach,FL33064",
-                        "phone": "(954) 783-9995"
-                    },
-                    {
-                        "serviceCenter": "Cellular Proz iPhone Repair",
-                        "address": "9970WOaklandParkBlvd,Sunrise,FL33351",
-                        "phone": "(954) 380-6870"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1901NFederalHwy#STE108,PompanoBeach,FL33062",
-                        "phone": "(954) 532-2177"
-                    },
-                    {
                         "serviceCenter": "Phone Repair Company",
                         "address": "9000SheridanSt,PembrokePines,FL33024",
                         "phone": "(954) 392-1190"
                     },
                     {
-                        "serviceCenter": "CPR - Cell Phone Repair North Miami",
-                        "address": "13268BiscayneBlvd,Northmiami,FL33181",
-                        "phone": "(786) 475-7519"
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "8360MillsDr,Miami,FL33183",
+                        "phone": "(305) 270-0075"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "9495SDixieHwy,Miami,FL33156",
+                        "phone": "(786) 452-0921"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1847CordovaRd,FortLauderdale,FL33316",
+                        "phone": "(954) 635-2676"
                     }
                 ]
-            },
-            {
-                "name": "Hialeah",
-                "link": "https://www.service-center-locator.com/huawei/florida/huawei-hialeah-florida.htm"
             },
             {
                 "name": "Jacksonville",
@@ -1047,39 +1171,7 @@
             },
             {
                 "name": "Orlando",
-                "link": "https://www.service-center-locator.com/huawei/florida/huawei-orlando-florida.htm",
-                "city": [
-                    {
-                        "serviceCenter": "iRepairNow | iPhone Repair and iPad R...",
-                        "address": "4104MilleniaBlvd#STE113,Orlando,FL32839",
-                        "phone": "(407) 512-6000"
-                    },
-                    {
-                        "serviceCenter": "Anywhere iPhone Repair",
-                        "address": "14730ClarksonDr,Orlando,FL32828",
-                        "phone": "(407) 272-6414"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Repair Center",
-                        "address": "1600ESilverStarRd,Ocoee,FL34761",
-                        "phone": "(407) 299-1744"
-                    },
-                    {
-                        "serviceCenter": "iSmart iPhone & iPad Repair Plus",
-                        "address": "3590NUsHighway17#92,LakeMary,FL32746",
-                        "phone": "(407) 442-3123"
-                    },
-                    {
-                        "serviceCenter": "Er Phone Repair Clinic",
-                        "address": "700WVineSt#STE102,Kissimmee,FL34741",
-                        "phone": "(407) 870-2420"
-                    },
-                    {
-                        "serviceCenter": "Anywhere iPhone Repair",
-                        "address": "(407)272-6414",
-                        "phone": ""
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/florida/huawei-orlando-florida.htm"
             },
             {
                 "name": "St. Petersburg",
@@ -1135,44 +1227,7 @@
             },
             {
                 "name": "Tampa",
-                "link": "https://www.service-center-locator.com/huawei/florida/huawei-tampa-florida.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Cell Phone Repair Center",
-                        "address": "1911EFowlerAve,Tampa,FL33612",
-                        "phone": "(813) 978-3525"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "17501PreserveWalkLn#STE104,Tampa,FL33647",
-                        "phone": "(813) 972-0585"
-                    },
-                    {
-                        "serviceCenter": "Cellular Phone Repair",
-                        "address": "1747DrewSt,Clearwater,FL33755",
-                        "phone": "(727) 210-3473"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "10500UlmertonRd#STE206,Largo,FL33771",
-                        "phone": "(727) 433-8277"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "147266thStN,SaintPetersburg,FL33710",
-                        "phone": "(727) 289-7065"
-                    },
-                    {
-                        "serviceCenter": "Matthew Hill's Phone Repair",
-                        "address": "35102StateRd54,Zephyrhills,FL33541",
-                        "phone": "(813) 997-4299"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "425SPinellasAve,TarponSprings,FL34689",
-                        "phone": "(727) 942-3777"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/florida/huawei-tampa-florida.htm"
             }
         ]
     },
@@ -1185,14 +1240,7 @@
             },
             {
                 "name": "Augusta",
-                "link": "https://www.service-center-locator.com/huawei/georgia/huawei-augusta-georgia.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Cellairis - Phone Repairs",
-                        "address": "3450 Wrightsboro Rd\n\t\t  Augusta, GA 30909",
-                        "phone": "(706) 736-1464"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/georgia/huawei-augusta-georgia.htm"
             },
             {
                 "name": "Columbus",
@@ -1342,7 +1390,11 @@
         "states": [
             {
                 "name": "Boise",
-                "link": "https://www.service-center-locator.com/huawei/idaho/huawei-boise-idaho.htm",
+                "link": "https://www.service-center-locator.com/huawei/idaho/huawei-boise-idaho.htm"
+            },
+            {
+                "name": "Nampa",
+                "link": "https://www.service-center-locator.com/huawei/idaho/huawei-nampa-idaho.htm",
                 "city": [
                     {
                         "serviceCenter": "Cell Me Cell Phones & Repair",
@@ -1350,10 +1402,6 @@
                         "phone": "(208) 343-0333"
                     }
                 ]
-            },
-            {
-                "name": "Nampa",
-                "link": "https://www.service-center-locator.com/huawei/idaho/huawei-nampa-idaho.htm"
             }
         ]
     },
@@ -1403,21 +1451,32 @@
             },
             {
                 "name": "Chicago",
-                "link": "https://www.service-center-locator.com/huawei/illinois/huawei-chicago-illinois.htm"
-            },
-            {
-                "name": "Joliet",
-                "link": "https://www.service-center-locator.com/huawei/illinois/huawei-joliet-illinois.htm",
+                "link": "https://www.service-center-locator.com/huawei/illinois/huawei-chicago-illinois.htm",
                 "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4007NDamenAve,Chicago,IL60618",
+                        "phone": "(773) 696-5950"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "7135CentralAve,Skokie,IL60077",
+                        "phone": "(847) 679-2772"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4516OaktonSt,Skokie,IL60076",
+                        "phone": "(847) 679-2772"
+                    },
                     {
                         "serviceCenter": "CPR-Cell Phone Repair",
                         "address": "15864SLnGrangeRd,OrlandPark,IL60462",
                         "phone": "(708) 349-2800"
                     },
                     {
-                        "serviceCenter": "Illinois Cell Phone Repair",
-                        "address": "4S100NRoute59,Naperville,IL60563",
-                        "phone": "(630) 536-8517"
+                        "serviceCenter": "Gadget MD- Cell Phone Repair",
+                        "address": "926WAlgonquinRd,ArlingtonHeights,IL60005",
+                        "phone": "(847) 818-1810"
                     },
                     {
                         "serviceCenter": "Fone Zone Cell Phone Repair & Accesso...",
@@ -1426,10 +1485,14 @@
                     },
                     {
                         "serviceCenter": "Illinois Cell Phone Repair",
-                        "address": "1450WMainSt,SaintCharles,IL60174",
-                        "phone": "(630) 945-3073"
+                        "address": "128WGolfRd,Schaumburg,IL60195",
+                        "phone": "(847) 519-0603"
                     }
                 ]
+            },
+            {
+                "name": "Joliet",
+                "link": "https://www.service-center-locator.com/huawei/illinois/huawei-joliet-illinois.htm"
             },
             {
                 "name": "Naperville",
@@ -1536,7 +1599,19 @@
         "states": [
             {
                 "name": "Evansville",
-                "link": "https://www.service-center-locator.com/huawei/indiana/huawei-evansville-indiana.htm"
+                "link": "https://www.service-center-locator.com/huawei/indiana/huawei-evansville-indiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Phone Shop",
+                        "address": "1635TriplettSt,Owensboro,KY42303",
+                        "phone": "(270) 686-7249"
+                    },
+                    {
+                        "serviceCenter": "The Phone Lady",
+                        "address": "2321HarrietLn,Owensboro,KY42303",
+                        "phone": "(270) 926-8866"
+                    }
+                ]
             },
             {
                 "name": "Fort Wayne",
@@ -1551,7 +1626,34 @@
             },
             {
                 "name": "Gary",
-                "link": "https://www.service-center-locator.com/huawei/indiana/huawei-gary-indiana.htm"
+                "link": "https://www.service-center-locator.com/huawei/indiana/huawei-gary-indiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Fone Zone Cell Phone Repair & Accesso...",
+                        "address": "8905IndianapolisBlvd,Highland,IN46322",
+                        "phone": "(219) 961-5896"
+                    },
+                    {
+                        "serviceCenter": "Northwest Communications, Inc.",
+                        "address": "8762LouisianaSt#STED,Merrillville,IN46410",
+                        "phone": "(219) 881-8980"
+                    },
+                    {
+                        "serviceCenter": "Sprint",
+                        "address": "1772E80thAve,Merrillville,IN46410",
+                        "phone": "(219) 200-3278"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "15864SLnGrangeRd,OrlandPark,IL60462",
+                        "phone": "(708) 349-2800"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4007NDamenAve,Chicago,IL60618",
+                        "phone": "(773) 696-5950"
+                    }
+                ]
             },
             {
                 "name": "Indianapolis",
@@ -1576,44 +1678,7 @@
             },
             {
                 "name": "South Bend",
-                "link": "https://www.service-center-locator.com/huawei/indiana/huawei-south-bend-indiana.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Genius Phone Repair",
-                        "address": "5339NMainSt,Mishawaka,IN46545",
-                        "phone": "(574) 855-3770"
-                    },
-                    {
-                        "serviceCenter": "At & T Business Phone Service",
-                        "address": "520EColfaxAve,SouthBend,IN46617",
-                        "phone": "(574) 208-6006"
-                    },
-                    {
-                        "serviceCenter": "Williams Communications Group",
-                        "address": "1140FranklinSt,SouthBend,IN46601",
-                        "phone": "(574) 289-0795"
-                    },
-                    {
-                        "serviceCenter": "Indiana Bell Comm Inc",
-                        "address": "307SMainSt,SouthBend,IN46601",
-                        "phone": "(574) 237-0562"
-                    },
-                    {
-                        "serviceCenter": "Elantic Telecom INC DIP",
-                        "address": "326WSSt,SouthBend,IN46601",
-                        "phone": "(574) 232-7494"
-                    },
-                    {
-                        "serviceCenter": "MCI Telecommunications",
-                        "address": "211WWashingtonSt,SouthBend,IN46601",
-                        "phone": "(574) 233-0765"
-                    },
-                    {
-                        "serviceCenter": "Hayes Charles S Inc",
-                        "address": "814MariettaSt,SouthBend,IN46601",
-                        "phone": "(574) 233-1296"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/indiana/huawei-south-bend-indiana.htm"
             }
         ]
     },
@@ -1622,14 +1687,7 @@
         "states": [
             {
                 "name": "Cedar Rapids",
-                "link": "https://www.service-center-locator.com/huawei/iowa/huawei-cedar-rapids-iowa.htm",
-                "city": [
-                    {
-                        "serviceCenter": "C R Cell Phone Repair",
-                        "address": "4444 1st Ave NE\n\t\t  Cedar Rapids, IA 52402",
-                        "phone": "(319) 393-9876"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/iowa/huawei-cedar-rapids-iowa.htm"
             },
             {
                 "name": "Davenport",
@@ -1717,7 +1775,44 @@
             },
             {
                 "name": "Waterloo",
-                "link": "https://www.service-center-locator.com/huawei/iowa/huawei-waterloo-iowa.htm"
+                "link": "https://www.service-center-locator.com/huawei/iowa/huawei-waterloo-iowa.htm",
+                "city": [
+                    {
+                        "serviceCenter": "First Class Cellular Repair",
+                        "address": "2226CollegeSt,CedarFalls,IA50613",
+                        "phone": "(319) 266-6792"
+                    },
+                    {
+                        "serviceCenter": "Primary Systems",
+                        "address": "1510FallsAve,Waterloo,IA50701",
+                        "phone": "(319) 291-6522"
+                    },
+                    {
+                        "serviceCenter": "New Century Communications",
+                        "address": "2101FallsAve,Waterloo,IA50701",
+                        "phone": "(319) 232-1999"
+                    },
+                    {
+                        "serviceCenter": "Mcleodusa",
+                        "address": "(319)433-1164",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "Schmitt Telecom Partners Inc",
+                        "address": "722WaterSt#STE400,Waterloo,IA50703",
+                        "phone": "(319) 232-3701"
+                    },
+                    {
+                        "serviceCenter": "Premier Wireless",
+                        "address": "2060CrossroadsBlvd#STE242,Waterloo,IA50702",
+                        "phone": "(319) 232-6441"
+                    },
+                    {
+                        "serviceCenter": "I Wireless",
+                        "address": "2181LoganAve,Waterloo,IA50703",
+                        "phone": "(319) 232-6578"
+                    }
+                ]
             }
         ]
     },
@@ -1726,7 +1821,14 @@
         "states": [
             {
                 "name": "Kansas City",
-                "link": "https://www.service-center-locator.com/huawei/kansas/huawei-kansas-city-kansas.htm"
+                "link": "https://www.service-center-locator.com/huawei/kansas/huawei-kansas-city-kansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Overland Park",
+                        "address": "13444 Metcalf Ave\n\t\t  Overland Park, KS 66213",
+                        "phone": "(913) 681-2355"
+                    }
+                ]
             },
             {
                 "name": "Lawrence",
@@ -1777,14 +1879,7 @@
             },
             {
                 "name": "Wichita",
-                "link": "https://www.service-center-locator.com/huawei/kansas/huawei-wichita-kansas.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Fix-iPhones.com",
-                        "address": "800 E Mount Vernon St\n\t\t  Wichita, KS 67211",
-                        "phone": "(888) 755-1115"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/kansas/huawei-wichita-kansas.htm"
             }
         ]
     },
@@ -1793,18 +1888,48 @@
         "states": [
             {
                 "name": "Bowling Green",
-                "link": "https://www.service-center-locator.com/huawei/kentucky/huawei-bowling-green-kentucky.htm"
+                "link": "https://www.service-center-locator.com/huawei/kentucky/huawei-bowling-green-kentucky.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Premier Payphone Service Inc",
+                        "address": "1313Us31wByp,BowlingGreen,KY42101",
+                        "phone": "(270) 845-6554"
+                    },
+                    {
+                        "serviceCenter": "Premier Payphone",
+                        "address": "2200StonehengeAve,BowlingGreen,KY42101",
+                        "phone": "(270) 843-9601"
+                    },
+                    {
+                        "serviceCenter": "Integrated Voip Communications",
+                        "address": "958CollettAve,BowlingGreen,KY42101",
+                        "phone": "(270) 799-7471"
+                    },
+                    {
+                        "serviceCenter": "ByteForce",
+                        "address": "1901RussellvilleRd,BowlingGreen,KY42101",
+                        "phone": "(270) 793-8400"
+                    },
+                    {
+                        "serviceCenter": "Insight Communications",
+                        "address": "515DoubleSpringsRd,BowlingGreen,KY42101",
+                        "phone": "(270) 782-0903"
+                    },
+                    {
+                        "serviceCenter": "Alan K Ward",
+                        "address": "1150StateSt,BowlingGreen,KY42101",
+                        "phone": "(270) 782-4860"
+                    },
+                    {
+                        "serviceCenter": "Little Brown Jug",
+                        "address": "404SWay,BowlingGreen,KY42101",
+                        "phone": "(270) 843-9258"
+                    }
+                ]
             },
             {
                 "name": "Covington",
-                "link": "https://www.service-center-locator.com/huawei/kentucky/huawei-covington-kentucky.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Genesis Cell Phone Accessories & Repair",
-                        "address": "400 Premium Outlets Dr Monroe Oh 45050- In Front Of J Crew\n\t\t  Monroe, OH 45050",
-                        "phone": "(513) 539-4607"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/kentucky/huawei-covington-kentucky.htm"
             },
             {
                 "name": "Lexington",
@@ -1819,34 +1944,7 @@
             },
             {
                 "name": "Louisville",
-                "link": "https://www.service-center-locator.com/huawei/kentucky/huawei-louisville-kentucky.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Cell Phone & Computer Hospital",
-                        "address": "960BaxterAve,Louisville,KY40204",
-                        "phone": "(502) 587-7657"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Doctor",
-                        "address": "10478ShelbyvilleRd,Louisville,KY40223",
-                        "phone": "(502) 253-4200"
-                    },
-                    {
-                        "serviceCenter": "Coin Phone Management Co",
-                        "address": "1846CargoCt,Louisville,KY40299",
-                        "phone": "(502) 499-5887"
-                    },
-                    {
-                        "serviceCenter": "All American Home Phone",
-                        "address": "(502)969-8299",
-                        "phone": ""
-                    },
-                    {
-                        "serviceCenter": "Phone & PC Army",
-                        "address": "1002BucknerCtr,laGrange,KY40031",
-                        "phone": "(502) 265-2070"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/kentucky/huawei-louisville-kentucky.htm"
             },
             {
                 "name": "Owensboro",
@@ -1863,14 +1961,7 @@
         "states": [
             {
                 "name": "Baton Rouge",
-                "link": "https://www.service-center-locator.com/huawei/louisiana/huawei-baton-rouge-louisiana.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Cell Phone Solutions",
-                        "address": "5723 Youree Dr\n\t\t  Shreveport, LA 71105",
-                        "phone": "(318) 670-3904"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/louisiana/huawei-baton-rouge-louisiana.htm"
             },
             {
                 "name": "Lafayette",
@@ -2014,38 +2105,22 @@
         "states": [
             {
                 "name": "Baltimore",
-                "link": "https://www.service-center-locator.com/huawei/maryland/huawei-baltimore-maryland.htm",
-                "city": [
-                    {
-                        "serviceCenter": "CPR Cell Phone Repair & Gadget Tech",
-                        "address": "9050BaltimoreNationalPike#STE103,EllicottCity,MD21042",
-                        "phone": "(410) 480-0277"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "4141MtnRd,Pasadena,MD21122",
-                        "phone": "(443) 305-2098"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "33MagothyBeachRd#STE104,Pasadena,MD21122",
-                        "phone": "(443) 305-2098"
-                    },
-                    {
-                        "serviceCenter": "My Cell Phone Repairs",
-                        "address": "7401BaltimoreAve,CollegePark,MD20740",
-                        "phone": "(301) 985-5111"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/maryland/huawei-baltimore-maryland.htm"
             },
             {
                 "name": "Columbia",
-                "link": "https://www.service-center-locator.com/huawei/maryland/huawei-columbia-maryland.htm"
-            },
-            {
-                "name": "Dundalk",
-                "link": "https://www.service-center-locator.com/huawei/maryland/huawei-dundalk-maryland.htm",
+                "link": "https://www.service-center-locator.com/huawei/maryland/huawei-columbia-maryland.htm",
                 "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair & Gadget Tech",
+                        "address": "9050BaltimoreNationalPike#STE103,EllicottCity,MD21042",
+                        "phone": "(410) 480-0277"
+                    },
+                    {
+                        "serviceCenter": "My Cell Phone Repairs",
+                        "address": "7401BaltimoreAve,CollegePark,MD20740",
+                        "phone": "(301) 985-5111"
+                    },
                     {
                         "serviceCenter": "CPR-Cell Phone Repair",
                         "address": "4141MtnRd,Pasadena,MD21122",
@@ -2057,20 +2132,66 @@
                         "phone": "(443) 305-2098"
                     },
                     {
-                        "serviceCenter": "CPR Cell Phone Repair & Gadget Tech",
-                        "address": "9050BaltimoreNationalPike#STE103,EllicottCity,MD21042",
-                        "phone": "(410) 480-0277"
+                        "serviceCenter": "Wigoclinc-Cell Phone Repair",
+                        "address": "2415WilsonBlvd,Arlington,VA22201",
+                        "phone": "(703) 243-6472"
                     },
                     {
-                        "serviceCenter": "My Cell Phone Repairs",
-                        "address": "7401BaltimoreAve,CollegePark,MD20740",
-                        "phone": "(301) 985-5111"
+                        "serviceCenter": "Zagg Phone Repair",
+                        "address": "1204GStNW,Washington,DC20005",
+                        "phone": "(202) 737-9244"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Technician",
+                        "address": "4557DukeSt,Alexandria,VA22304",
+                        "phone": "(703) 473-7247"
                     }
                 ]
             },
             {
+                "name": "Dundalk",
+                "link": "https://www.service-center-locator.com/huawei/maryland/huawei-dundalk-maryland.htm"
+            },
+            {
                 "name": "Silver Spring",
-                "link": "https://www.service-center-locator.com/huawei/maryland/huawei-silver-spring-maryland.htm"
+                "link": "https://www.service-center-locator.com/huawei/maryland/huawei-silver-spring-maryland.htm",
+                "city": [
+                    {
+                        "serviceCenter": "My Cell Phone Repairs",
+                        "address": "7401BaltimoreAve,CollegePark,MD20740",
+                        "phone": "(301) 985-5111"
+                    },
+                    {
+                        "serviceCenter": "Zagg Phone Repair",
+                        "address": "1204GStNW,Washington,DC20005",
+                        "phone": "(202) 737-9244"
+                    },
+                    {
+                        "serviceCenter": "Wigoclinc-Cell Phone Repair",
+                        "address": "2415WilsonBlvd,Arlington,VA22201",
+                        "phone": "(703) 243-6472"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Technician",
+                        "address": "4557DukeSt,Alexandria,VA22304",
+                        "phone": "(703) 473-7247"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair & Gadget Tech",
+                        "address": "9050BaltimoreNationalPike#STE103,EllicottCity,MD21042",
+                        "phone": "(410) 696-5005"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4141MtnRd,Pasadena,MD21122",
+                        "phone": "(443) 305-2098"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "33MagothyBeachRd#STE104,Pasadena,MD21122",
+                        "phone": "(443) 305-2098"
+                    }
+                ]
             }
         ]
     },
@@ -2094,11 +2215,25 @@
             },
             {
                 "name": "Cambridge",
-                "link": "https://www.service-center-locator.com/huawei/massachusetts/huawei-cambridge-massachusetts.htm"
+                "link": "https://www.service-center-locator.com/huawei/massachusetts/huawei-cambridge-massachusetts.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Boston iPhone Repair",
+                        "address": "1208 Massachusetts Ave #STE 5\n\t\t  Cambridge, MA 02138",
+                        "phone": "(617) 771-7875"
+                    }
+                ]
             },
             {
                 "name": "Lowell",
-                "link": "https://www.service-center-locator.com/huawei/massachusetts/huawei-lowell-massachusetts.htm"
+                "link": "https://www.service-center-locator.com/huawei/massachusetts/huawei-lowell-massachusetts.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Boston iPhone Repair",
+                        "address": "1208 Massachusetts Ave #STE 5\n\t\t  Cambridge, MA 02138",
+                        "phone": "(617) 771-7875"
+                    }
+                ]
             },
             {
                 "name": "Springfield",
@@ -2173,64 +2308,42 @@
             },
             {
                 "name": "Detroit",
-                "link": "https://www.service-center-locator.com/huawei/michigan/huawei-detroit-michigan.htm"
+                "link": "https://www.service-center-locator.com/huawei/michigan/huawei-detroit-michigan.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Wireless Geeks Phone Repair Center",
+                        "address": "28707DequindreRd,MadisonHeights,MI48071",
+                        "phone": "(248) 397-8225"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair BlueDot",
+                        "address": "35830VanDykeAve,SterlingHeights,MI48312",
+                        "phone": "(586) 689-2030"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "13961HallRd,ShelbyTownship,MI48315",
+                        "phone": "(586) 580-3124"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair -  Shelbytownship",
+                        "address": "55118VanDykeAve,ShelbyTownship,MI48316",
+                        "phone": "(586) 207-1801"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair Chesterfield",
+                        "address": "49668GratiotAve,Chesterfield,MI48051",
+                        "phone": "(586) 846-4387"
+                    }
+                ]
             },
             {
                 "name": "Flint",
-                "link": "https://www.service-center-locator.com/huawei/michigan/huawei-flint-michigan.htm",
-                "city": [
-                    {
-                        "serviceCenter": "World Wide Pager & Phone",
-                        "address": "1701NDortHwy,Flint,MI48506",
-                        "phone": "(810) 232-4000"
-                    },
-                    {
-                        "serviceCenter": "Phone-Craft",
-                        "address": "3700PoliRd,Ortonville,MI48462",
-                        "phone": "(248) 627-2772"
-                    },
-                    {
-                        "serviceCenter": "Phone Man",
-                        "address": "3075EGrandRiverAve#STE115,Howell,MI48843",
-                        "phone": "(517) 545-8322"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/michigan/huawei-flint-michigan.htm"
             },
             {
                 "name": "Grand Rapids",
-                "link": "https://www.service-center-locator.com/huawei/michigan/huawei-grand-rapids-michigan.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Genius Phone Repair",
-                        "address": "2090CelebrationDrNE,GrandRapids,MI49525",
-                        "phone": "(616) 551-3082"
-                    },
-                    {
-                        "serviceCenter": "Genius Phone Repair",
-                        "address": "2700KraftAveSE,GrandRapids,MI49546",
-                        "phone": "(616) 285-1900"
-                    },
-                    {
-                        "serviceCenter": "Gadget Pro Phone Repair",
-                        "address": "86528thStSE#STE600,GrandRapids,MI49508",
-                        "phone": "(616) 226-6940"
-                    },
-                    {
-                        "serviceCenter": "Genius Phone Repair",
-                        "address": "2747EBeltlineAveSE,GrandRapids,MI49546",
-                        "phone": "(616) 226-2636"
-                    },
-                    {
-                        "serviceCenter": "Genius Phone Repair",
-                        "address": "399044thStSE,GrandRapids,MI49512",
-                        "phone": "(616) 419-4810"
-                    },
-                    {
-                        "serviceCenter": "Genius Phone Repair",
-                        "address": "6050KalamazooAveSE,GrandRapids,MI49508",
-                        "phone": "(616) 818-1948"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/michigan/huawei-grand-rapids-michigan.htm"
             },
             {
                 "name": "Lansing",
@@ -2281,7 +2394,39 @@
             },
             {
                 "name": "Warren",
-                "link": "https://www.service-center-locator.com/huawei/michigan/huawei-warren-michigan.htm"
+                "link": "https://www.service-center-locator.com/huawei/michigan/huawei-warren-michigan.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iPhone Repair BlueDot",
+                        "address": "35830VanDykeAve,SterlingHeights,MI48312",
+                        "phone": "(586) 689-2030"
+                    },
+                    {
+                        "serviceCenter": "Wireless Geeks Phone Repair Center",
+                        "address": "28707DequindreRd,MadisonHeights,MI48071",
+                        "phone": "(248) 397-8225"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "13961HallRd,ShelbyTownship,MI48315",
+                        "phone": "(586) 580-3124"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair -  Shelbytownship",
+                        "address": "55118VanDykeAve,ShelbyTownship,MI48316",
+                        "phone": "(586) 207-1801"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair Chesterfield",
+                        "address": "49668GratiotAve,Chesterfield,MI48051",
+                        "phone": "(586) 846-4387"
+                    },
+                    {
+                        "serviceCenter": "B&W Phone Line Repair and Installation",
+                        "address": "(586)918-0256",
+                        "phone": ""
+                    }
+                ]
             }
         ]
     },
@@ -2290,44 +2435,7 @@
         "states": [
             {
                 "name": "Duluth",
-                "link": "https://www.service-center-locator.com/huawei/minnesota/huawei-duluth-minnesota.htm",
-                "city": [
-                    {
-                        "serviceCenter": "iLF Smart Phone Clinic",
-                        "address": "1709LondonRd,Duluth,MN55806",
-                        "phone": "(218) 975-7359"
-                    },
-                    {
-                        "serviceCenter": "Enventis Telecom Inc",
-                        "address": "21WSuperiorSt#STE200,Duluth,MN55802",
-                        "phone": "(218) 740-6111"
-                    },
-                    {
-                        "serviceCenter": "Telcologix",
-                        "address": "209W1stSt,Duluth,MN55802",
-                        "phone": "(218) 625-2333"
-                    },
-                    {
-                        "serviceCenter": "Twin Ports Telephone",
-                        "address": "130WSuperiorSt50,Duluth,MN55802",
-                        "phone": "(218) 727-3333"
-                    },
-                    {
-                        "serviceCenter": "Superior Power Systems",
-                        "address": "130WSuperiorSt#STE50,Duluth,MN55802",
-                        "phone": "(218) 525-9343"
-                    },
-                    {
-                        "serviceCenter": "Intrado",
-                        "address": "322W1stSt,Duluth,MN55802",
-                        "phone": "(218) 727-3002"
-                    },
-                    {
-                        "serviceCenter": "Telephone Associates Inc",
-                        "address": "412WSuperiorSt,Duluth,MN55802",
-                        "phone": "(218) 733-0607"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/minnesota/huawei-duluth-minnesota.htm"
             },
             {
                 "name": "Minneapolis",
@@ -2393,28 +2501,18 @@
             },
             {
                 "name": "Gulfport",
-                "link": "https://www.service-center-locator.com/huawei/mississipi/huawei-gulfport-mississipi.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Mcc Phone Center",
-                        "address": "812PhantomSt,Biloxi,MS39534",
-                        "phone": "(228) 435-4100"
-                    },
-                    {
-                        "serviceCenter": "The Phone Store & More",
-                        "address": "301FifthAveW,Wiggins,MS39577",
-                        "phone": "(601) 928-3577"
-                    },
-                    {
-                        "serviceCenter": "Phones Quick",
-                        "address": "(228)867-2552",
-                        "phone": ""
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/mississipi/huawei-gulfport-mississipi.htm"
             },
             {
                 "name": "Biloxi",
-                "link": "https://www.service-center-locator.com/huawei/mississipi/huawei-hattiesburg-mississipi.htm"
+                "link": "https://www.service-center-locator.com/huawei/mississipi/huawei-hattiesburg-mississipi.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR (Cell Phone Repair)",
+                        "address": "24 Cross Creek Pkwy #STE 120\n\t\t  Hattiesburg, MS 39402",
+                        "phone": "(601) 255-5332"
+                    }
+                ]
             },
             {
                 "name": "Jackson",
@@ -2554,7 +2652,44 @@
         "states": [
             {
                 "name": "Billings",
-                "link": "https://www.service-center-locator.com/huawei/montana/huawei-billings-montana.htm"
+                "link": "https://www.service-center-locator.com/huawei/montana/huawei-billings-montana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Daryl's Phone & Data Service",
+                        "address": "8655ApplegateDr,Helena,MT59602",
+                        "phone": "(406) 458-8840"
+                    },
+                    {
+                        "serviceCenter": "Mybullfrog.com - Premium Verizon Reta...",
+                        "address": "HelenaCityPlz142911thAve,Helena,MT59601",
+                        "phone": "(406) 457-7394"
+                    },
+                    {
+                        "serviceCenter": "Aircell",
+                        "address": "915ArgyleSt,Helena,MT59601",
+                        "phone": "(406) 442-2735"
+                    },
+                    {
+                        "serviceCenter": "Connect Telephone & Computer Group",
+                        "address": "1425HelenaAve,Helena,MT59601",
+                        "phone": "(406) 324-7160"
+                    },
+                    {
+                        "serviceCenter": "Nationwide Telecom",
+                        "address": "820NSandersSt,Helena,MT59601",
+                        "phone": "(406) 437-9094"
+                    },
+                    {
+                        "serviceCenter": "Northwest Telecom The Connect Group",
+                        "address": "(406)442-8031",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "North American Telecom, Inc.",
+                        "address": "(888)510-8732",
+                        "phone": "NAT-CES@msn.com"
+                    }
+                ]
             },
             {
                 "name": "Bozeman",
@@ -2562,7 +2697,44 @@
             },
             {
                 "name": "Butte",
-                "link": "https://www.service-center-locator.com/huawei/montana/huawei-butte-montana.htm"
+                "link": "https://www.service-center-locator.com/huawei/montana/huawei-butte-montana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Rogers Telephone & Repair",
+                        "address": "64RubyRd,SilverStar,MT59751",
+                        "phone": "(406) 842-5859"
+                    },
+                    {
+                        "serviceCenter": "AT&T",
+                        "address": "1307HarrisonAve,Butte,MT59701",
+                        "phone": "(406) 782-9411"
+                    },
+                    {
+                        "serviceCenter": "North American Telecom, Inc.",
+                        "address": "(888)510-8732",
+                        "phone": "NAT-CES@msn.com"
+                    },
+                    {
+                        "serviceCenter": "BandTel LLC",
+                        "address": "(800)730-2870",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "AT&T Store",
+                        "address": "1500HarrisonAveStop1,Butte,MT59701",
+                        "phone": "(406) 723-2221"
+                    },
+                    {
+                        "serviceCenter": "Charter Business",
+                        "address": "201EFrontSt,Butte,MT59701",
+                        "phone": "(866) 200-6409"
+                    },
+                    {
+                        "serviceCenter": "At&T",
+                        "address": "3332HarrisonAve,Butte,MT59701",
+                        "phone": "(406) 522-9950"
+                    }
+                ]
             },
             {
                 "name": "Great Falls",
@@ -2581,14 +2753,7 @@
             },
             {
                 "name": "Missoula",
-                "link": "https://www.service-center-locator.com/huawei/montana/huawei-missoula-montana.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Missoula Cell Phone Repair",
-                        "address": "3511 Brooks St\n\t\t  Missoula, MT 59801",
-                        "phone": "(406) 549-1122"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/montana/huawei-missoula-montana.htm"
             }
         ]
     },
@@ -2597,55 +2762,11 @@
         "states": [
             {
                 "name": "Bellevue",
-                "link": "https://www.service-center-locator.com/huawei/nebraska/huawei-bellevue-nebraska.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "5101S24thSt,Omaha,NE68107",
-                        "phone": "(402) 934-8020"
-                    },
-                    {
-                        "serviceCenter": "Instant Phones",
-                        "address": "5055S108thStA,Omaha,NE68137",
-                        "phone": "(402) 915-0219"
-                    },
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "7204BlondoSt,Omaha,NE68134",
-                        "phone": "(402) 255-0034"
-                    },
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "5444CtrSt,Omaha,NE68106",
-                        "phone": "(402) 556-7545"
-                    },
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "202S73rdSt,Omaha,NE68114",
-                        "phone": "(402) 399-5377"
-                    },
-                    {
-                        "serviceCenter": "Cricket Instant Phones",
-                        "address": "4507N72ndSt,Omaha,NE68134",
-                        "phone": "(402) 502-7326"
-                    },
-                    {
-                        "serviceCenter": "Phones Plus",
-                        "address": "13366WMapleRd,Omaha,NE68164",
-                        "phone": "(402) 829-0220"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/nebraska/huawei-bellevue-nebraska.htm"
             },
             {
                 "name": "Grand Island",
-                "link": "https://www.service-center-locator.com/huawei/nebraska/huawei-grand-island-nebraska.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Mid America Pay Phones",
-                        "address": "1408 W John St\n\t\t  Grand Island, NE 68801",
-                        "phone": "(308) 382-9265"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/nebraska/huawei-grand-island-nebraska.htm"
             },
             {
                 "name": "Lincoln",
@@ -2665,44 +2786,7 @@
             },
             {
                 "name": "Omaha",
-                "link": "https://www.service-center-locator.com/huawei/nebraska/huawei-omaha-nebraska.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "5444CtrSt,Omaha,NE68106",
-                        "phone": "(402) 556-7545"
-                    },
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "7204BlondoSt,Omaha,NE68134",
-                        "phone": "(402) 255-0034"
-                    },
-                    {
-                        "serviceCenter": "Cricket Instant Phones",
-                        "address": "4507N72ndSt,Omaha,NE68134",
-                        "phone": "(402) 502-7326"
-                    },
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "5101S24thSt,Omaha,NE68107",
-                        "phone": "(402) 934-8020"
-                    },
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "8928MapleSt,Omaha,NE68134",
-                        "phone": "(402) 399-9999"
-                    },
-                    {
-                        "serviceCenter": "Tobacco & Phones 4 Less",
-                        "address": "202S73rdSt,Omaha,NE68114",
-                        "phone": "(402) 399-5377"
-                    },
-                    {
-                        "serviceCenter": "Instant Phones",
-                        "address": "2829N90thSt,Omaha,NE68134",
-                        "phone": "(402) 614-0300"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/nebraska/huawei-omaha-nebraska.htm"
             }
         ]
     },
@@ -2711,24 +2795,7 @@
         "states": [
             {
                 "name": "Henderson",
-                "link": "https://www.service-center-locator.com/huawei/nevada/huawei-henderson-nevada.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Henderson Phone Repair",
-                        "address": "2642WHorizonRidgePkwyA7,Henderson,NV89052",
-                        "phone": "(702) 878-5757"
-                    },
-                    {
-                        "serviceCenter": "Las Vegas iPhone Repair",
-                        "address": "3111SValleyViewBlvd,LasVegas,NV89102",
-                        "phone": "(702) 257-2122"
-                    },
-                    {
-                        "serviceCenter": "Telli's Phone Repair",
-                        "address": "3655SDurangoDr#STE15,LasVegas,NV89147",
-                        "phone": "(702) 778-0585"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/nevada/huawei-henderson-nevada.htm"
             },
             {
                 "name": "Las Vegas",
@@ -2753,23 +2820,18 @@
             },
             {
                 "name": "North Las Vegas",
-                "link": "https://www.service-center-locator.com/huawei/nevada/huawei-north-las-vegas-nevada.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Las Vegas iPhone Repair",
-                        "address": "3111SValleyViewBlvd,LasVegas,NV89102",
-                        "phone": "(702) 257-2122"
-                    },
-                    {
-                        "serviceCenter": "Telli's Phone Repair",
-                        "address": "3655SDurangoDr#STE15,LasVegas,NV89147",
-                        "phone": "(702) 778-0585"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/nevada/huawei-north-las-vegas-nevada.htm"
             },
             {
                 "name": "Reno",
-                "link": "https://www.service-center-locator.com/huawei/nevada/huawei-reno-nevada.htm"
+                "link": "https://www.service-center-locator.com/huawei/nevada/huawei-reno-nevada.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Elko Smart Screen        I Phone Scre...",
+                        "address": "783 Spring Valley Pkwy\n\t\t  Spring Creek, NV 89815",
+                        "phone": "(775) 299-2868"
+                    }
+                ]
             }
         ]
     },
@@ -2782,70 +2844,11 @@
             },
             {
                 "name": "Derry",
-                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-derry-new-hampshire.htm",
-                "city": [
-                    {
-                        "serviceCenter": "King of Cell Phones",
-                        "address": "248Broadway,Lawrence,MA01840",
-                        "phone": "(978) 258-4830"
-                    },
-                    {
-                        "serviceCenter": "Wincrest Phone",
-                        "address": "14WinshipDr,Wakefield,MA01880",
-                        "phone": "(781) 587-0179"
-                    },
-                    {
-                        "serviceCenter": "Phone Depot",
-                        "address": "100CummingsCtr104q,Beverly,MA01915",
-                        "phone": "(978) 927-3569"
-                    },
-                    {
-                        "serviceCenter": "Phone Depot",
-                        "address": "34CabotSt,Beverly,MA01915",
-                        "phone": "(978) 921-7100"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-derry-new-hampshire.htm"
             },
             {
                 "name": "Dover",
-                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-dover-new-hampshire.htm",
-                "city": [
-                    {
-                        "serviceCenter": "American Business Service Corp",
-                        "address": "35MitchellRd,Lee,NH03861",
-                        "phone": "(603) 659-2912"
-                    },
-                    {
-                        "serviceCenter": "Portsmouth VoIP Phone Service Providers",
-                        "address": "201GriffinRd7,Portsmouth,NH03801",
-                        "phone": "(603) 294-4093"
-                    },
-                    {
-                        "serviceCenter": "Arrow Phone Co",
-                        "address": "600LafayetteRd,Portsmouth,NH03801",
-                        "phone": "(603) 431-9864"
-                    },
-                    {
-                        "serviceCenter": "GWI Phone Internet & Beyond",
-                        "address": "8PomerleauSt,Biddeford,ME04005",
-                        "phone": "(866) 494-2020"
-                    },
-                    {
-                        "serviceCenter": "Verizon Wireless Retailer, Cellular S...",
-                        "address": "20WeeksLn,Dover,NH03820",
-                        "phone": "(603) 842-5192"
-                    },
-                    {
-                        "serviceCenter": "Custom Wireless",
-                        "address": "50FoxRunRd,Newington,NH03801",
-                        "phone": "(603) 431-9000"
-                    },
-                    {
-                        "serviceCenter": "Maya's Accessories",
-                        "address": "50FoxRunRd,Newington,NH03801",
-                        "phone": "(603) 431-4301"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-dover-new-hampshire.htm"
             },
             {
                 "name": "Hudson",
@@ -2853,18 +2856,28 @@
             },
             {
                 "name": "Londonderry",
-                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-londonderry-new-hampshire.htm"
-            },
-            {
-                "name": "Manchester",
-                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-manchester-new-hampshire.htm",
+                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-londonderry-new-hampshire.htm",
                 "city": [
                     {
                         "serviceCenter": "King of Cell Phones",
-                        "address": "248 Broadway\n\t\t  Lawrence, MA 01840",
+                        "address": "248Broadway,Lawrence,MA01840",
                         "phone": "(978) 258-4830"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Herapy",
+                        "address": "431ElectricAve,Lunenburg,MA01462",
+                        "phone": "(978) 343-7800"
+                    },
+                    {
+                        "serviceCenter": "Wincrest Phone",
+                        "address": "14WinshipDr,Wakefield,MA01880",
+                        "phone": "(781) 587-0179"
                     }
                 ]
+            },
+            {
+                "name": "Manchester",
+                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-manchester-new-hampshire.htm"
             },
             {
                 "name": "Merrimack",
@@ -2883,44 +2896,7 @@
             },
             {
                 "name": "Rochester",
-                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-rochester-new-hampshire.htm",
-                "city": [
-                    {
-                        "serviceCenter": "American Business Service Corp",
-                        "address": "35MitchellRd,Lee,NH03861",
-                        "phone": "(603) 659-2912"
-                    },
-                    {
-                        "serviceCenter": "Portsmouth VoIP Phone Service Providers",
-                        "address": "201GriffinRd7,Portsmouth,NH03801",
-                        "phone": "(603) 294-4093"
-                    },
-                    {
-                        "serviceCenter": "Arrow Phone Co",
-                        "address": "600LafayetteRd,Portsmouth,NH03801",
-                        "phone": "(603) 431-9864"
-                    },
-                    {
-                        "serviceCenter": "GWI Phone Internet & Beyond",
-                        "address": "8PomerleauSt,Biddeford,ME04005",
-                        "phone": "(866) 494-2020"
-                    },
-                    {
-                        "serviceCenter": "Northern New England Phone",
-                        "address": "6OldPrescottHillRd,Belmont,NH03220",
-                        "phone": "(603) 528-7202"
-                    },
-                    {
-                        "serviceCenter": "Prime Communications LLC - Digital Ph...",
-                        "address": "21IrvingSt,Laconia,NH03246",
-                        "phone": "(603) 273-4151"
-                    },
-                    {
-                        "serviceCenter": "One Second Computers & Comm",
-                        "address": "299NMainSt,Rochester,NH03867",
-                        "phone": "(603) 332-3777"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-hampshire/huawei-rochester-new-hampshire.htm"
             },
             {
                 "name": "Salem",
@@ -2962,11 +2938,55 @@
             },
             {
                 "name": "Camden",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-camden-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-camden-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "6851MarshallRd,UpperDarby,PA19082",
+                        "phone": "(215) 310-0143"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "5536N5thSt,Philadelphia,PA19120",
+                        "phone": "(215) 609-4515"
+                    },
+                    {
+                        "serviceCenter": "Abington Phone Repair",
+                        "address": "1751OldYorkRd,Abington,PA19001",
+                        "phone": "(215) 800-7545"
+                    },
+                    {
+                        "serviceCenter": "BuySellRepairs- iPhone iPad & iPod Re...",
+                        "address": "2300ELincolnHwy,Langhorne,PA19047",
+                        "phone": "(215) 550-5066"
+                    },
+                    {
+                        "serviceCenter": "Family Cell Phone Repairs",
+                        "address": "1802ChambersSt,Trenton,NJ08610",
+                        "phone": "(609) 392-7160"
+                    }
+                ]
             },
             {
                 "name": "Cape May",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-cape-may-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-cape-may-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Phone Center",
+                        "address": "2904Boardwalk,Wildwood,NJ08260",
+                        "phone": "(609) 849-9955"
+                    },
+                    {
+                        "serviceCenter": "M A B I Phones Communication",
+                        "address": "416BuckSt,Millville,NJ08332",
+                        "phone": "(856) 825-5004"
+                    },
+                    {
+                        "serviceCenter": "Wizard Phone Installation",
+                        "address": "28701ScreenhouseLn,Millsboro,DE19966",
+                        "phone": "(302) 934-6681"
+                    }
+                ]
             },
             {
                 "name": "Elizabeth",
@@ -3011,7 +3031,29 @@
             },
             {
                 "name": "Flemington",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-flemington-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-flemington-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "BuySellRepairs- iPhone iPad & iPod Re...",
+                        "address": "2300ELincolnHwy,Langhorne,PA19047",
+                        "phone": "(215) 550-5066"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of Edison NJ",
+                        "address": "1090AmboyAve,Edison,NJ08837",
+                        "phone": "(732) 902-6268"
+                    },
+                    {
+                        "serviceCenter": "Family Cell Phone Repairs",
+                        "address": "1802ChambersSt,Trenton,NJ08610",
+                        "phone": "(609) 392-7160"
+                    },
+                    {
+                        "serviceCenter": "Abington Phone Repair",
+                        "address": "1751OldYorkRd,Abington,PA19001",
+                        "phone": "(215) 800-7545"
+                    }
+                ]
             },
             {
                 "name": "Freehold Borough",
@@ -3101,48 +3143,23 @@
             },
             {
                 "name": "Mays Landing",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-mays-landing-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-mays-landing-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "M A B I Phones Communication",
+                        "address": "416BuckSt,Millville,NJ08332",
+                        "phone": "(856) 825-5004"
+                    },
+                    {
+                        "serviceCenter": "Phone Center",
+                        "address": "2904Boardwalk,Wildwood,NJ08260",
+                        "phone": "(609) 849-9955"
+                    }
+                ]
             },
             {
                 "name": "Morristown",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-morristown-new-jersey.htm",
-                "city": [
-                    {
-                        "serviceCenter": "iPhone Repair New Jersey - Jersey Cit...",
-                        "address": "416CentralAve,JerseyCity,NJ07307",
-                        "phone": "(201) 839-5914"
-                    },
-                    {
-                        "serviceCenter": "iPhone Repair of New Jersey",
-                        "address": "930NewarkAve,JerseyCity,NJ07306",
-                        "phone": "(201) 435-2874"
-                    },
-                    {
-                        "serviceCenter": "iPhone Repair of Edison NJ",
-                        "address": "1090AmboyAve,Edison,NJ08837",
-                        "phone": "(732) 902-6268"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone & Ipad Repair",
-                        "address": "428CentralAve,JerseyCity,NJ07307",
-                        "phone": "(201) 721-5620"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "360W36thSt,NewYork,NY10018",
-                        "phone": "(212) 673-8400"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "110E13thSt,NewYork,NY10003",
-                        "phone": "(212) 673-8400"
-                    },
-                    {
-                        "serviceCenter": "Huayu Cell Phone Repair",
-                        "address": "56EBroadway,NewYork,NY10002",
-                        "phone": "(212) 343-0666"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-morristown-new-jersey.htm"
             },
             {
                 "name": "Mount Holly",
@@ -3182,44 +3199,7 @@
             },
             {
                 "name": "Newark",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-newark-new-jersey.htm",
-                "city": [
-                    {
-                        "serviceCenter": "iPhone Repair New Jersey - Jersey Cit...",
-                        "address": "416CentralAve,JerseyCity,NJ07307",
-                        "phone": "(201) 839-5914"
-                    },
-                    {
-                        "serviceCenter": "iPhone Repair of New Jersey",
-                        "address": "930NewarkAve,JerseyCity,NJ07306",
-                        "phone": "(201) 435-2874"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone & Ipad Repair",
-                        "address": "428CentralAve,JerseyCity,NJ07307",
-                        "phone": "(201) 721-5620"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "360W36thSt,NewYork,NY10018",
-                        "phone": "(212) 673-8400"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "110E13thSt,NewYork,NY10003",
-                        "phone": "(212) 673-8400"
-                    },
-                    {
-                        "serviceCenter": "Huayu Cell Phone Repair",
-                        "address": "56EBroadway,NewYork,NY10002",
-                        "phone": "(212) 343-0666"
-                    },
-                    {
-                        "serviceCenter": "Cities Cell iPhone Repair",
-                        "address": "552AtlanticAve,Brooklyn,NY11217",
-                        "phone": "(718) 502-9769"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-newark-new-jersey.htm"
             },
             {
                 "name": "New Brunswick",
@@ -3264,43 +3244,48 @@
             },
             {
                 "name": "Newton",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-newton-new-jersey.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Phones Are Us",
-                        "address": "140StateRoute10#STE18,Randolph,NJ07869",
-                        "phone": "(973) 537-9911"
-                    },
-                    {
-                        "serviceCenter": "Phones For You",
-                        "address": "25KinnelonRd,Kinnelon,NJ07405",
-                        "phone": "(973) 283-4488"
-                    },
-                    {
-                        "serviceCenter": "Phone Booth",
-                        "address": "344StroudMallRd#STE454,Stroudsburg,PA18360",
-                        "phone": "(570) 517-7007"
-                    },
-                    {
-                        "serviceCenter": "ABC Phones",
-                        "address": "620PennsylvaniaAve,Bangor,PA18013",
-                        "phone": "(610) 863-8677"
-                    },
-                    {
-                        "serviceCenter": "Phone Store Reality Of Nj",
-                        "address": "640ShunpikeRd,Chatham,NJ07928",
-                        "phone": "(973) 377-2396"
-                    },
-                    {
-                        "serviceCenter": "Phones for You",
-                        "address": "WillowBrookShoppingCtr,Wayne,NJ07470",
-                        "phone": "(973) 837-9595"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-newton-new-jersey.htm"
             },
             {
                 "name": "Paterson",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-paterson-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-paterson-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iPhone Repair New Jersey - Jersey Cit...",
+                        "address": "416CentralAve,JerseyCity,NJ07307",
+                        "phone": "(201) 839-5914"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "930NewarkAve,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "360W36thSt,NewYork,NY10018",
+                        "phone": "(212) 673-8400"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "211WRoute59,Nanuet,NY10954",
+                        "phone": "(845) 507-0809"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "110E13thSt,NewYork,NY10003",
+                        "phone": "(212) 673-8400"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone & Ipad Repair",
+                        "address": "428CentralAve,JerseyCity,NJ07307",
+                        "phone": "(201) 721-5620"
+                    },
+                    {
+                        "serviceCenter": "Huayu Cell Phone Repair",
+                        "address": "56EBroadway,NewYork,NY10002",
+                        "phone": "(212) 343-0666"
+                    }
+                ]
             },
             {
                 "name": "Salem",
@@ -3381,34 +3366,7 @@
             },
             {
                 "name": "Woodbury",
-                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-woodbury-new-jersey.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Eazy Computers & iPhone Repair",
-                        "address": "6851MarshallRd,UpperDarby,PA19082",
-                        "phone": "(215) 310-0143"
-                    },
-                    {
-                        "serviceCenter": "Eazy Computers & iPhone Repair",
-                        "address": "5536N5thSt,Philadelphia,PA19120",
-                        "phone": "(215) 609-4515"
-                    },
-                    {
-                        "serviceCenter": "Abington Phone Repair",
-                        "address": "1751OldYorkRd,Abington,PA19001",
-                        "phone": "(215) 800-7545"
-                    },
-                    {
-                        "serviceCenter": "BuySellRepairs- iPhone iPad & iPod Re...",
-                        "address": "2300ELincolnHwy,Langhorne,PA19047",
-                        "phone": "(215) 550-5066"
-                    },
-                    {
-                        "serviceCenter": "Family Cell Phone Repairs",
-                        "address": "1802ChambersSt,Trenton,NJ08610",
-                        "phone": "(609) 392-7160"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-jersey/huawei-woodbury-new-jersey.htm"
             }
         ]
     },
@@ -3417,14 +3375,7 @@
         "states": [
             {
                 "name": "Albuquerque",
-                "link": "https://www.service-center-locator.com/huawei/new-messico/huawei-albuquerque-new-messico.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Fullbars Cell Phone Repair",
-                        "address": "6200 Coors Blvd NW\n\t\t  Albuquerque, NM 87120",
-                        "phone": "(505) 897-1605"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-messico/huawei-albuquerque-new-messico.htm"
             },
             {
                 "name": "Farmington",
@@ -3439,19 +3390,7 @@
             },
             {
                 "name": "Las Cruces",
-                "link": "https://www.service-center-locator.com/huawei/new-messico/huawei-las-cruces-new-messico.htm",
-                "city": [
-                    {
-                        "serviceCenter": "A Cell Phone Repair Shop",
-                        "address": "2201NMainSt,LasCruces,NM88001",
-                        "phone": "(575) 386-6281"
-                    },
-                    {
-                        "serviceCenter": "A Cell Phone Repair Shop",
-                        "address": "1021SSolanoDr,LasCruces,NM88001",
-                        "phone": "(575) 621-1922"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/new-messico/huawei-las-cruces-new-messico.htm"
             },
             {
                 "name": "Rio Rancho",
@@ -3507,7 +3446,14 @@
             },
             {
                 "name": "Santa Fe",
-                "link": "https://www.service-center-locator.com/huawei/new-messico/huawei-santa-fe-new-messico.htm"
+                "link": "https://www.service-center-locator.com/huawei/new-messico/huawei-santa-fe-new-messico.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Phones Plus",
+                        "address": "1915 Cerrillos Rd\n\t\t  Santa Fe, NM 87505",
+                        "phone": "(505) 474-0828"
+                    }
+                ]
             }
         ]
     },
@@ -3557,7 +3503,44 @@
             },
             {
                 "name": "Brooklyn",
-                "link": "https://www.service-center-locator.com/huawei/new-york/huawei-brooklyn-new-york.htm"
+                "link": "https://www.service-center-locator.com/huawei/new-york/huawei-brooklyn-new-york.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "224BAlanticAve,Brooklyn,NY11201",
+                        "phone": "(347) 763-1525"
+                    },
+                    {
+                        "serviceCenter": "Cities Cell iPhone Repair",
+                        "address": "552AtlanticAve,Brooklyn,NY11217",
+                        "phone": "(718) 502-9769"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1732SheepsheadBayRd,Brooklyn,NY11235",
+                        "phone": "(347) 462-1033"
+                    },
+                    {
+                        "serviceCenter": "Global Phone Repair",
+                        "address": "462OceanPkwy,Brooklyn,NY11218",
+                        "phone": "(347) 627-2290"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair",
+                        "address": "9316AveL,Brooklyn,NY11236",
+                        "phone": "(718) 407-0780"
+                    },
+                    {
+                        "serviceCenter": "Huayu Cell Phone Repair",
+                        "address": "56EBroadway,NewYork,NY10002",
+                        "phone": "(212) 343-0666"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "97NassauSt,NewYork,NY10038",
+                        "phone": "(212) 240-9696"
+                    }
+                ]
             },
             {
                 "name": "New York County",
@@ -3618,7 +3601,44 @@
             },
             {
                 "name": "Queens",
-                "link": "https://www.service-center-locator.com/huawei/new-york/huawei-queens-new-york.htm"
+                "link": "https://www.service-center-locator.com/huawei/new-york/huawei-queens-new-york.htm",
+                "city": [
+                    {
+                        "serviceCenter": "BL Mobile cell phone repair",
+                        "address": "84-22RooseveltAve,JacksonHeights,NY11372",
+                        "phone": "(718) 651-8017"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "28393rdAve,Bronx,NY10455",
+                        "phone": "(718) 402-3398"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair",
+                        "address": "9316AveL,Brooklyn,NY11236",
+                        "phone": "(718) 407-0780"
+                    },
+                    {
+                        "serviceCenter": "I Phone Repair Long Island",
+                        "address": "86HempsteadTpke,WestHempstead,NY11552",
+                        "phone": "(516) 280-2380"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair New Jersey - Jersey Cit...",
+                        "address": "416CentralAve,JerseyCity,NJ07307",
+                        "phone": "(201) 839-5914"
+                    },
+                    {
+                        "serviceCenter": "I Phone Repair Li Inc",
+                        "address": "601JerichoTpke,Syosset,NY11791",
+                        "phone": "(516) 364-0002"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "110E13thSt,NewYork,NY10003",
+                        "phone": "(212) 673-8400"
+                    }
+                ]
             },
             {
                 "name": "Staten Island",
@@ -3668,44 +3688,7 @@
         "states": [
             {
                 "name": "Cary",
-                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-cary-north-carolina.htm",
-                "city": [
-                    {
-                        "serviceCenter": "American Phone & Telegraph Co",
-                        "address": "160WilliamFoxLn,BellBuckle,TN37020",
-                        "phone": "(615) 389-6717"
-                    },
-                    {
-                        "serviceCenter": "Pay Phone",
-                        "address": "906IndustrialDr,Murfreesboro,TN37129",
-                        "phone": "(615) 890-6657"
-                    },
-                    {
-                        "serviceCenter": "Tienda Chapin",
-                        "address": "108FairfieldPike,Shelbyville,TN37160",
-                        "phone": "(931) 684-0206"
-                    },
-                    {
-                        "serviceCenter": "Access Communication",
-                        "address": "403SCannonBlvd,Shelbyville,TN37160",
-                        "phone": "(931) 684-2495"
-                    },
-                    {
-                        "serviceCenter": "Megapath",
-                        "address": "1905NJacksonSt,Tullahoma,TN37388",
-                        "phone": "(931) 393-5386"
-                    },
-                    {
-                        "serviceCenter": "Williams Communications Group/Vyvx Vi...",
-                        "address": "38RigneyDr,Manchester,TN37355",
-                        "phone": "(931) 728-8235"
-                    },
-                    {
-                        "serviceCenter": "Modern Cable Technology Inc",
-                        "address": "960SAndersonSt,Tullahoma,TN37388",
-                        "phone": "(931) 393-4628"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-cary-north-carolina.htm"
             },
             {
                 "name": "Charlotte",
@@ -3745,26 +3728,55 @@
             },
             {
                 "name": "Greensboro",
-                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-greensboro-north-carolina.htm"
-            },
-            {
-                "name": "Greenville",
-                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-greenville-north-carolina.htm",
+                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-greensboro-north-carolina.htm",
                 "city": [
                     {
-                        "serviceCenter": "Allen Harper Cell Phone",
-                        "address": "2801 Ward Blvd\n\t\t  Wilson, NC 27893",
-                        "phone": "(252) 236-7577"
+                        "serviceCenter": "CPR Cell Phone Repair",
+                        "address": "268SStratfordRd,WinstonSalem,NC27103",
+                        "phone": "(336) 448-1011"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5870SametDr105,HighPoint,NC27265",
+                        "phone": "(336) 858-5269"
                     }
                 ]
             },
             {
+                "name": "Greenville",
+                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-greenville-north-carolina.htm"
+            },
+            {
                 "name": "High Point",
-                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-high-point-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-high-point-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5870SametDr105,HighPoint,NC27265",
+                        "phone": "(336) 858-5269"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair",
+                        "address": "268SStratfordRd,WinstonSalem,NC27103",
+                        "phone": "(336) 448-1011"
+                    }
+                ]
             },
             {
                 "name": "Raleigh",
-                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-raleigh-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/huawei/north-carolina/huawei-raleigh-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Phone-Techs - Telephone Repair & Inst...",
+                        "address": "4712US401,Raleigh,NC27603",
+                        "phone": "(919) 607-9200"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4001WidewatersPkwy#STEA,Knightdale,NC27545",
+                        "phone": "(919) 261-3210"
+                    }
+                ]
             },
             {
                 "name": "Wilmington",
@@ -3800,18 +3812,48 @@
         "states": [
             {
                 "name": "Bismarck",
-                "link": "https://www.service-center-locator.com/huawei/north-dakota/huawei-bismarck-north-dakota.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Classic Communications Phone",
-                        "address": "2427 N Washington St\n\t\t  Bismarck, ND 58503",
-                        "phone": "(701) 223-7255"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/north-dakota/huawei-bismarck-north-dakota.htm"
             },
             {
                 "name": "Fargo",
-                "link": "https://www.service-center-locator.com/huawei/north-dakota/huawei-fargo-north-dakota.htm"
+                "link": "https://www.service-center-locator.com/huawei/north-dakota/huawei-fargo-north-dakota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "ICare Repair",
+                        "address": "238thStS,Fargo,ND58103",
+                        "phone": "(701) 298-7786"
+                    },
+                    {
+                        "serviceCenter": "Midwest Communications Corp",
+                        "address": "50010thStNE#200,WestFargo,ND58078",
+                        "phone": "(701) 234-9066"
+                    },
+                    {
+                        "serviceCenter": "High Point Networks Inc",
+                        "address": "1207PrairiePkwy#STEA,WestFargo,ND58078",
+                        "phone": "(701) 282-6459"
+                    },
+                    {
+                        "serviceCenter": "Network Cabling Services",
+                        "address": "63313thStNE,WestFargo,ND58078",
+                        "phone": "(218) 284-3000"
+                    },
+                    {
+                        "serviceCenter": "Enventis",
+                        "address": "331242ndStS#STE100,Fargo,ND58104",
+                        "phone": "(701) 356-6000"
+                    },
+                    {
+                        "serviceCenter": "Spy Shop Of Fargo",
+                        "address": "432513thAveS#STE7,Fargo,ND58103",
+                        "phone": "(701) 239-7000"
+                    },
+                    {
+                        "serviceCenter": "Cellular Communications",
+                        "address": "82525thStSA,Fargo,ND58103",
+                        "phone": "(701) 365-0924"
+                    }
+                ]
             },
             {
                 "name": "Grand Forks",
@@ -3876,7 +3918,29 @@
             },
             {
                 "name": "Cincinnati",
-                "link": "https://www.service-center-locator.com/huawei/ohio/huawei-cincinnati-ohio.htm"
+                "link": "https://www.service-center-locator.com/huawei/ohio/huawei-cincinnati-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Genesis Cell Phone Repair & Accessories",
+                        "address": "400PremiumOutletsDrNextToMichaelKors,Monroe,OH45050",
+                        "phone": "(513) 539-4607"
+                    },
+                    {
+                        "serviceCenter": "Sprint",
+                        "address": "9457ColerainAve,Cincinnati,OH45251",
+                        "phone": "(513) 401-7522"
+                    },
+                    {
+                        "serviceCenter": "Cricket Wireless - Surrey Square Mall",
+                        "address": "4464MontgomeryRd,Cincinnati,OH45212",
+                        "phone": "(513) 338-1605"
+                    },
+                    {
+                        "serviceCenter": "Genesis Cell Phone Accessories & Repair",
+                        "address": "400PremiumOutletsDrMonroeOh45050-InFrontOfJCrew,Monroe,OH45050",
+                        "phone": "(513) 539-4607"
+                    }
+                ]
             },
             {
                 "name": "Cleveland",
@@ -3884,7 +3948,34 @@
             },
             {
                 "name": "Columbus",
-                "link": "https://www.service-center-locator.com/huawei/ohio/huawei-columbus-ohio.htm"
+                "link": "https://www.service-center-locator.com/huawei/ohio/huawei-columbus-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "One Source Phone Guides",
+                        "address": "2600CorporateExchangeDr,Columbus,OH43231",
+                        "phone": "(614) 891-0175"
+                    },
+                    {
+                        "serviceCenter": "Wow Internet Cable & Phone",
+                        "address": "3675CorporateDr,Columbus,OH43231",
+                        "phone": "(888) 559-8568"
+                    },
+                    {
+                        "serviceCenter": "Ohio Republican Phone Center",
+                        "address": "81S4thSt,Columbus,OH43215",
+                        "phone": "(614) 228-3841"
+                    },
+                    {
+                        "serviceCenter": "Pre Paid Phone Cards Inc",
+                        "address": "63EMillSt,Pataskala,OH43062",
+                        "phone": "(740) 927-1679"
+                    },
+                    {
+                        "serviceCenter": "Cell Phones/Beeper Vibes",
+                        "address": "1635RiverValleyCirS,Lancaster,OH43130",
+                        "phone": "(740) 652-9620"
+                    }
+                ]
             },
             {
                 "name": "Dayton",
@@ -3903,35 +3994,11 @@
             },
             {
                 "name": "Toledo",
-                "link": "https://www.service-center-locator.com/huawei/ohio/huawei-toledo-ohio.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Nu Tel Phone Mart",
-                        "address": "2912WoodvilleRd,Northwood,OH43619",
-                        "phone": "(419) 693-6168"
-                    },
-                    {
-                        "serviceCenter": "Velocity The Greatest Phone Ever Inc",
-                        "address": "7130SpringMeadowsDrW,Holland,OH43528",
-                        "phone": "(419) 868-9983"
-                    },
-                    {
-                        "serviceCenter": "Phone & Gamesource",
-                        "address": "140NMainSt,BowlingGreen,OH43402",
-                        "phone": "(419) 352-7777"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/ohio/huawei-toledo-ohio.htm"
             },
             {
                 "name": "Youngstown",
-                "link": "https://www.service-center-locator.com/huawei/ohio/huawei-youngstown-ohio.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Broke Ass Phone",
-                        "address": "133 Boardman Poland Rd\n\t\t  Youngstown, OH 44512",
-                        "phone": "(855) 434-9669"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/ohio/huawei-youngstown-ohio.htm"
             }
         ]
     },
@@ -3951,11 +4018,65 @@
             },
             {
                 "name": "Edmond",
-                "link": "https://www.service-center-locator.com/huawei/oklahoma/huawei-edmond-oklahoma.htm"
+                "link": "https://www.service-center-locator.com/huawei/oklahoma/huawei-edmond-oklahoma.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "2723I35ServiceRd,Moore,OK73160",
+                        "phone": "(405) 703-1555"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "2723SI35ServiceRd,OklahomaCity,OK73129",
+                        "phone": "(405) 703-1555"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1300WVandamentAve#STE601,Yukon,OK73099",
+                        "phone": "(405) 265-1502"
+                    }
+                ]
             },
             {
                 "name": "Enid",
-                "link": "https://www.service-center-locator.com/huawei/oklahoma/huawei-enid-oklahoma.htm"
+                "link": "https://www.service-center-locator.com/huawei/oklahoma/huawei-enid-oklahoma.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Pioneer Cellular",
+                        "address": "822WRandolphAve,Enid,OK73701",
+                        "phone": "(580) 237-2355"
+                    },
+                    {
+                        "serviceCenter": "Pioneer Telephone Ringwood",
+                        "address": "420CheyenneSt,Drummond,OK73735",
+                        "phone": "(580) 493-2222"
+                    },
+                    {
+                        "serviceCenter": "Pioneer Telephone",
+                        "address": "114WOsageSt,Garber,OK73738",
+                        "phone": "(580) 863-2303"
+                    },
+                    {
+                        "serviceCenter": "Pioneer Telephone",
+                        "address": "120EBroadwaySt,PondCreek,OK73766",
+                        "phone": "(580) 532-4203"
+                    },
+                    {
+                        "serviceCenter": "Pioneer Telephone Cooperatv",
+                        "address": "201E1stSt,Hennessey,OK73742",
+                        "phone": "(405) 853-4411"
+                    },
+                    {
+                        "serviceCenter": "Pioneer Telephone Cooperative",
+                        "address": "315NMainSt,Helena,OK73741",
+                        "phone": "(580) 852-3233"
+                    },
+                    {
+                        "serviceCenter": "Pioneer Telephone Cooperative",
+                        "address": "304NMainSt,Okeene,OK73763",
+                        "phone": "(580) 822-4445"
+                    }
+                ]
             },
             {
                 "name": "Lawton",
@@ -4179,19 +4300,7 @@
             },
             {
                 "name": "Eugene",
-                "link": "https://www.service-center-locator.com/huawei/oregon/huawei-eugene-oregon.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Phones Plus Communications",
-                        "address": "1267W7thAve,Eugene,OR97402",
-                        "phone": "(541) 687-0111"
-                    },
-                    {
-                        "serviceCenter": "Direct Tel Cell Phones & Beepers",
-                        "address": "105S14thSt,Springfield,OR97477",
-                        "phone": "(541) 747-5474"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/oregon/huawei-eugene-oregon.htm"
             },
             {
                 "name": "Gresham",
@@ -4206,22 +4315,29 @@
             },
             {
                 "name": "Hillsboro",
-                "link": "https://www.service-center-locator.com/huawei/oregon/huawei-hillsboro-oregon.htm"
-            },
-            {
-                "name": "Medford",
-                "link": "https://www.service-center-locator.com/huawei/oregon/huawei-medford-oregon.htm",
+                "link": "https://www.service-center-locator.com/huawei/oregon/huawei-hillsboro-oregon.htm",
                 "city": [
                     {
-                        "serviceCenter": "Your Friendly Phone Man",
-                        "address": "1505 Sage Rd\n\t\t  Medford, OR 97501",
-                        "phone": "(541) 773-5999"
+                        "serviceCenter": "Smart Phone Repair Shop",
+                        "address": "7901 SE Powell Blvd\n\t\t  Portland, OR 97206",
+                        "phone": "(503) 208-2589"
                     }
                 ]
             },
             {
+                "name": "Medford",
+                "link": "https://www.service-center-locator.com/huawei/oregon/huawei-medford-oregon.htm"
+            },
+            {
                 "name": "Portland",
-                "link": "https://www.service-center-locator.com/huawei/oregon/huawei-portland-oregon.htm"
+                "link": "https://www.service-center-locator.com/huawei/oregon/huawei-portland-oregon.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Smart Phone Repair Shop",
+                        "address": "7901 SE Powell Blvd\n\t\t  Portland, OR 97206",
+                        "phone": "(503) 208-2589"
+                    }
+                ]
             },
             {
                 "name": "Salem",
@@ -4250,56 +4366,15 @@
         "states": [
             {
                 "name": "Harrisburg",
-                "link": "https://www.service-center-locator.com/huawei/pennsylvania/huawei-harrisburg-pennsylvania.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Connect-A-Phone",
-                        "address": "730 Lewisberry Rd\n\t\t  Lewisberry, PA 17339",
-                        "phone": "(717) 938-8654"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/pennsylvania/huawei-harrisburg-pennsylvania.htm"
             },
             {
                 "name": "Philadelphia",
-                "link": "https://www.service-center-locator.com/huawei/pennsylvania/huawei-philadelphia-pennsylvania.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Eazy Computers & iPhone Repair",
-                        "address": "5536N5thSt,Philadelphia,PA19120",
-                        "phone": "(215) 609-4515"
-                    },
-                    {
-                        "serviceCenter": "Abington Phone Repair",
-                        "address": "1751OldYorkRd,Abington,PA19001",
-                        "phone": "(215) 800-7545"
-                    },
-                    {
-                        "serviceCenter": "BuySellRepairs- iPhone iPad & iPod Re...",
-                        "address": "2300ELincolnHwy,Langhorne,PA19047",
-                        "phone": "(215) 550-5066"
-                    },
-                    {
-                        "serviceCenter": "Eazy Computers & iPhone Repair",
-                        "address": "6851MarshallRd,UpperDarby,PA19082",
-                        "phone": "(215) 310-0143"
-                    },
-                    {
-                        "serviceCenter": "Family Cell Phone Repairs",
-                        "address": "1802ChambersSt,Trenton,NJ08610",
-                        "phone": "(609) 392-7160"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/pennsylvania/huawei-philadelphia-pennsylvania.htm"
             },
             {
                 "name": "York",
-                "link": "https://www.service-center-locator.com/huawei/pennsylvania/huawei-york-pennsylvania.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Connect-A-Phone",
-                        "address": "730 Lewisberry Rd\n\t\t  Lewisberry, PA 17339",
-                        "phone": "(717) 938-8654"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/pennsylvania/huawei-york-pennsylvania.htm"
             }
         ]
     },
@@ -4308,16 +4383,13 @@
         "states": [
             {
                 "name": "Coventry",
-                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-coventry-rhode-island.htm"
-            },
-            {
-                "name": "Cranston",
-                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-cranston-rhode-island.htm"
-            },
-            {
-                "name": "Cumberland",
-                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-cumberland-rhode-island.htm",
+                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-coventry-rhode-island.htm",
                 "city": [
+                    {
+                        "serviceCenter": "Cell Phone Solution",
+                        "address": "418QuequechanSt,FallRiver,MA02723",
+                        "phone": "(508) 567-0222"
+                    },
                     {
                         "serviceCenter": "Cell Phone Store",
                         "address": "260ChauncySt,Mansfield,MA02048",
@@ -4327,33 +4399,16 @@
                         "serviceCenter": "Phone Start",
                         "address": "104MainSt,Milford,MA01757",
                         "phone": "(508) 381-0547"
-                    },
-                    {
-                        "serviceCenter": "Sprint Store by The Cell Phone St",
-                        "address": "74ColonialPlz,Medway,MA02053",
-                        "phone": "(508) 533-5565"
-                    },
-                    {
-                        "serviceCenter": "The Cell Phone Store",
-                        "address": "1285BelmontSt,Brockton,MA02301",
-                        "phone": "(508) 230-7700"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Solution",
-                        "address": "418QuequechanSt,FallRiver,MA02723",
-                        "phone": "(508) 567-0222"
-                    },
-                    {
-                        "serviceCenter": "Mitchell Safe Arrival Phone",
-                        "address": "187BrooklineSt,Needham,MA02492",
-                        "phone": "(781) 444-2283"
-                    },
-                    {
-                        "serviceCenter": "MiPhone Doctor of Boston",
-                        "address": "212SumnerSt,Newton,MA02459",
-                        "phone": "(617) 564-1412"
                     }
                 ]
+            },
+            {
+                "name": "Cranston",
+                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-cranston-rhode-island.htm"
+            },
+            {
+                "name": "Cumberland",
+                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-cumberland-rhode-island.htm"
             },
             {
                 "name": "East Providence",
@@ -4369,34 +4424,7 @@
             },
             {
                 "name": "Providence",
-                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-providence-rhode-island.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Cell Phone Store",
-                        "address": "260ChauncySt,Mansfield,MA02048",
-                        "phone": "(508) 337-9999"
-                    },
-                    {
-                        "serviceCenter": "Phone Start",
-                        "address": "104MainSt,Milford,MA01757",
-                        "phone": "(508) 381-0547"
-                    },
-                    {
-                        "serviceCenter": "Sprint Store by The Cell Phone St",
-                        "address": "74ColonialPlz,Medway,MA02053",
-                        "phone": "(508) 533-5565"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Solution",
-                        "address": "418QuequechanSt,FallRiver,MA02723",
-                        "phone": "(508) 567-0222"
-                    },
-                    {
-                        "serviceCenter": "The Cell Phone Store",
-                        "address": "1285BelmontSt,Brockton,MA02301",
-                        "phone": "(508) 230-7700"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-providence-rhode-island.htm"
             },
             {
                 "name": "Warwick",
@@ -4421,12 +4449,21 @@
             },
             {
                 "name": "West Warwick",
-                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-west-warwick-rhode-island.htm",
+                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-west-warwick-rhode-island.htm"
+            },
+            {
+                "name": "Woonsocket",
+                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-woonsocket-rhode-island.htm",
                 "city": [
                     {
-                        "serviceCenter": "Cell Phone Solution",
-                        "address": "418QuequechanSt,FallRiver,MA02723",
-                        "phone": "(508) 567-0222"
+                        "serviceCenter": "Phone Start",
+                        "address": "104MainSt,Milford,MA01757",
+                        "phone": "(508) 381-0547"
+                    },
+                    {
+                        "serviceCenter": "Sprint Store by The Cell Phone St",
+                        "address": "74ColonialPlz,Medway,MA02053",
+                        "phone": "(508) 533-5565"
                     },
                     {
                         "serviceCenter": "Cell Phone Store",
@@ -4434,15 +4471,26 @@
                         "phone": "(508) 337-9999"
                     },
                     {
-                        "serviceCenter": "Phone Start",
-                        "address": "104MainSt,Milford,MA01757",
-                        "phone": "(508) 381-0547"
+                        "serviceCenter": "The Cell Phone Store",
+                        "address": "1285BelmontSt,Brockton,MA02301",
+                        "phone": "(508) 230-7700"
+                    },
+                    {
+                        "serviceCenter": "Mitchell Safe Arrival Phone",
+                        "address": "187BrooklineSt,Needham,MA02492",
+                        "phone": "(781) 444-2283"
+                    },
+                    {
+                        "serviceCenter": "MiPhone Doctor of Boston",
+                        "address": "212SumnerSt,Newton,MA02459",
+                        "phone": "(617) 564-1412"
+                    },
+                    {
+                        "serviceCenter": "GlobalPhonesOnly.com",
+                        "address": "21FarquharSt,Roslindale,MA02131",
+                        "phone": "(617) 637-7020"
                     }
                 ]
-            },
-            {
-                "name": "Woonsocket",
-                "link": "https://www.service-center-locator.com/huawei/rhode-island/huawei-woonsocket-rhode-island.htm"
             }
         ]
     },
@@ -4466,34 +4514,7 @@
             },
             {
                 "name": "Greenville",
-                "link": "https://www.service-center-locator.com/huawei/south-carolina/huawei-greenville-south-carolina.htm",
-                "city": [
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1AugustaSt,Greenville,SC29601",
-                        "phone": "(864) 520-8424"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1618WoodruffRd#STEG,Greenville,SC29607",
-                        "phone": "(864) 234-9669"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "3712LibertyHwy,Anderson,SC29621",
-                        "phone": "(864) 222-2202"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1450WoEzellBlvd,Spartanburg,SC29301",
-                        "phone": "(864) 576-3524"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "3016NMainSt,Anderson,SC29621",
-                        "phone": "(864) 222-2202"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/south-carolina/huawei-greenville-south-carolina.htm"
             },
             {
                 "name": "Mount Pleasant",
@@ -4519,18 +4540,28 @@
             },
             {
                 "name": "Spartanburg",
-                "link": "https://www.service-center-locator.com/huawei/south-carolina/huawei-spartanburg-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/huawei/south-carolina/huawei-spartanburg-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1450WoEzellBlvd,Spartanburg,SC29301",
+                        "phone": "(864) 576-3524"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1618WoodruffRd#STEG,Greenville,SC29607",
+                        "phone": "(864) 234-9669"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1AugustaSt,Greenville,SC29601",
+                        "phone": "(864) 520-8424"
+                    }
+                ]
             },
             {
                 "name": "Summerville",
-                "link": "https://www.service-center-locator.com/huawei/south-carolina/huawei-summerville-south-carolina.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Phone Smart Inc",
-                        "address": "3014 Morgans Point Rd\n\t\t  Mount Pleasant, SC 29466",
-                        "phone": "(843) 388-2292"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/south-carolina/huawei-summerville-south-carolina.htm"
             }
         ]
     },
@@ -4539,44 +4570,7 @@
         "states": [
             {
                 "name": "Aberdeen",
-                "link": "https://www.service-center-locator.com/huawei/south-dakota/huawei-aberdeen-south-dakota.htm",
-                "city": [
-                    {
-                        "serviceCenter": "James Valley Co-Op Phone Co",
-                        "address": "235E1stAve,Groton,SD57445",
-                        "phone": "(605) 897-6602"
-                    },
-                    {
-                        "serviceCenter": "Tel Serv Communications",
-                        "address": "10111stAveSE,Aberdeen,SD57401",
-                        "phone": "(605) 229-1050"
-                    },
-                    {
-                        "serviceCenter": "Cellular Connection",
-                        "address": "16236thAveSE#STE2,Aberdeen,SD57401",
-                        "phone": "(605) 725-2355"
-                    },
-                    {
-                        "serviceCenter": "Wireless World",
-                        "address": "38286thAveSE#STEB,Aberdeen,SD57401",
-                        "phone": "(605) 225-5999"
-                    },
-                    {
-                        "serviceCenter": "Gte Government Systems",
-                        "address": "1154thAveSE,Aberdeen,SD57401",
-                        "phone": "(605) 225-5139"
-                    },
-                    {
-                        "serviceCenter": "Marco",
-                        "address": "10111stAveSE,Aberdeen,SD57401",
-                        "phone": "(605) 262-0242"
-                    },
-                    {
-                        "serviceCenter": "Sdn Communications",
-                        "address": "2900S10thSt,Aberdeen,SD57401",
-                        "phone": "(877) 736-3344"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/south-dakota/huawei-aberdeen-south-dakota.htm"
             },
             {
                 "name": "Rapid City",
@@ -4584,7 +4578,19 @@
             },
             {
                 "name": "Sioux Falls",
-                "link": "https://www.service-center-locator.com/huawei/south-dakota/huawei-sioux-falls-south-dakota.htm"
+                "link": "https://www.service-center-locator.com/huawei/south-dakota/huawei-sioux-falls-south-dakota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Guy",
+                        "address": "3506W41stSt,SiouxFalls,SD57106",
+                        "phone": "(605) 335-0411"
+                    },
+                    {
+                        "serviceCenter": "Ishmael Cell Phones",
+                        "address": "600W10thSt,SiouxFalls,SD57104",
+                        "phone": "(605) 275-0006"
+                    }
+                ]
             },
             {
                 "name": "Watertown",
@@ -4597,15 +4603,91 @@
         "states": [
             {
                 "name": "Chattanooga",
-                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-chattanooga-tennessee.htm"
+                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-chattanooga-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5425Highway153,Hixson,TN37343",
+                        "phone": "(423) 805-4640"
+                    },
+                    {
+                        "serviceCenter": "iSpecialize Phone & Gadget Repair",
+                        "address": "4810BHixsonPike,Hixson,TN37343",
+                        "phone": "(423) 451-6104"
+                    },
+                    {
+                        "serviceCenter": "Cleveland Phone Repair",
+                        "address": "78MouseCreekRdNW,Cleveland,TN37312",
+                        "phone": "(423) 464-5414"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "2535EWalnutAve,Dalton,GA30721",
+                        "phone": "(706) 278-7969"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone RX Repair Center",
+                        "address": "3354KeithStNW,Cleveland,TN37312",
+                        "phone": "(423) 650-7271"
+                    }
+                ]
             },
             {
                 "name": "Clarksville",
-                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-clarksville-tennessee.htm"
+                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-clarksville-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Repairs",
+                        "address": "1352FtCampbellBlvd#STEB,Clarksville,TN37042",
+                        "phone": "(931) 802-5045"
+                    },
+                    {
+                        "serviceCenter": "Mobile Computer & Phone Repair",
+                        "address": "880Hwy70W#STE2,Dickson,TN37055",
+                        "phone": "(615) 375-1011"
+                    },
+                    {
+                        "serviceCenter": "First Phone",
+                        "address": "3281FtCampbellBlvd#STEC,Clarksville,TN37042",
+                        "phone": "(931) 431-6316"
+                    },
+                    {
+                        "serviceCenter": "King Phone Systems",
+                        "address": "404MemorialBlvd,Springfield,TN37172",
+                        "phone": "(615) 384-5464"
+                    },
+                    {
+                        "serviceCenter": "Prepaid Wireless & Cell Repair",
+                        "address": "2354Highway41S#STEI,Greenbrier,TN37073",
+                        "phone": "(615) 796-7994"
+                    },
+                    {
+                        "serviceCenter": "Cellaxs.Com",
+                        "address": "2801WilmaRudolphBlvd,Clarksville,TN37040",
+                        "phone": "(931) 552-7627"
+                    },
+                    {
+                        "serviceCenter": "Inn Telecom",
+                        "address": "1409AshlandCityRd,Clarksville,TN37040",
+                        "phone": "(931) 647-8642"
+                    }
+                ]
             },
             {
                 "name": "Franklin",
-                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-franklin-tennessee.htm"
+                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-franklin-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "790JordanRd#STE104,Franklin,TN37067",
+                        "phone": "(615) 778-9240"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "112SaundersvilleRd#STEB-204,Hendersonville,TN37075",
+                        "phone": "(615) 822-3250"
+                    }
+                ]
             },
             {
                 "name": "Jackson",
@@ -4613,79 +4695,42 @@
             },
             {
                 "name": "Johnson City",
-                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-johnson-city-tennessee.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Shady Valley Repair Service",
-                        "address": "(423)739-4500",
-                        "phone": ""
-                    },
-                    {
-                        "serviceCenter": "Cellular Sales",
-                        "address": "2122NRoanSt,JohnsonCity,TN37601",
-                        "phone": "(423) 929-2355"
-                    },
-                    {
-                        "serviceCenter": "Mci Telecommunications",
-                        "address": "112MyrtleAve,JohnsonCity,TN37601",
-                        "phone": "(423) 975-9184"
-                    },
-                    {
-                        "serviceCenter": "University Of Tenn Telephone Service",
-                        "address": "103EWalnutSt,JohnsonCity,TN37601",
-                        "phone": "(423) 926-3645"
-                    },
-                    {
-                        "serviceCenter": "Idg Inc",
-                        "address": "128RowelandDr,JohnsonCity,TN37601",
-                        "phone": "(423) 926-0490"
-                    },
-                    {
-                        "serviceCenter": "KMC Telecom",
-                        "address": "2WorthCir,JohnsonCity,TN37601",
-                        "phone": "(423) 283-0085"
-                    },
-                    {
-                        "serviceCenter": "Convergence Voice Networks",
-                        "address": "3100NRoanSt#STE4,JohnsonCity,TN37601",
-                        "phone": "(423) 202-8081"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-johnson-city-tennessee.htm"
             },
             {
                 "name": "Knoxville",
-                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-knoxville-tennessee.htm",
-                "city": [
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "6631ClintonHwy,Knoxville,TN37912",
-                        "phone": "(865) 859-0856"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "11619ParksideDr,Knoxville,TN37934",
-                        "phone": "(865) 288-7389"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-knoxville-tennessee.htm"
             },
             {
                 "name": "Memphis",
-                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-memphis-tennessee.htm"
-            },
-            {
-                "name": "Murfreesboro",
-                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-murfreesboro-tennessee.htm",
+                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-memphis-tennessee.htm",
                 "city": [
                     {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "790 Jordan Rd #STE 104\n\t\t  Franklin, TN 37067",
-                        "phone": "(615) 778-9240"
+                        "serviceCenter": "Cell Phone Repair",
+                        "address": "7825 Winchester Rd\n\t\t  Memphis, TN 38125",
+                        "phone": "(901) 207-8166"
                     }
                 ]
             },
             {
+                "name": "Murfreesboro",
+                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-murfreesboro-tennessee.htm"
+            },
+            {
                 "name": "Nashville",
-                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-nashville-tennessee.htm"
+                "link": "https://www.service-center-locator.com/huawei/tennessee/huawei-nashville-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "112SaundersvilleRd#STEB-204,Hendersonville,TN37075",
+                        "phone": "(615) 822-3250"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "790JordanRd#STE104,Franklin,TN37067",
+                        "phone": "(615) 778-9240"
+                    }
+                ]
             }
         ]
     },
@@ -4746,19 +4791,7 @@
             },
             {
                 "name": "Corpus Christi",
-                "link": "https://www.service-center-locator.com/huawei/texas/huawei-corpus-christi-texas.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Smart Phone Repairz",
-                        "address": "5409EverhartRd,CorpusChristi,TX78411",
-                        "phone": "(361) 429-1740"
-                    },
-                    {
-                        "serviceCenter": "Wiring for cable, phone, data",
-                        "address": "5622Ventura,CorpusChristi,TX78417",
-                        "phone": "(361) 695-0611"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/texas/huawei-corpus-christi-texas.htm"
             },
             {
                 "name": "Dallas",
@@ -4814,65 +4847,11 @@
             },
             {
                 "name": "Fort Worth",
-                "link": "https://www.service-center-locator.com/huawei/texas/huawei-fort-worth-texas.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Cell Phone Repair Group",
-                        "address": "7033ShadowBendDr,FortWorth,TX76137",
-                        "phone": "(817) 232-3181"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "2325SStemmonsFwy#STE306,Lewisville,TX75067",
-                        "phone": "(972) 315-2060"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "5601WLoversLn,Dallas,TX75209",
-                        "phone": "(214) 350-0016"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/texas/huawei-fort-worth-texas.htm"
             },
             {
                 "name": "Garland",
-                "link": "https://www.service-center-locator.com/huawei/texas/huawei-garland-texas.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Dallas Cell Phone Repair Center",
-                        "address": "101SShermanSt,Richardson,TX75081",
-                        "phone": "(972) 234-4833"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Repair Center",
-                        "address": "888SGreenvilleAve,Richardson,TX75081",
-                        "phone": "(972) 234-4117"
-                    },
-                    {
-                        "serviceCenter": "K-Pcs Cell Phone Repair",
-                        "address": "1210EParkerRd,Plano,TX75074",
-                        "phone": "(972) 422-0709"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Repair Center",
-                        "address": "909GrossRd,Mesquite,TX75149",
-                        "phone": "(972) 285-4375"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "5601WLoversLn,Dallas,TX75209",
-                        "phone": "(214) 350-0016"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Repair Center",
-                        "address": "19009PrestonRd#STE202,Dallas,TX75252",
-                        "phone": "(972) 931-8600"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "2325SStemmonsFwy#STE306,Lewisville,TX75067",
-                        "phone": "(972) 315-2060"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/texas/huawei-garland-texas.htm"
             },
             {
                 "name": "Houston",
@@ -4917,44 +4896,7 @@
             },
             {
                 "name": "Plano",
-                "link": "https://www.service-center-locator.com/huawei/texas/huawei-plano-texas.htm",
-                "city": [
-                    {
-                        "serviceCenter": "K-Pcs Cell Phone Repair",
-                        "address": "1210EParkerRd,Plano,TX75074",
-                        "phone": "(972) 422-0709"
-                    },
-                    {
-                        "serviceCenter": "Dallas Cell Phone Repair Center",
-                        "address": "101SShermanSt,Richardson,TX75081",
-                        "phone": "(972) 234-4833"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Repair Center",
-                        "address": "19009PrestonRd#STE202,Dallas,TX75252",
-                        "phone": "(972) 931-8600"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Repair Center",
-                        "address": "888SGreenvilleAve,Richardson,TX75081",
-                        "phone": "(972) 234-4117"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "2700EEldoradoPkwy#STE408,LittleElm,TX75068",
-                        "phone": "(469) 362-4655"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "2325SStemmonsFwy#STE306,Lewisville,TX75067",
-                        "phone": "(972) 315-2060"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "5601WLoversLn,Dallas,TX75209",
-                        "phone": "(214) 350-0016"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/texas/huawei-plano-texas.htm"
             },
             {
                 "name": "San Antonio",
@@ -5057,7 +4999,24 @@
             },
             {
                 "name": "West Jordan",
-                "link": "https://www.service-center-locator.com/huawei/utah/huawei-west-jordan-utah.htm"
+                "link": "https://www.service-center-locator.com/huawei/utah/huawei-west-jordan-utah.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Fix A Phone",
+                        "address": "10450SStateStTmp11,Sandy,UT84070",
+                        "phone": "(801) 654-8317"
+                    },
+                    {
+                        "serviceCenter": "Nson Phone Center",
+                        "address": "140W2100S,SaltLakeCity,UT84115",
+                        "phone": "(801) 505-6521"
+                    },
+                    {
+                        "serviceCenter": "Phones Plus Of Utah",
+                        "address": "91W400N,Bountiful,UT84010",
+                        "phone": "(801) 292-7093"
+                    }
+                ]
             }
         ]
     },
@@ -5066,22 +5025,11 @@
         "states": [
             {
                 "name": "Burlington",
-                "link": "https://www.service-center-locator.com/huawei/vermont/huawei-burlington-vermont.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Chazy & Westport Phone Corp",
-                        "address": "2 Champlain Ave\n\t\t  Westport, NY 12993",
-                        "phone": "(518) 962-8211"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/vermont/huawei-burlington-vermont.htm"
             },
             {
                 "name": "Essex",
-                "link": "https://www.service-center-locator.com/huawei/vermont/huawei-essex-vermont.htm"
-            },
-            {
-                "name": "South Burlington",
-                "link": "https://www.service-center-locator.com/huawei/vermont/huawei-south-burlington-vermont.htm",
+                "link": "https://www.service-center-locator.com/huawei/vermont/huawei-essex-vermont.htm",
                 "city": [
                     {
                         "serviceCenter": "Chazy & Westport Phone Corp",
@@ -5089,6 +5037,10 @@
                         "phone": "(518) 962-8211"
                     }
                 ]
+            },
+            {
+                "name": "South Burlington",
+                "link": "https://www.service-center-locator.com/huawei/vermont/huawei-south-burlington-vermont.htm"
             }
         ]
     },
@@ -5101,14 +5053,7 @@
             },
             {
                 "name": "Charlottesville",
-                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-charlottesville-virginia.htm",
-                "city": [
-                    {
-                        "serviceCenter": "ABC Phones",
-                        "address": "551 N Madison Rd\n\t\t  Orange, VA 22960",
-                        "phone": "(540) 661-4211"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-charlottesville-virginia.htm"
             },
             {
                 "name": "Chesapeake",
@@ -5159,31 +5104,7 @@
             },
             {
                 "name": "Hampton",
-                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-hampton-virginia.htm"
-            },
-            {
-                "name": "Lynchburg",
-                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-lynchburg-virginia.htm",
-                "city": [
-                    {
-                        "serviceCenter": "ABC Phones",
-                        "address": "3211FrstBrookRd,Lynchburg,VA24501",
-                        "phone": "(434) 509-0696"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone Emergency Room",
-                        "address": "20722TimberlakeRd,Lynchburg,VA24502",
-                        "phone": "(434) 485-7800"
-                    }
-                ]
-            },
-            {
-                "name": "Newport News",
-                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-newport-news-virginia.htm"
-            },
-            {
-                "name": "Norfolk",
-                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-norfolk-virginia.htm",
+                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-hampton-virginia.htm",
                 "city": [
                     {
                         "serviceCenter": "CPR-Cell Phone Repair",
@@ -5213,12 +5134,70 @@
                 ]
             },
             {
+                "name": "Lynchburg",
+                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-lynchburg-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "ABC Phones",
+                        "address": "3211FrstBrookRd,Lynchburg,VA24501",
+                        "phone": "(434) 509-0696"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Emergency Room",
+                        "address": "20722TimberlakeRd,Lynchburg,VA24502",
+                        "phone": "(434) 485-7800"
+                    }
+                ]
+            },
+            {
+                "name": "Newport News",
+                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-newport-news-virginia.htm"
+            },
+            {
+                "name": "Norfolk",
+                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-norfolk-virginia.htm"
+            },
+            {
                 "name": "Portsmouth",
-                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-portsmouth-virginia.htm"
+                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-portsmouth-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iPhone Repairs R us",
+                        "address": "1000MastersRow,Chesapeake,VA23320",
+                        "phone": "(757) 647-4335"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "801VolvoPkwy,Chesapeake,VA23320",
+                        "phone": "(757) 410-8422"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5802EVirginiaBeachBlvd,Norfolk,VA23502",
+                        "phone": "(757) 333-7771"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "2728NMallDr,VirginiaBeach,VA23452",
+                        "phone": "(757) 965-4832"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone and Computer Repair",
+                        "address": "2232VirginiaBeachBlvd#STE102,VirginiaBeach,VA23454",
+                        "phone": "(757) 644-6955"
+                    }
+                ]
             },
             {
                 "name": "Richmond",
-                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-richmond-virginia.htm"
+                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-richmond-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "11545 Busy St\n\t\t  North Chesterfield, VA 23236",
+                        "phone": "(804) 914-4000"
+                    }
+                ]
             },
             {
                 "name": "Roanoke",
@@ -5263,34 +5242,7 @@
             },
             {
                 "name": "Suffolk",
-                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-suffolk-virginia.htm",
-                "city": [
-                    {
-                        "serviceCenter": "iPhone Repairs R us",
-                        "address": "1000MastersRow,Chesapeake,VA23320",
-                        "phone": "(757) 647-4335"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "801VolvoPkwy,Chesapeake,VA23320",
-                        "phone": "(757) 410-8422"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "5802EVirginiaBeachBlvd,Norfolk,VA23502",
-                        "phone": "(757) 333-7771"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "2728NMallDr,VirginiaBeach,VA23452",
-                        "phone": "(757) 965-4832"
-                    },
-                    {
-                        "serviceCenter": "Cell Phone and Computer Repair",
-                        "address": "2232VirginiaBeachBlvd#STE102,VirginiaBeach,VA23454",
-                        "phone": "(757) 644-6955"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/virginia/huawei-suffolk-virginia.htm"
             },
             {
                 "name": "Virginia Beach",
@@ -5474,7 +5426,19 @@
             },
             {
                 "name": "Tacoma",
-                "link": "https://www.service-center-locator.com/huawei/washington/huawei-tacoma-washington.htm"
+                "link": "https://www.service-center-locator.com/huawei/washington/huawei-tacoma-washington.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Ruvisela Cell Phones",
+                        "address": "9716STacomaWay,Lakewood,WA98499",
+                        "phone": "(253) 267-0377"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Accessories",
+                        "address": "400PineSt#STE212,Seattle,WA98101",
+                        "phone": "(206) 623-6255"
+                    }
+                ]
             },
             {
                 "name": "Vancouver",
@@ -5535,24 +5499,7 @@
         "states": [
             {
                 "name": "Charleston",
-                "link": "https://www.service-center-locator.com/huawei/west-virginia/huawei-charleston-west-virginia.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Wireless Works Cell Phone Repair",
-                        "address": "23137thAve,Charleston,WV25387",
-                        "phone": "(304) 552-3430"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "308SouthridgeBlvd,Charleston,WV25309",
-                        "phone": "(304) 400-4818"
-                    },
-                    {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "1MallRd,Barboursville,WV25504",
-                        "phone": "(304) 736-6511"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/west-virginia/huawei-charleston-west-virginia.htm"
             },
             {
                 "name": "Huntington",
@@ -5572,19 +5519,7 @@
             },
             {
                 "name": "Morgantown",
-                "link": "https://www.service-center-locator.com/huawei/west-virginia/huawei-morgantown-west-virginia.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Morgantown Phone Center Inc",
-                        "address": "220HighSt,Morgantown,WV26505",
-                        "phone": "(304) 292-8911"
-                    },
-                    {
-                        "serviceCenter": "Miki J's Cell Phone Accessories",
-                        "address": "1368MallRunRd,Uniontown,PA15401",
-                        "phone": "(724) 437-9377"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/west-virginia/huawei-morgantown-west-virginia.htm"
             },
             {
                 "name": "Parkersburg",
@@ -5604,7 +5539,44 @@
             },
             {
                 "name": "Wheeling",
-                "link": "https://www.service-center-locator.com/huawei/west-virginia/huawei-wheeling-west-virginia.htm"
+                "link": "https://www.service-center-locator.com/huawei/west-virginia/huawei-wheeling-west-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iBRS Smart Phone Repairs",
+                        "address": "70310thSt,Moundsville,WV26041",
+                        "phone": "(304) 460-8755"
+                    },
+                    {
+                        "serviceCenter": "Advanced Communications Co",
+                        "address": "2744EoffSt,Wheeling,WV26003",
+                        "phone": "(304) 233-3000"
+                    },
+                    {
+                        "serviceCenter": "Cingular Wireless",
+                        "address": "2108LumberAve,Wheeling,WV26003",
+                        "phone": "(304) 243-0500"
+                    },
+                    {
+                        "serviceCenter": "Ntelos",
+                        "address": "780GrandviewSt,Wheeling,WV26003",
+                        "phone": "(304) 233-0726"
+                    },
+                    {
+                        "serviceCenter": "Advanced Telecom Services",
+                        "address": "89WardenRunRd,Wheeling,WV26003",
+                        "phone": "(304) 233-9393"
+                    },
+                    {
+                        "serviceCenter": "World Radio Telecommunications",
+                        "address": "105MainSt,Wheeling,WV26003",
+                        "phone": "(304) 232-9433"
+                    },
+                    {
+                        "serviceCenter": "Matt Wood DR",
+                        "address": "2108LumberAve,Wheeling,WV26003",
+                        "phone": "(304) 780-6958"
+                    }
+                ]
             }
         ]
     },
@@ -5658,44 +5630,7 @@
             },
             {
                 "name": "Green Bay",
-                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-green-bay-wisconsin.htm",
-                "city": [
-                    {
-                        "serviceCenter": "Abrams Telephone Repair Inc",
-                        "address": "2711EFrontageRd,Abrams,WI54101",
-                        "phone": "(920) 617-7000"
-                    },
-                    {
-                        "serviceCenter": "Cellular Systems",
-                        "address": "2130MainSt,GreenBay,WI54302",
-                        "phone": "(920) 469-0777"
-                    },
-                    {
-                        "serviceCenter": "Isupply",
-                        "address": "303BayParkSq,GreenBay,WI54304",
-                        "phone": "(920) 497-2815"
-                    },
-                    {
-                        "serviceCenter": "Advanced Technologies",
-                        "address": "2605SOneidaSt104,GreenBay,WI54304",
-                        "phone": "(920) 593-8100"
-                    },
-                    {
-                        "serviceCenter": "Baycom",
-                        "address": "1241LombardiAccessRd#STEJ,GreenBay,WI54304",
-                        "phone": "(920) 884-1250"
-                    },
-                    {
-                        "serviceCenter": "U.S. Cellular",
-                        "address": "2285SOneidaSt,GreenBay,WI54304",
-                        "phone": "(920) 496-4385"
-                    },
-                    {
-                        "serviceCenter": "Networx Inc",
-                        "address": "683BorvanAve,GreenBay,WI54304",
-                        "phone": "(920) 884-2060"
-                    }
-                ]
+                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-green-bay-wisconsin.htm"
             },
             {
                 "name": "Janesville",
@@ -5726,22 +5661,69 @@
             },
             {
                 "name": "Madison",
-                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-madison-wisconsin.htm",
+                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-madison-wisconsin.htm"
+            },
+            {
+                "name": "Milwaukee",
+                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-milwaukee-wisconsin.htm",
                 "city": [
                     {
-                        "serviceCenter": "CPR-Cell Phone Repair",
-                        "address": "5517 Odana Rd\n\t\t  Madison, WI 53719",
-                        "phone": "(608) 223-9999"
+                        "serviceCenter": "CPR CellPhone Repair",
+                        "address": "17145WBluemoundRd,Brookfield,WI53005",
+                        "phone": "(414) 209-7310"
+                    },
+                    {
+                        "serviceCenter": "U.S. Cellular",
+                        "address": "740NWaterSt,Milwaukee,WI53202",
+                        "phone": "(414) 291-3140"
+                    },
+                    {
+                        "serviceCenter": "Cricket Wireless - Mitchell Park",
+                        "address": "745SLaytonBlvd,Milwaukee,WI53215",
+                        "phone": "(414) 643-1930"
                     }
                 ]
             },
             {
-                "name": "Milwaukee",
-                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-milwaukee-wisconsin.htm"
-            },
-            {
                 "name": "Oshkosh",
-                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-oshkosh-wisconsin.htm"
+                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-oshkosh-wisconsin.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Catalyst Marketing Enterprises",
+                        "address": "230WMurdockAve,Oshkosh,WI54901",
+                        "phone": "(920) 303-9533"
+                    },
+                    {
+                        "serviceCenter": "Beeline Telecom Services",
+                        "address": "(920)231-1333",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "S P S I",
+                        "address": "(920)232-0632",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "Live Wire Communication",
+                        "address": "2080W9thAve#104,Oshkosh,WI54904",
+                        "phone": "(920) 722-3377"
+                    },
+                    {
+                        "serviceCenter": "Northern Telephone & Data Corporation...",
+                        "address": "300NKoellerSt,Oshkosh,WI54902",
+                        "phone": "(920) 426-9192"
+                    },
+                    {
+                        "serviceCenter": "Cellcom Cellular Store",
+                        "address": "300NKoellerSt,Oshkosh,WI54902",
+                        "phone": "(920) 230-2000"
+                    },
+                    {
+                        "serviceCenter": "Live Wire Communication",
+                        "address": "6996WoodenshoeRd,Neenah,WI54956",
+                        "phone": "(920) 722-3377"
+                    }
+                ]
             },
             {
                 "name": "Racine",
@@ -5756,7 +5738,29 @@
             },
             {
                 "name": "Waukesha",
-                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-waukesha-wisconsin.htm"
+                "link": "https://www.service-center-locator.com/huawei/wisconsin/huawei-waukesha-wisconsin.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR CellPhone Repair",
+                        "address": "17145WBluemoundRd,Brookfield,WI53005",
+                        "phone": "(414) 209-7310"
+                    },
+                    {
+                        "serviceCenter": "U.S. Cellular Authorized Agent - More...",
+                        "address": "530WSunsetDr,Waukesha,WI53189",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "U.S. Cellular Authorized Agent - Wire...",
+                        "address": "325BayViewRd,Mukwonago,WI53149",
+                        "phone": ""
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1741EGenevaStUnit450,Delavan,WI53115",
+                        "phone": "(262) 728-5046"
+                    }
+                ]
             }
         ]
     },
