@@ -61,8 +61,12 @@ async function detailsPage(cityUrl,brand) {
                         arr[count]["serviceCenter"] = serviceCenterName.text()
                         let string = $(serviceCenter).parent().text()
                         const tel= string.split("Contact:")
-                        arr[count]["address"] = string.replace($(serviceCenterName).text(),"").replace(tel[1],"").replaceAll("\n","").replaceAll("\t","").replace("Contact:","").replaceAll("   ","").replaceAll(" ","")
-                        arr[count]["phone"] = tel[2]?tel[2]:tel[1]
+                        if(string.length > 100)
+                        arr[count]["address"] = string.split(serviceCenterName.text())[1].split("Contact:")[0].split("\n\n\t\t\n\t\t\n\n\t\t")[0].split("\n\t\t\n\t\t\n\t\t")[0].split("\n        \n")[0].split("\n\n\n")[0].split("Support for Blackberry products")[0].replaceAll("\n","").replaceAll("\t","").trim()
+                        else 
+                        arr[count]["address"] = string.replace(serviceCenterName.text(),"").replace(tel[1],"").replaceAll("\n","").replaceAll("\t","").replace("Contact:","").replaceAll("   ","").replaceAll(" ","").trim()
+
+                        arr[count]["phone"] = tel[2]?tel[2].trim():tel[1]?.split("\n\n\n\t\t")[0].trim()
                         count ++
                     }
                 
