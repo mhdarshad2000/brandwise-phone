@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node vtech.js",
+    "start": "node atAndT.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
