@@ -62,24 +62,23 @@ async function detailsPage(cityUrl, brand) {
                             arr[i]["phone"] = $(address).text()
                     })
                 })
-            } else{
-console.log(1212121212121212)
-$(postDiv).children("h2").each((i,serviceCenter)=>{
-    if(!$(serviceCenter).text().includes("Nec Phones Service Centers")){
-        arr[i-1]={}
-        arr[i-1]["serviceCenter"] = $(serviceCenter).text()
-        if($(serviceCenter).next().text()){
-            if($(serviceCenter).next().text().includes("\n")){
-                arr[i-1]["address"] = $(serviceCenter).next().text().replaceAll("\n","").replaceAll("\t","")
-                arr[i-1]["phone"] = $(serviceCenter).next().next().text()
-            }else{
-            arr[i-1]["phone"]=$(serviceCenter).next().text()
-        }
-        }
-    }
-})
-            
-        }
+            } else {
+                $(postDiv).children("h2").each((i, serviceCenter) => {
+                    if (!$(serviceCenter).text().includes("Nec Phones Service Centers")) {
+                        arr[i - 1] = {}
+                        arr[i - 1]["serviceCenter"] = $(serviceCenter).text()
+                        if ($(serviceCenter).next().text()) {
+                            if ($(serviceCenter).next().text().includes("\n")) {
+                                arr[i - 1]["address"] = $(serviceCenter).next().text().replaceAll("\n", "").replaceAll("\t", "")
+                                arr[i - 1]["phone"] = $(serviceCenter).next().next().text()
+                            } else {
+                                arr[i - 1]["phone"] = $(serviceCenter).next().text()
+                            }
+                        }
+                    }
+                })
+
+            }
 
             resolve(arr)
         } catch (error) {
