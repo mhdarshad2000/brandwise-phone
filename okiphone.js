@@ -52,28 +52,27 @@ async function detailsPage(cityUrl, brand) {
 
             const tableDiv = $(postDiv).find("table > tbody > tr")
             if ($(tableDiv).text()) {
-                $(tableDiv).each((i, serviceCenter) => {
-                    arr[i] = {}
-                    arr[i]["serviceCenter"] = $(serviceCenter).children("td").children("h2").text()
-                    $(serviceCenter).children("td").children("div").each((j, address) => {
-                        if ($(address).text().includes("\n"))
-                            arr[i]["address"] = $(address).text().replaceAll("\n", "").replaceAll("\t", "").trim()
-                        else if ($(address).text().length)
-                            arr[i]["phone"] = $(address).text()
-                    })
-                })
+                // $(tableDiv).each((i, serviceCenter) => {
+                //     arr[i] = {}
+                //     arr[i]["serviceCenter"] = $(serviceCenter).children("td").children("h2").text()
+                //     $(serviceCenter).children("td").children("div").each((j, address) => {
+                //         if ($(address).text().includes("\n"))
+                //             arr[i]["address"] = $(address).text().replaceAll("\n", "").replaceAll("\t", "").trim()
+                //         else if ($(address).text().length)
+                //             arr[i]["phone"] = $(address).text()
+                //     })
+                // })
             } else {
                 $(postDiv).children("h2").each((i, serviceCenter) => {
-                    if (!$(serviceCenter).text().includes("Nec Phones Service Centers")) {
-                        arr[i - 1] = {}
-                        arr[i - 1]["serviceCenter"] = $(serviceCenter).text()
-                        if ($(serviceCenter).next().text()) {
-                            if ($(serviceCenter).next().text().includes("\n")) {
-                                arr[i - 1]["address"] = $(serviceCenter).next().text().replaceAll("\n", "").replaceAll("\t", "")
-                                arr[i - 1]["phone"] = $(serviceCenter).next().next().text()
-                            } else {
-                                arr[i - 1]["phone"] = $(serviceCenter).next().text()
-                            }
+                    if(!$(serviceCenter).text().includes("Oki Phone Service Centers in Vancouver")){
+                        arr[i-1]={}
+                        arr[i-1]["serviceCenter"] = $(serviceCenter).text()
+                        if(/[a-z]/gi.test($(serviceCenter).next().text())){
+                            arr[i-1]["address"] = $(serviceCenter).next().text().replaceAll("\n","").replaceAll("\t","")
+                            arr[i-1]["phone"]= $(serviceCenter).next().next().text()
+                        }else{
+                            arr[i-1]["phone"]= $(serviceCenter).next().text()
+
                         }
                     }
                 })
