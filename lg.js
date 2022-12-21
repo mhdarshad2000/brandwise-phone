@@ -1,7 +1,6 @@
 const cheerio = require("cheerio")
 const rp = require("request-promise")
 const fs = require("fs")
-const { resolve } = require("path")
 
 
 const baseUrl = "https://www.service-center-locator.com/"
@@ -19,24 +18,25 @@ async function scrap() {
                 lg[i]['state'] = ($(state).children("strong").text())
                 lg[i]['states'] = []
                 $(state).children("li").each(async (j, city) => {
-                    lg[i]['states'][j] = {}
-                    if(!$(city).text().includes("other cities")){
+                    if (!$(city).text().includes("other cities")) {
+                        lg[i]['states'][j] = {}
                         lg[i]['states'][j]['name'] = $(city).text()
                         const link = $(city).children("a").attr("href").replace("../", baseUrl)
                         lg[i]['states'][j]['link'] = link
                         lg[i]['states'][j]['city'] = await detailsPage(link, $(city).text())
-                    }else{
-                        const link = $(city).children("a").attr("href").replace("../",baseUrl)
-                        await nextPage(link)
+                    } else {
+                        const link = $(city).children("a").attr("href").replace("..", baseUrl)
+                        const result = await nextPage(link)
+                        result.map((elem, index) => {
+                            lg[i]['states'][j + index] = elem
+                        })
                     }
                 })
-
             })
             setTimeout(() => {
                 const brand = JSON.stringify(lg)
                 fs.writeFileSync("./lg.json", brand)
-
-            }, 7000)
+            }, 12000)
 
         } catch (error) {
 
@@ -46,38 +46,50 @@ async function scrap() {
 
 scrap()
 
-async function nextPage(link){
-    return new Promise(async(resolve)=>{
-        const arr = []
+
+async function nextPage(url) {
+    return new Promise(async (resolve) => {
         try {
-            const htmlString = await rp(link)
+            const arr = []
+            let promises = []
+            const htmlString = await rp(url)
             const $ = cheerio.load(htmlString)
-            const postDiv = $(".post")
-            const ul = $(postDiv).find("ul")
-            $(ul).children("li").each(async(i,city)=>{
-                arr[i]={}
-                arr[i]["name"]=$(city).text()
-                const link= $(city).children("a").attr("href").replace("../",baseUrl)
+            const div = $(".post")
+            await $(div).children("ul").children("li").each(async (i, city) => {
+                arr[i] = {}
+                arr[i]["name"] = $(city).text()
+                const link = $(city).children("a").attr("href").replace("..", baseUrl + "/lg")
                 arr[i]["link"] = link
-                arr[i]["city"] = await detailsPageOther(link,$(city).text())
+                promises.push({ i, link })
+            })
+            Promise.all(promises.map(async (i) => {
+                arr[i.i]["city"] = await otherCity(i.link)
+            })).then(() => {
+                resolve(arr)
             })
         } catch (error) {
-            
+
         }
     })
 }
 
-async function detailsPageOther(otherUrl){
-    console.log(otherUrl)
-    return new Promise(async(resolve)=>{
-        const arr = []
+async function otherCity(otherUrl) {
+    return new Promise(async (resolve) => {
         try {
+            const arr = []
             const htmlString = await rp(otherUrl)
-            console.log(1212)
-        const $ = cheerio.load(htmlString)
-        const postDiv = $(".post")
-        console.log(postDiv.text())
+            const $ = cheerio.load(htmlString)
+            const div = $(".post")
+            $(div).find("div[ itemscope='itemscope']").each((i, serviceCenter) => {
+                arr[i] = {}
+                arr[i]["serviceCenter"] = $(serviceCenter).children("h3").text()
+                arr[i]["address"] = $(serviceCenter).children("div").children("div").children("p").text()
+                arr[i]["phone"] = $(serviceCenter).children("div").children("div").children("div [itemprop='telephone']").text()
+
+            })
+            resolve(arr)
         } catch (error) {
+
         }
     })
 }
@@ -109,15 +121,12 @@ async function detailsPage(cityUrl, brand) {
                         arr[i] = {}
                         const serviceCenterName = $(serviceCenter).text()
                         arr[i]["serviceCenter"] = serviceCenterName
-                        arr[i]["address"] = $(serviceCenter).parent().text().replace(serviceCenterName,"").split("Phone")[0].trim()
+                        arr[i]["address"] = $(serviceCenter).parent().text().replace(serviceCenterName, "").split("Phone")[0].trim()
                         arr[i]["phone"] = $(serviceCenter).parent().text().replace(serviceCenterName, "").split("Phone:")[1].split("Fax:")[0].trim()
                         arr[i]["fax"] = $(serviceCenter).parent().text().replace(serviceCenterName, "").split("Fax:")[1].split("\n")[0].trim()
                     }
                 })
             }
-
-
-
 
 
             resolve(arr)
