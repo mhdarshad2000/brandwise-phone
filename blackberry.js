@@ -24,7 +24,7 @@ async function scrap() {
                     const link = $(city).children("a").attr("href").replace("../", baseUrl)
                     blackberry[i]['states'][j]['link'] = link
 
-                    blackberry[i]['states'][j]['city'] = await detailsPage(link,$(city).text())
+                    blackberry[i]['states'][j]['city'] = await detailsPage(link, $(city).text())
                 })
 
             })
@@ -42,7 +42,7 @@ async function scrap() {
 
 scrap()
 
-async function detailsPage(cityUrl,brand) {
+async function detailsPage(cityUrl, brand) {
     return new Promise(async (resolve) => {
         try {
             const arr = []
@@ -53,23 +53,23 @@ async function detailsPage(cityUrl,brand) {
             })
             const $ = cheerio.load(htmlString)
             const postDiv = $(".post")
-            let count = 0 
+            let count = 0
             $(postDiv).children("strong").each((j, serviceCenter) => {
                 const serviceCenterName = $(serviceCenter)
-                if(!serviceCenterName.text().includes("\n")){
-                        arr[count] = {}
-                        arr[count]["serviceCenter"] = serviceCenterName.text()
-                        let string = $(serviceCenter).parent().text()
-                        const tel= string.split("Contact:")
-                        if(string.length > 100)
-                        arr[count]["address"] = string.split(serviceCenterName.text())[1].split("Contact:")[0].split("\n\n\t\t\n\t\t\n\n\t\t")[0].split("\n\t\t\n\t\t\n\t\t")[0].split("\n        \n")[0].split("\n\n\n")[0].split("Support for Blackberry products")[0].replaceAll("\n","").replaceAll("\t","").trim()
-                        else 
-                        arr[count]["address"] = string.replace(serviceCenterName.text(),"").replace(tel[1],"").replaceAll("\n","").replaceAll("\t","").replace("Contact:","").replaceAll("   ","").replaceAll(" ","").trim()
+                if (!serviceCenterName.text().includes("\n")) {
+                    arr[count] = {}
+                    arr[count]["serviceCenter"] = serviceCenterName.text()
+                    let string = $(serviceCenter).parent().text()
+                    const tel = string.split("Contact:")
+                    if (string.length > 100)
+                        arr[count]["address"] = string.split(serviceCenterName.text())[1].split("Contact:")[0].split("\n\n\t\t\n\t\t\n\n\t\t")[0].split("\n\t\t\n\t\t\n\t\t")[0].split("\n        \n")[0].split("\n\n\n")[0].split("Support for Blackberry products")[0].replaceAll("\n", "").replaceAll("\t", "").trim()
+                    else
+                        arr[count]["address"] = string.replace(serviceCenterName.text(), "").replace(tel[1], "").replaceAll("\n", "").replaceAll("\t", "").replace("Contact:", "").replaceAll("   ", "").replaceAll(" ", "").trim()
 
-                        arr[count]["phone"] = tel[2]?tel[2].split('x')[0].replace(/[a-z]/gi,'').replaceAll("(","").replaceAll(")","").trim():tel[1]?.split("\n\n\n\t\t")[0].split('x')[0].replace(/[a-z]/gi,'').replaceAll("(","").replaceAll(")","").trim()
-                        count ++
-                    }
-                
+                    arr[count]["phone"] = tel[2] ? tel[2].split('x')[0].replace(/[a-z]/gi, '').replaceAll("(", "").replaceAll(")", "").trim() : tel[1]?.split("\n\n\n\t\t")[0].split('x')[0].replace(/[a-z]/gi, '').replaceAll("(", "").replaceAll(")", "").trim()
+                    count++
+                }
+
             })
             resolve(arr)
         } catch (error) {
