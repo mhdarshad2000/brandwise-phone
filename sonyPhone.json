@@ -7904,7 +7904,14 @@
         "states": [
             {
                 "name": "Harrisburg",
-                "link": "https://www.service-center-locator.com/sony-phones/pennsylvania/sony-phones-harrisburg-pennsylvania.htm"
+                "link": "https://www.service-center-locator.com/sony-phones/pennsylvania/sony-phones-harrisburg-pennsylvania.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Connect-A-Phone",
+                        "address": "730 Lewisberry Rd  Lewisberry, PA 17339",
+                        "phone": "(717) 938-8654"
+                    }
+                ]
             },
             {
                 "name": "Philadelphia",

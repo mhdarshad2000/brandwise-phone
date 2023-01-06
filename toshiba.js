@@ -32,7 +32,7 @@ async function scrap() {
                 const brand = JSON.stringify(toshiba)
                 fs.writeFileSync("./toshiba.json", brand)
 
-            }, 7000)
+            }, 25000)
 
         } catch (error) {
 

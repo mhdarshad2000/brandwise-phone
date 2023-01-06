@@ -212,11 +212,113 @@
         "states": [
             {
                 "name": "Anchorage",
-                "link": "https://www.service-center-locator.com/htc/alaska/htc-anchorage-alaska.htm"
+                "link": "https://www.service-center-locator.com/htc/alaska/htc-anchorage-alaska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cricket Wireless",
+                        "phone": "(800) 274-2538"
+                    },
+                    {
+                        "serviceCenter": "Adonai Telecom",
+                        "address": "636E15thAve,Anchorage,AK99501-5342",
+                        "phone": "(907) 277-7477"
+                    },
+                    {
+                        "serviceCenter": "Cellular",
+                        "address": "Anchorage,AK99501-9950",
+                        "phone": "(907) 244-3734"
+                    },
+                    {
+                        "serviceCenter": "Cracked Wireless",
+                        "address": "1106W15thAve,Anchorage,AK99501-4901",
+                        "phone": "(907) 272-2533"
+                    },
+                    {
+                        "serviceCenter": "High Frequency Wireless",
+                        "address": "636E15thAve#STE1,Anchorage,AK99501-5342",
+                        "phone": "(907) 677-9577"
+                    },
+                    {
+                        "serviceCenter": "RadioShack",
+                        "address": "320W5thAve#STE156,Anchorage,AK99501-2357",
+                        "phone": "(907) 677-1181"
+                    },
+                    {
+                        "serviceCenter": "Rys Above",
+                        "address": "320W5thAve,Anchorage,AK99501-2357",
+                        "phone": "(907) 770-5654"
+                    },
+                    {
+                        "serviceCenter": "Top Tier Sales",
+                        "address": "606E6thAve,Anchorage,AK99501-2741",
+                        "phone": "(907) 258-1017"
+                    },
+                    {
+                        "serviceCenter": "Acs Wireless Inc",
+                        "address": "600TelephoneAve,Anchorage,AK99503-6010",
+                        "phone": "(907) 563-8000"
+                    },
+                    {
+                        "serviceCenter": "Alasconnect",
+                        "address": "2700GambellSt,Anchorage,AK99503-2833",
+                        "phone": "(907) 258-2527"
+                    }
+                ]
             },
             {
                 "name": "Fairbanks",
-                "link": "https://www.service-center-locator.com/htc/alaska/htc-fairbanks-alaska.htm"
+                "link": "https://www.service-center-locator.com/htc/alaska/htc-fairbanks-alaska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cricket Wireless",
+                        "phone": "(800) 274-2538"
+                    },
+                    {
+                        "serviceCenter": "Ace Tekk Wireless Internet",
+                        "address": "PoBox74648,Fairbanks,AK99707-4648",
+                        "phone": "(907) 374-9322"
+                    },
+                    {
+                        "serviceCenter": "Alaska Communications",
+                        "address": "410MerharAve,Fairbanks,AK99701-3166",
+                        "phone": "(907) 459-6200"
+                    },
+                    {
+                        "serviceCenter": "Alaska Prepaid Cellular",
+                        "address": "721GaffneyRd,Fairbanks,AK99701-4609",
+                        "phone": "(907) 456-1105"
+                    },
+                    {
+                        "serviceCenter": "ATT Store",
+                        "address": "356OldSteeseHwy,Fairbanks,AK99701-3126",
+                        "phone": "(907) 459-2355"
+                    },
+                    {
+                        "serviceCenter": "ATT Store",
+                        "address": "407MerharAve,Fairbanks,AK99701-3166",
+                        "phone": "(907) 455-4381"
+                    },
+                    {
+                        "serviceCenter": "Global Cellular",
+                        "address": "32CollegeRd,Fairbanks,AK99701-1745",
+                        "phone": "(907) 474-1011"
+                    },
+                    {
+                        "serviceCenter": "Micro Com",
+                        "address": "975VanHornRd#STE2,Fairbanks,AK99701-7576",
+                        "phone": "(907) 264-0039"
+                    },
+                    {
+                        "serviceCenter": "AT&T",
+                        "address": "3576AirportWay,Fairbanks,AK99709-4760",
+                        "phone": "(907) 459-2355"
+                    },
+                    {
+                        "serviceCenter": "ATT Store",
+                        "address": "3576AirportWay,Fairbanks,AK99709-4760",
+                        "phone": "(907) 451-1942"
+                    }
+                ]
             },
             {
                 "name": "Juneau",
@@ -416,7 +518,34 @@
             },
             {
                 "name": "Tucson",
-                "link": "https://www.service-center-locator.com/htc/arizona/htc-tucson-arizona.htm"
+                "link": "https://www.service-center-locator.com/htc/arizona/htc-tucson-arizona.htm",
+                "city": [
+                    {
+                        "serviceCenter": "HTC Body Piercing",
+                        "address": "Tempe,AZ85281-2323",
+                        "phone": "(480) 557-4540"
+                    },
+                    {
+                        "serviceCenter": "HTC Body Piercing",
+                        "address": "4634N7thAve,Phoenix,AZ85013-2756",
+                        "phone": "(602) 266-0088"
+                    },
+                    {
+                        "serviceCenter": "HTC Body Piercing",
+                        "address": "225WUniversityDr#STE202,Tempe,AZ85281-3616",
+                        "phone": "(480) 784-4460"
+                    },
+                    {
+                        "serviceCenter": "Htc Precision Piercing Inc",
+                        "address": "225WUniversityDr#STE103,Tempe,AZ85281-3666",
+                        "phone": "(480) 784-4460"
+                    },
+                    {
+                        "serviceCenter": "Ltd Cutting Innovations",
+                        "address": "2821S35thSt,Phoenix,AZ85034-7231",
+                        "phone": "(602) 299-0499"
+                    }
+                ]
             },
             {
                 "name": "Yuma",
@@ -645,7 +774,58 @@
             },
             {
                 "name": "Jonesboro",
-                "link": "https://www.service-center-locator.com/htc/arkansas/htc-jonesboro-arkansas.htm"
+                "link": "https://www.service-center-locator.com/htc/arkansas/htc-jonesboro-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cricket Wireless - Highland",
+                        "address": "3423CEHighlandDr,Jonesboro,AR72401",
+                        "phone": "(870) 972-1833"
+                    },
+                    {
+                        "serviceCenter": "Cricket Wireless",
+                        "phone": "(800) 274-2538"
+                    },
+                    {
+                        "serviceCenter": "Apex Communications",
+                        "address": "3410EJohnsonAve,Jonesboro,AR72401-1876",
+                        "phone": "(870) 203-0983"
+                    },
+                    {
+                        "serviceCenter": "Apex Communications",
+                        "address": "153SWDr,Jonesboro,AR72401-5828",
+                        "phone": "(870) 972-1080"
+                    },
+                    {
+                        "serviceCenter": "ATT Store",
+                        "address": "3006EHighlandDr,Jonesboro,AR72401-6321",
+                        "phone": "(870) 935-5500"
+                    },
+                    {
+                        "serviceCenter": "Best Buy",
+                        "address": "3000EHighlandDr#STE400,Jonesboro,AR72401-6378",
+                        "phone": "(870) 802-1449"
+                    },
+                    {
+                        "serviceCenter": "Complete Wireless",
+                        "address": "1700EJohnsonAve,Jonesboro,AR72401-2429",
+                        "phone": "(870) 972-8205"
+                    },
+                    {
+                        "serviceCenter": "Esold",
+                        "address": "2211EHighlandDr,Jonesboro,AR72401-6127",
+                        "phone": "(870) 275-6047"
+                    },
+                    {
+                        "serviceCenter": "RadioShack",
+                        "address": "2809ENettletonAve,Jonesboro,AR72401-4532",
+                        "phone": "(870) 932-6161"
+                    },
+                    {
+                        "serviceCenter": "RadioShack",
+                        "address": "3000EHighlandDr#STE111,Jonesboro,AR72401-6361",
+                        "phone": "(870) 972-6280"
+                    }
+                ]
             },
             {
                 "name": "Little Rock",
@@ -759,7 +939,58 @@
             },
             {
                 "name": "Pine Bluff",
-                "link": "https://www.service-center-locator.com/htc/arkansas/htc-pine-bluff-arkansas.htm"
+                "link": "https://www.service-center-locator.com/htc/arkansas/htc-pine-bluff-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cricket Wireless",
+                        "phone": "(800) 274-2538"
+                    },
+                    {
+                        "serviceCenter": "ATT Store",
+                        "address": "2901PinesMallDr,PineBluff,AR71601-7615",
+                        "phone": "(870) 619-1292"
+                    },
+                    {
+                        "serviceCenter": "Cellular Technology Inc",
+                        "address": "310STexas,PineBluff,AR71601-7160",
+                        "phone": "(870) 534-3462"
+                    },
+                    {
+                        "serviceCenter": "Douthit's Radio Service Inc",
+                        "address": "1301EMartinPl,PineBluff,AR71601-6031",
+                        "phone": "(870) 535-3894"
+                    },
+                    {
+                        "serviceCenter": "Nour Cellphone Accessories",
+                        "address": "2901PinesMallDr,PineBluff,AR71601-7615",
+                        "phone": "(870) 534-1452"
+                    },
+                    {
+                        "serviceCenter": "C P R Cell Repair",
+                        "address": "3801CamdenRd,PineBluff,AR71603-4612",
+                        "phone": "(870) 879-9361"
+                    },
+                    {
+                        "serviceCenter": "Cricket",
+                        "address": "2522W28thAve,PineBluff,AR71603-5054",
+                        "phone": "(870) 850-0350"
+                    },
+                    {
+                        "serviceCenter": "Cricket",
+                        "address": "2801SOliveSt#STE36B,PineBluff,AR71603-5496",
+                        "phone": "(870) 536-1100"
+                    },
+                    {
+                        "serviceCenter": "New Wave LLC",
+                        "address": "5401SOliveSt#STE500,PineBluff,AR71603-7629",
+                        "phone": "(870) 535-9100"
+                    },
+                    {
+                        "serviceCenter": "RadioShack",
+                        "address": "5401SOliveSt#STE300,PineBluff,AR71603-7623",
+                        "phone": "(870) 536-8060"
+                    }
+                ]
             },
             {
                 "name": "Rogers",
@@ -940,11 +1171,65 @@
             },
             {
                 "name": "Berkeley",
-                "link": "https://www.service-center-locator.com/htc/california/htc-berkeley-california.htm"
+                "link": "https://www.service-center-locator.com/htc/california/htc-berkeley-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Bigfoot iPhone Repair",
+                        "address": "3514MacarthurBlvd,Oakland,CA94619",
+                        "phone": "(510) 600-3668"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Center",
+                        "address": "2601SanBrunoAve,SanFrancisco,CA94134",
+                        "phone": "(415) 656-4418"
+                    },
+                    {
+                        "serviceCenter": "S F I Phone & Ipad Repair",
+                        "address": "1275ColumbusAve,SanFrancisco,CA94133",
+                        "phone": "(415) 913-7569"
+                    },
+                    {
+                        "serviceCenter": "DE iPhone Repair",
+                        "address": "2525VanNessAve,SanFrancisco,CA94109",
+                        "phone": "(415) 366-0771"
+                    },
+                    {
+                        "serviceCenter": "I Phone-IPad-IPod Repair-Unlocking Se...",
+                        "address": "2775ClaytonRd,Concord,CA94519",
+                        "phone": "(925) 969-1300"
+                    },
+                    {
+                        "serviceCenter": "East Bay I Phone Repair",
+                        "address": "3526ClaytonRd,Concord,CA94519",
+                        "phone": "(925) 446-6755"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1212BElCaminoReal,SanBruno,CA94066",
+                        "phone": "(650) 273-4209"
+                    }
+                ]
             },
             {
                 "name": "Fresno",
-                "link": "https://www.service-center-locator.com/htc/california/htc-fresno-california.htm"
+                "link": "https://www.service-center-locator.com/htc/california/htc-fresno-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Supreme iPhone Repair",
+                        "address": "2045EAshlan103b,Fresno,CA93726",
+                        "phone": "(559) 285-3782"
+                    },
+                    {
+                        "serviceCenter": "I Resuce Cell Phone Repair",
+                        "address": "7032NCedarAve,Fresno,CA93720",
+                        "phone": "(559) 299-6777"
+                    },
+                    {
+                        "serviceCenter": "Screenworks Cell Phone Repair",
+                        "address": "1057NWillowAve,Clovis,CA93611",
+                        "phone": "(559) 325-2700"
+                    }
+                ]
             },
             {
                 "name": "Long Beach",
@@ -1234,7 +1519,44 @@
             },
             {
                 "name": "San Francisco",
-                "link": "https://www.service-center-locator.com/htc/california/htc-san-francisco-california.htm"
+                "link": "https://www.service-center-locator.com/htc/california/htc-san-francisco-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "HTC Engineers",
+                        "address": "1529CypressSt,WalnutCreek,CA94596",
+                        "phone": "(925) 937-4147"
+                    },
+                    {
+                        "serviceCenter": "Sprint",
+                        "address": "928VanNessAve,SanFrancisco,CA94109",
+                        "phone": "(415) 346-7727"
+                    },
+                    {
+                        "serviceCenter": "Sprint",
+                        "address": "843MissionSt#STEF,SanFrancisco,CA94103",
+                        "phone": "(415) 371-1334"
+                    },
+                    {
+                        "serviceCenter": "AT&T",
+                        "address": "701MarketSt,SanFrancisco,CA94103",
+                        "phone": "(415) 610-5437"
+                    },
+                    {
+                        "serviceCenter": "AT&T",
+                        "address": "705MarketSt,SanFrancisco,CA94103",
+                        "phone": "(415) 697-1609"
+                    },
+                    {
+                        "serviceCenter": "Sprint",
+                        "address": "690MarketSt,SanFrancisco,CA94104",
+                        "phone": "(415) 677-0190"
+                    },
+                    {
+                        "serviceCenter": "Sprint",
+                        "address": "1655BryantSt#STE190,SanFrancisco,CA94103",
+                        "phone": "(415) 552-5845"
+                    }
+                ]
             },
             {
                 "name": "San Jose",
@@ -1372,19 +1694,130 @@
             },
             {
                 "name": "Denver",
-                "link": "https://www.service-center-locator.com/htc/colorado/htc-denver-colorado.htm"
+                "link": "https://www.service-center-locator.com/htc/colorado/htc-denver-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1531StoutSt,Denver,CO80202",
+                        "phone": "(720) 508-8463"
+                    },
+                    {
+                        "serviceCenter": "Premier iPhone Repair",
+                        "address": "100116thStB-180#63,Denver,CO80265",
+                        "phone": "(303) 261-7817"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1430WCedarAveC,Denver,CO80223",
+                        "phone": "(303) 366-3142"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5066SWadsworthWay,Littleton,CO80123",
+                        "phone": "(303) 948-1553"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair",
+                        "address": "14301ECedarAveC,Aurora,CO80012",
+                        "phone": "(303) 366-3142"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair CPR",
+                        "address": "1001W120thAve#105,Westminster,CO80234",
+                        "phone": "(303) 255-3998"
+                    }
+                ]
             },
             {
                 "name": "Fort Collins",
-                "link": "https://www.service-center-locator.com/htc/colorado/htc-fort-collins-colorado.htm"
+                "link": "https://www.service-center-locator.com/htc/colorado/htc-fort-collins-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "238EHarmonyRd,FortCollins,CO80525",
+                        "phone": "(970) 225-9277"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1550FallRiverDr,Loveland,CO80538",
+                        "phone": "(970) 619-8359"
+                    }
+                ]
             },
             {
                 "name": "Pueblo",
-                "link": "https://www.service-center-locator.com/htc/colorado/htc-pueblo-colorado.htm"
+                "link": "https://www.service-center-locator.com/htc/colorado/htc-pueblo-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Vista Phones",
+                        "address": "4209SentinelPl,Pueblo,CO81008",
+                        "phone": "(720) 722-1422"
+                    },
+                    {
+                        "serviceCenter": "Phone Fun",
+                        "address": "3225DillonDr,Pueblo,CO81008",
+                        "phone": "(719) 545-4778"
+                    },
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "Ameritech Checkrite of Pueblo",
+                        "phone": "(719) 545-1917"
+                    },
+                    {
+                        "serviceCenter": "WTSC Communications",
+                        "address": "3902SandalwoodLn120,Pueblo,CO81005",
+                        "phone": "(719) 545-7505"
+                    },
+                    {
+                        "serviceCenter": "Boost Mobile",
+                        "address": "963WUsHighway50,Pueblo,CO81008",
+                        "phone": "(719) 582-1905"
+                    },
+                    {
+                        "serviceCenter": "Pageme Inc",
+                        "address": "1340EEvansAve,Pueblo,CO81004",
+                        "phone": "(719) 253-7762"
+                    }
+                ]
             },
             {
                 "name": "Westminster",
-                "link": "https://www.service-center-locator.com/htc/colorado/htc-westminster-colorado.htm"
+                "link": "https://www.service-center-locator.com/htc/colorado/htc-westminster-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Repair CPR",
+                        "address": "1001W120thAve#105,Westminster,CO80234",
+                        "phone": "(303) 255-3998"
+                    },
+                    {
+                        "serviceCenter": "Premier iPhone Repair",
+                        "address": "100116thStB-180#63,Denver,CO80265",
+                        "phone": "(303) 261-7817"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1531StoutSt,Denver,CO80202",
+                        "phone": "(720) 508-8463"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1430WCedarAveC,Denver,CO80223",
+                        "phone": "(303) 366-3142"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5066SWadsworthWay,Littleton,CO80123",
+                        "phone": "(303) 948-1553"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair",
+                        "address": "14301ECedarAveC,Aurora,CO80012",
+                        "phone": "(303) 366-3142"
+                    }
+                ]
             }
         ]
     },
@@ -1393,7 +1826,44 @@
         "states": [
             {
                 "name": "Bridgeport",
-                "link": "https://www.service-center-locator.com/htc/connecticut/htc-bridgeport-connecticut.htm"
+                "link": "https://www.service-center-locator.com/htc/connecticut/htc-bridgeport-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Fast Cell Phone Repair",
+                        "address": "4WallSt,Norwalk,CT06850",
+                        "phone": "(203) 246-2978"
+                    },
+                    {
+                        "serviceCenter": "Dr. iPhone Repair & More",
+                        "address": "444GrandAve,NewHaven,CT06513",
+                        "phone": "(203) 903-5976"
+                    },
+                    {
+                        "serviceCenter": "Phone Stitch & IPhone Repair",
+                        "address": "farhan.vzw@gmail.com",
+                        "phone": "(631) 378-5813"
+                    },
+                    {
+                        "serviceCenter": "Odyssey phone repair",
+                        "address": "300MainSt,Northport,NY11768",
+                        "phone": "(631) 759-0379"
+                    },
+                    {
+                        "serviceCenter": "Red Hot Phone Repairs",
+                        "address": "80CarletonAve,EastIslip,NY11730",
+                        "phone": "(631) 485-5110"
+                    },
+                    {
+                        "serviceCenter": "I Phone Repair Li Inc",
+                        "address": "601JerichoTpke,Syosset,NY11791",
+                        "phone": "(516) 364-0002"
+                    },
+                    {
+                        "serviceCenter": "Devicefix Cell Phone Repair",
+                        "address": "1825DeerParkAve,DeerPark,NY11729",
+                        "phone": "(631) 539-0782"
+                    }
+                ]
             },
             {
                 "name": "Danbury",
@@ -1423,11 +1893,60 @@
             },
             {
                 "name": "Greenwich",
-                "link": "https://www.service-center-locator.com/htc/connecticut/htc-greenwich-connecticut.htm"
+                "link": "https://www.service-center-locator.com/htc/connecticut/htc-greenwich-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Fast Cell Phone Repair",
+                        "address": "4WallSt,Norwalk,CT06850",
+                        "phone": "(203) 246-2978"
+                    },
+                    {
+                        "serviceCenter": "I Phone Repair Li Inc",
+                        "address": "601JerichoTpke,Syosset,NY11791",
+                        "phone": "(516) 364-0002"
+                    },
+                    {
+                        "serviceCenter": "Odyssey phone repair",
+                        "address": "300MainSt,Northport,NY11768",
+                        "phone": "(631) 759-0379"
+                    },
+                    {
+                        "serviceCenter": "Speed Wireless & Phone Fix and Repair",
+                        "address": "1000PalisadesCtrDr,WestNyack,NY10994",
+                        "phone": "(845) 358-1145"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "420CrosswaysParkDr,Woodbury,NY11797",
+                        "phone": "(516) 802-5257"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "211BWRoute59,Nanuet,NY10954",
+                        "phone": "(845) 507-0809"
+                    },
+                    {
+                        "serviceCenter": "Harlem Cell Phone Repair Inc",
+                        "address": "2542AdamClaytonPowellJrBlvd,NewYork,NY10039",
+                        "phone": "(646) 590-4836"
+                    }
+                ]
             },
             {
                 "name": "Hartford",
-                "link": "https://www.service-center-locator.com/htc/connecticut/htc-hartford-connecticut.htm"
+                "link": "https://www.service-center-locator.com/htc/connecticut/htc-hartford-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "24 Hour Phones & Accessories",
+                        "address": "349WMainSt,Waterbury,CT06702",
+                        "phone": "(203) 982-3183"
+                    },
+                    {
+                        "serviceCenter": "Kandc Cell Outfitter Phone",
+                        "address": "703NewburySt,Springfield,MA01104",
+                        "phone": "(413) 209-9003"
+                    }
+                ]
             },
             {
                 "name": "New Haven",
@@ -1548,7 +2067,44 @@
             },
             {
                 "name": "Stamford",
-                "link": "https://www.service-center-locator.com/htc/connecticut/htc-stamford-connecticut.htm"
+                "link": "https://www.service-center-locator.com/htc/connecticut/htc-stamford-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Fast Cell Phone Repair",
+                        "address": "4WallSt,Norwalk,CT06850",
+                        "phone": "(203) 246-2978"
+                    },
+                    {
+                        "serviceCenter": "I Phone Repair Li Inc",
+                        "address": "601JerichoTpke,Syosset,NY11791",
+                        "phone": "(516) 364-0002"
+                    },
+                    {
+                        "serviceCenter": "Odyssey phone repair",
+                        "address": "300MainSt,Northport,NY11768",
+                        "phone": "(631) 759-0379"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "420CrosswaysParkDr,Woodbury,NY11797",
+                        "phone": "(516) 802-5257"
+                    },
+                    {
+                        "serviceCenter": "Speed Wireless & Phone Fix and Repair",
+                        "address": "1000PalisadesCtrDr,WestNyack,NY10994",
+                        "phone": "(845) 358-1145"
+                    },
+                    {
+                        "serviceCenter": "Cardinal Phone Repair",
+                        "address": "280Broadway,Bethpage,NY11714",
+                        "phone": "(516) 342-6387"
+                    },
+                    {
+                        "serviceCenter": "iProdigy iPhone Repair",
+                        "address": "2281BellmoreAve,Bellmore,NY11710",
+                        "phone": "(516) 557-2882"
+                    }
+                ]
             },
             {
                 "name": "Waterbury",
@@ -1571,15 +2127,59 @@
         "states": [
             {
                 "name": "Dover",
-                "link": "https://www.service-center-locator.com/htc/delaware/htc-dover-delaware.htm"
+                "link": "https://www.service-center-locator.com/htc/delaware/htc-dover-delaware.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "516 Middletown Warwick Rd,  Middletown, DE 19709",
+                        "phone": "(302) 378-4695"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Newark",
-                "link": "https://www.service-center-locator.com/htc/delaware/htc-newark-delaware.htm"
+                "link": "https://www.service-center-locator.com/htc/delaware/htc-newark-delaware.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "516MiddletownWarwickRd,Middletown,DE19709",
+                        "phone": "(302) 378-4695"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "sales@eazycomputers.com",
+                        "phone": "(215) 310-0143"
+                    }
+                ]
             },
             {
                 "name": "Wilmington",
-                "link": "https://www.service-center-locator.com/htc/delaware/htc-wilmington-delaware.htm"
+                "link": "https://www.service-center-locator.com/htc/delaware/htc-wilmington-delaware.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "516MiddletownWarwickRd,Middletown,DE19709",
+                        "phone": "(302) 378-4695"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "sales@eazycomputers.com",
+                        "phone": "(215) 310-0143"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair Philadelphia",
+                        "address": "1539PrattSt,Philadelphia,PA19124",
+                        "phone": "(215) 914-6285"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "sales@eazycomputers.com",
+                        "phone": "(215) 609-4515"
+                    }
+                ]
             }
         ]
     },
@@ -1588,15 +2188,126 @@
         "states": [
             {
                 "name": "Fort Lauderdale",
-                "link": "https://www.service-center-locator.com/htc/florida/htc-fort-lauderdale-florida.htm"
+                "link": "https://www.service-center-locator.com/htc/florida/htc-fort-lauderdale-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1847CordovaRd,FortLauderdale,FL33316",
+                        "phone": "(954) 635-2676"
+                    },
+                    {
+                        "serviceCenter": "Phone Repair Guy",
+                        "address": "3291WSunriseBlvd,FortLauderdale,FL33311",
+                        "phone": "(954) 242-8277"
+                    },
+                    {
+                        "serviceCenter": "Cellular Proz iPhone Repair",
+                        "address": "4399NUniversityDr,Lauderhill,FL33351",
+                        "phone": "(954) 380-6870"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5810SUniversityDr#STE113,Davie,FL33328",
+                        "phone": "(954) 252-7177"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone And Computer Repairs, LLC",
+                        "address": "5021SStateRd7Unit#207,Davie,FL33314",
+                        "phone": "(305) 290-3369"
+                    },
+                    {
+                        "serviceCenter": "My-PhoneRepair",
+                        "address": "2855SUniversityDr,Davie,FL33328",
+                        "phone": "(954) 530-7089"
+                    },
+                    {
+                        "serviceCenter": "IFIXITGEEKS Smart Phone Repairs",
+                        "address": "5448NUniversityDrB,Lauderhill,FL33351",
+                        "phone": "(954) 589-1577"
+                    }
+                ]
             },
             {
                 "name": "Hialeah",
-                "link": "https://www.service-center-locator.com/htc/florida/htc-hialeah-florida.htm"
+                "link": "https://www.service-center-locator.com/htc/florida/htc-hialeah-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "My Phone Repair",
+                        "address": "16010NW57thAve,Hialeah,FL33014",
+                        "phone": "(305) 820-8456"
+                    },
+                    {
+                        "serviceCenter": "iRepairYourPhone",
+                        "address": "995NE135thSt,NorthMiami,FL33161",
+                        "phone": "(305) 899-6212"
+                    },
+                    {
+                        "serviceCenter": "Cellular Proz iPhone Repair",
+                        "address": "8257NW66thSt,Miami,FL33166",
+                        "phone": "(786) 294-1708"
+                    },
+                    {
+                        "serviceCenter": "C P R Doral Cell Phone Repair",
+                        "address": "10806NW58thSt,Doral,FL33178",
+                        "phone": "(786) 703-4885"
+                    },
+                    {
+                        "serviceCenter": "CPR - Cell Phone Repair North Miami",
+                        "address": "alexander@cpr-northmiami.com",
+                        "phone": "(786) 475-7519"
+                    },
+                    {
+                        "serviceCenter": "All Smart Phone Repair RX",
+                        "address": "4231SW75thAve,Miami,FL33155",
+                        "phone": "(786) 732-3733"
+                    },
+                    {
+                        "serviceCenter": "Florida Cell Phone Repair Training Ce...",
+                        "address": "18149NE19thAve,NorthMiamiBeach,FL33162",
+                        "phone": "(305) 467-3913"
+                    }
+                ]
             },
             {
                 "name": "Jacksonville",
-                "link": "https://www.service-center-locator.com/htc/florida/htc-jacksonville-florida.htm"
+                "link": "https://www.service-center-locator.com/htc/florida/htc-jacksonville-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "3267HodgesBlvd,Jacksonville,FL32224",
+                        "phone": "(904) 551-7686"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1UNFDr,Jacksonville,FL32224",
+                        "phone": "(904) 641-7770"
+                    },
+                    {
+                        "serviceCenter": "Smart Phone Repair",
+                        "address": "3780KoriRd#STE15,Jacksonville,FL32257",
+                        "phone": "(904) 333-9073"
+                    },
+                    {
+                        "serviceCenter": "JaxiPhoneRepair",
+                        "address": "7035PhilipsHwy,Jacksonville,FL32216",
+                        "phone": "(904) 502-8789"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "Cpr-CellPhoneRepairGadgetTech3267HodgesBlvd#5,Jacksonville,FL32224",
+                        "phone": "(904) 551-7686"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1871WellsRd,OrangePark,FL32073",
+                        "phone": "(904) 375-0069"
+                    },
+                    {
+                        "serviceCenter": "Jestibo Phone Repair By",
+                        "address": "2700StateRd16,SaintAugustine,FL32092",
+                        "phone": "(904) 494-8332"
+                    }
+                ]
             },
             {
                 "name": "Miami",
@@ -1723,11 +2434,58 @@
             },
             {
                 "name": "Tallahassee",
-                "link": "https://www.service-center-locator.com/htc/florida/htc-tallahassee-florida.htm"
+                "link": "https://www.service-center-locator.com/htc/florida/htc-tallahassee-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Sopchoppy Pay Phone Repair",
+                        "address": "36 Mathis Rd,  Sopchoppy, FL 32358",
+                        "phone": "(850) 962-9100"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Tampa",
-                "link": "https://www.service-center-locator.com/htc/florida/htc-tampa-florida.htm"
+                "link": "https://www.service-center-locator.com/htc/florida/htc-tampa-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Repair Center",
+                        "address": "1911EFowlerAve,Tampa,FL33612",
+                        "phone": "(813) 978-3525"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Doctors",
+                        "address": "11840BruceBDownsBlvd,Tampa,FL33612",
+                        "phone": "(813) 643-9700"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Center",
+                        "address": "8511NEdisonAve,Tampa,FL33604",
+                        "phone": "(813) 933-5008"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "17501PreserveWalkLn,Tampa,FL33647",
+                        "phone": "(813) 972-0585"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Center",
+                        "address": "CellPhoneRepair,Tampa,FL33604",
+                        "phone": "(813) 933-5008"
+                    },
+                    {
+                        "serviceCenter": "Cellular Phone Repair",
+                        "address": "1747DrewSt,Clearwater,FL33755",
+                        "phone": "(727) 210-3473"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "10500UlmertonRd#STE206,Largo,FL33771",
+                        "phone": "(727) 433-8277"
+                    }
+                ]
             }
         ]
     },
@@ -1863,7 +2621,43 @@
         "states": [
             {
                 "name": "Hilo Hawaii",
-                "link": "https://www.service-center-locator.com/htc/hawaii/htc-hilo-hawaii-hawaii.htm"
+                "link": "https://www.service-center-locator.com/htc/hawaii/htc-hilo-hawaii-hawaii.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Independent Phone Service Inc",
+                        "address": "65-1298KawaihaeRd,Hilo,HI96720",
+                        "phone": "(808) 930-6675"
+                    },
+                    {
+                        "serviceCenter": "Independent Phone Services Inc",
+                        "address": "miki@independentphone.com",
+                        "phone": "(808) 885-3493"
+                    },
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "Hilo Kine Wireless",
+                        "address": "959KilaueaAve,Hilo,HI96720",
+                        "phone": "(808) 969-9649"
+                    },
+                    {
+                        "serviceCenter": "Progressive Communications of Hawaii Inc",
+                        "address": "69LanihuliSt,Hilo,HI96720",
+                        "phone": "(808) 930-0000"
+                    },
+                    {
+                        "serviceCenter": "Advanced Wireless Systems",
+                        "address": "1177KilaueaAve,Hilo,HI96720",
+                        "phone": "(808) 961-5254"
+                    },
+                    {
+                        "serviceCenter": "Hoku Wireless",
+                        "address": "425KilaueaAve,Hilo,HI96720",
+                        "phone": "(808) 990-2740"
+                    }
+                ]
             },
             {
                 "name": "Honolulu Oahu",
@@ -1887,11 +2681,35 @@
         "states": [
             {
                 "name": "Boise",
-                "link": "https://www.service-center-locator.com/htc/idaho/htc-boise-idaho.htm"
+                "link": "https://www.service-center-locator.com/htc/idaho/htc-boise-idaho.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Me Cell Phones & Repair",
+                        "address": "337NMilwaukeeSt,Boise,ID83704",
+                        "phone": "(208) 343-0333"
+                    },
+                    {
+                        "serviceCenter": "Cell Me Cell Phones & Repair",
+                        "address": "683NFiveMileRd,Boise,ID83713",
+                        "phone": "(208) 343-0333"
+                    }
+                ]
             },
             {
                 "name": "Nampa",
-                "link": "https://www.service-center-locator.com/htc/idaho/htc-nampa-idaho.htm"
+                "link": "https://www.service-center-locator.com/htc/idaho/htc-nampa-idaho.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Me Cell Phones & Repair",
+                        "address": "683NFiveMileRd,Boise,ID83713",
+                        "phone": "(208) 343-0333"
+                    },
+                    {
+                        "serviceCenter": "Cell Me Cell Phones & Repair",
+                        "address": "337NMilwaukeeSt,Boise,ID83704",
+                        "phone": "(208) 343-0333"
+                    }
+                ]
             }
         ]
     },
@@ -1941,7 +2759,44 @@
             },
             {
                 "name": "Chicago",
-                "link": "https://www.service-center-locator.com/htc/illinois/htc-chicago-illinois.htm"
+                "link": "https://www.service-center-locator.com/htc/illinois/htc-chicago-illinois.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4007NDamenAve,Chicago,IL60618",
+                        "phone": "(773) 696-5950"
+                    },
+                    {
+                        "serviceCenter": "VIP Cell Phone Repair",
+                        "address": "4843NMilwaukeeAve,Chicago,IL60630",
+                        "phone": "(773) 877-7787"
+                    },
+                    {
+                        "serviceCenter": "Phone Repair",
+                        "address": "10755SEwingAve,Chicago,IL60617",
+                        "phone": "(773) 437-3731"
+                    },
+                    {
+                        "serviceCenter": "Skokie Phone Repair",
+                        "address": "9336SkokieBlvd,Skokie,IL60077",
+                        "phone": "(847) 329-9096"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4516OaktonSt,Skokie,IL60076",
+                        "phone": "(847) 679-2772"
+                    },
+                    {
+                        "serviceCenter": "Smart Phone Repair Center",
+                        "address": "515MilwalkeeAve,Glenview,IL60025",
+                        "phone": "(847) 730-3413"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "15864SLnGrangeRd,OrlandPark,IL60462",
+                        "phone": "(708) 349-2800"
+                    }
+                ]
             },
             {
                 "name": "Joliet",
@@ -1976,7 +2831,44 @@
             },
             {
                 "name": "Naperville",
-                "link": "https://www.service-center-locator.com/htc/illinois/htc-naperville-illinois.htm"
+                "link": "https://www.service-center-locator.com/htc/illinois/htc-naperville-illinois.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Il Cell Phone Repair",
+                        "address": "4S100NRoute59,Naperville,IL60563",
+                        "phone": "(630) 536-8517"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Boling Brook",
+                        "address": "765EBoughtonRd,Bolingbrook,IL60440",
+                        "phone": "(630) 948-7650"
+                    },
+                    {
+                        "serviceCenter": "Illinois Cell Phone Repair",
+                        "address": "1450WMainSt,SaintCharles,IL60174",
+                        "phone": "(630) 945-3073"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "15864SLnGrangeRd,OrlandPark,IL60462",
+                        "phone": "(708) 349-2800"
+                    },
+                    {
+                        "serviceCenter": "Illinois Cell Phone Repair",
+                        "address": "128WGolfRd,Schaumburg,IL60195",
+                        "phone": "(847) 519-0603"
+                    },
+                    {
+                        "serviceCenter": "Smart Phone Repair Center",
+                        "address": "515MilwalkeeAve,Glenview,IL60025",
+                        "phone": "(847) 730-3413"
+                    },
+                    {
+                        "serviceCenter": "911 Tech Repair - Cell Phone & Comput...",
+                        "address": "1312WNWHwy,ArlingtonHeights,IL60004",
+                        "phone": "(224) 735-2659"
+                    }
+                ]
             },
             {
                 "name": "Rockford",
@@ -2063,7 +2955,17 @@
             },
             {
                 "name": "Fort Wayne",
-                "link": "https://www.service-center-locator.com/htc/indiana/htc-fort-wayne-indiana.htm"
+                "link": "https://www.service-center-locator.com/htc/indiana/htc-fort-wayne-indiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Genius Phone Repair",
+                        "address": "5215 Illinois Rd #STE 105,  Fort Wayne, IN 46804",
+                        "phone": "(260) 408-1101"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Gary",
@@ -2119,7 +3021,17 @@
             },
             {
                 "name": "South Bend",
-                "link": "https://www.service-center-locator.com/htc/indiana/htc-south-bend-indiana.htm"
+                "link": "https://www.service-center-locator.com/htc/indiana/htc-south-bend-indiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Genius Phone Repair",
+                        "address": "5339 N Main St,  Mishawaka, IN 46545",
+                        "phone": "(574) 855-3770"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             }
         ]
     },
@@ -2128,7 +3040,17 @@
         "states": [
             {
                 "name": "Cedar Rapids",
-                "link": "https://www.service-center-locator.com/htc/iowa/htc-cedar-rapids-iowa.htm"
+                "link": "https://www.service-center-locator.com/htc/iowa/htc-cedar-rapids-iowa.htm",
+                "city": [
+                    {
+                        "serviceCenter": "C R Cell Phone Repair",
+                        "address": "4444 1st Ave NE,  Cedar Rapids, IA 52402",
+                        "phone": "(319) 393-9876"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Davenport",
@@ -2246,7 +3168,19 @@
         "states": [
             {
                 "name": "Kansas City",
-                "link": "https://www.service-center-locator.com/htc/kansas/htc-kansas-city-kansas.htm"
+                "link": "https://www.service-center-locator.com/htc/kansas/htc-kansas-city-kansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Westport",
+                        "address": "4128PennsylvaniaAve,KansasCity,MO64111",
+                        "phone": "(816) 442-8008"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Overland Park",
+                        "address": "13444MetcalfAve,OverlandPark,KS66213",
+                        "phone": "(913) 681-2355"
+                    }
+                ]
             },
             {
                 "name": "Lawrence",
@@ -2307,7 +3241,19 @@
             },
             {
                 "name": "Overland Park",
-                "link": "https://www.service-center-locator.com/htc/kansas/htc-overland-park-kansas.htm"
+                "link": "https://www.service-center-locator.com/htc/kansas/htc-overland-park-kansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Overland Park",
+                        "address": "13444MetcalfAve,OverlandPark,KS66213",
+                        "phone": "(913) 681-2355"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Westport",
+                        "address": "4128PennsylvaniaAve,KansasCity,MO64111",
+                        "phone": "(816) 442-8008"
+                    }
+                ]
             },
             {
                 "name": "Topeka",
@@ -2332,7 +3278,19 @@
             },
             {
                 "name": "Wichita",
-                "link": "https://www.service-center-locator.com/htc/kansas/htc-wichita-kansas.htm"
+                "link": "https://www.service-center-locator.com/htc/kansas/htc-wichita-kansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Advanced Computer & Cell Phone Solutions",
+                        "address": "2039W21stStN,Wichita,KS67203",
+                        "phone": "(316) 260-3006"
+                    },
+                    {
+                        "serviceCenter": "Fix-iPhones.com",
+                        "address": "800EMountVernonSt,Wichita,KS67211",
+                        "phone": "(888) 755-1115"
+                    }
+                ]
             }
         ]
     },
@@ -2341,7 +3299,43 @@
         "states": [
             {
                 "name": "Bowling Green",
-                "link": "https://www.service-center-locator.com/htc/kentucky/htc-bowling-green-kentucky.htm"
+                "link": "https://www.service-center-locator.com/htc/kentucky/htc-bowling-green-kentucky.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Premier Payphone Service Inc",
+                        "address": "1313Us31wByp,BowlingGreen,KY42101",
+                        "phone": "(270) 845-6554"
+                    },
+                    {
+                        "serviceCenter": "Premier Payphone",
+                        "address": "2200StonehengeAve,BowlingGreen,KY42101",
+                        "phone": "(270) 843-9601"
+                    },
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "Digital Doc Repair",
+                        "address": "mlucas@digitaldocrepair.com",
+                        "phone": "(270) 846-7999"
+                    },
+                    {
+                        "serviceCenter": "ISTT Inc",
+                        "address": "846BroadwayAve,BowlingGreen,KY42101",
+                        "phone": "(270) 781-5096"
+                    },
+                    {
+                        "serviceCenter": "Integrated Voip Communications",
+                        "address": "958CollettAve,BowlingGreen,KY42101",
+                        "phone": "(270) 799-7471"
+                    },
+                    {
+                        "serviceCenter": "ByteForce",
+                        "address": "1901RussellvilleRd,BowlingGreen,KY42101",
+                        "phone": "(270) 793-8400"
+                    }
+                ]
             },
             {
                 "name": "Covington",
@@ -2439,7 +3433,24 @@
             },
             {
                 "name": "Richmond",
-                "link": "https://www.service-center-locator.com/htc/kentucky/htc-richmond-kentucky.htm"
+                "link": "https://www.service-center-locator.com/htc/kentucky/htc-richmond-kentucky.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Lexington Cell Phone Repair",
+                        "address": "3090HelmsdalePl,Lexington,KY40509",
+                        "phone": "(859) 264-0356"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair Lexington",
+                        "address": "1099SBroadway,Lexington,KY40504",
+                        "phone": "(530) 349-0030"
+                    },
+                    {
+                        "serviceCenter": "Mobile Phone Repair",
+                        "address": "418EHighSt,LExington,KY40507",
+                        "phone": "(859) 705-1846"
+                    }
+                ]
             }
         ]
     },
@@ -2448,7 +3459,34 @@
         "states": [
             {
                 "name": "Baton Rouge",
-                "link": "https://www.service-center-locator.com/htc/louisiana/htc-baton-rouge-louisiana.htm"
+                "link": "https://www.service-center-locator.com/htc/louisiana/htc-baton-rouge-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "I Tiger Phone Repair",
+                        "address": "257LeeDr,BatonRouge,LA70808",
+                        "phone": "(225) 769-6828"
+                    },
+                    {
+                        "serviceCenter": "In And Out Phone Repair",
+                        "address": "7539CorporateBlvd,BatonRouge,LA70809",
+                        "phone": "(225) 454-6851"
+                    },
+                    {
+                        "serviceCenter": "In & Out Phone Repair",
+                        "address": "7038SiegenLn,BatonRouge,LA70809",
+                        "phone": "(225) 771-8364"
+                    },
+                    {
+                        "serviceCenter": "Cheap I Phone Repairs",
+                        "address": "2626SRangeAve,DenhamSprings,LA70726",
+                        "phone": "(225) 664-9046"
+                    },
+                    {
+                        "serviceCenter": "B&K Cell Phone and Electronics Repair",
+                        "address": "29684SFrostRd,Livingston,LA70754",
+                        "phone": "(225) 435-3051"
+                    }
+                ]
             },
             {
                 "name": "Lafayette",
@@ -2492,7 +3530,24 @@
             },
             {
                 "name": "Lake Charles",
-                "link": "https://www.service-center-locator.com/htc/louisiana/htc-lake-charles-louisiana.htm"
+                "link": "https://www.service-center-locator.com/htc/louisiana/htc-lake-charles-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Chad's Budget Phone",
+                        "address": "1718BroadSt,LakeCharles,LA70601",
+                        "phone": "(337) 497-1897"
+                    },
+                    {
+                        "serviceCenter": "Fix My Phone",
+                        "address": "3467NelsonRd,LakeCharles,LA70605",
+                        "phone": "(337) 564-6997"
+                    },
+                    {
+                        "serviceCenter": "Public Phone Center",
+                        "address": "314NLouiseSt,Jennings,LA70546",
+                        "phone": "(337) 824-2109"
+                    }
+                ]
             },
             {
                 "name": "Metairie",
@@ -2538,7 +3593,19 @@
             },
             {
                 "name": "Shreveport",
-                "link": "https://www.service-center-locator.com/htc/louisiana/htc-shreveport-louisiana.htm"
+                "link": "https://www.service-center-locator.com/htc/louisiana/htc-shreveport-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Solutions",
+                        "address": "5723YoureeDr,Shreveport,LA71105",
+                        "phone": "(318) 670-3904"
+                    },
+                    {
+                        "serviceCenter": "The Broken Phone",
+                        "address": "2728W70thSt,Shreveport,LA71108",
+                        "phone": "(318) 606-2896"
+                    }
+                ]
             }
         ]
     },
@@ -2547,11 +3614,57 @@
         "states": [
             {
                 "name": "Auburn",
-                "link": "https://www.service-center-locator.com/htc/maine/htc-auburn-maine.htm"
+                "link": "https://www.service-center-locator.com/htc/maine/htc-auburn-maine.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Phone Source",
+                        "address": "36 Concord Pl,  Cape Elizabeth, ME 04107",
+                        "phone": "(207) 774-2828"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Bangor",
-                "link": "https://www.service-center-locator.com/htc/maine/htc-bangor-maine.htm"
+                "link": "https://www.service-center-locator.com/htc/maine/htc-bangor-maine.htm",
+                "city": [
+                    {
+                        "serviceCenter": "All iPhone Repair",
+                        "phone": "(902) 549-2048",
+                        "address": "Fastlocalservice."
+                    },
+                    {
+                        "serviceCenter": "West Joel Cell Phone",
+                        "address": "470NMainSt,Brewer,ME04412",
+                        "phone": "(207) 949-0985"
+                    },
+                    {
+                        "serviceCenter": "AAA Cellular Cellular Phone",
+                        "address": "100MainSt,Unity,ME04988",
+                        "phone": "(207) 948-3600"
+                    },
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "Novus Auto Glass",
+                        "address": "easternmaine@novusglass.us",
+                        "phone": "(207) 945-6688"
+                    },
+                    {
+                        "serviceCenter": "Cellular Exclusive",
+                        "address": "1129UnionSt,Bangor,ME04401",
+                        "phone": "(207) 990-2355"
+                    },
+                    {
+                        "serviceCenter": "Wireless Zone",
+                        "address": "663StillwaterAve,Bangor,ME04401",
+                        "phone": "(207) 942-8800"
+                    }
+                ]
             },
             {
                 "name": "Lewiston",
@@ -2588,11 +3701,85 @@
         "states": [
             {
                 "name": "Baltimore",
-                "link": "https://www.service-center-locator.com/htc/maryland/htc-baltimore-maryland.htm"
+                "link": "https://www.service-center-locator.com/htc/maryland/htc-baltimore-maryland.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair & Gadget Tech",
+                        "address": "store@cpr-ellicottcity.com",
+                        "phone": "(410) 696-5005"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4141MtnRd,Pasadena,MD21122",
+                        "phone": "(443) 305-2098"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "33MagothyBeachRd#STE104,Pasadena,MD21122",
+                        "phone": "(443) 305-2098"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair of Gambrills",
+                        "address": "2389BrandermillBlvd#STE10,Gambrills,MD21054",
+                        "phone": "(410) 721-5264"
+                    },
+                    {
+                        "serviceCenter": "CPR - Cell Phone Repair",
+                        "address": "1433AnnapolisMall,Annapolis,MD21401",
+                        "phone": "(410) 266-8550"
+                    },
+                    {
+                        "serviceCenter": "My Cell Phone Repairs",
+                        "address": "7401BaltimoreAve,CollegePark,MD20740",
+                        "phone": "(301) 985-5111"
+                    },
+                    {
+                        "serviceCenter": "Fix Smarts Cell Phone Repair",
+                        "address": "620HungerfordDr,Rockville,MD20850",
+                        "phone": "(301) 339-8863"
+                    }
+                ]
             },
             {
                 "name": "Columbia",
-                "link": "https://www.service-center-locator.com/htc/maryland/htc-columbia-maryland.htm"
+                "link": "https://www.service-center-locator.com/htc/maryland/htc-columbia-maryland.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair & Gadget Tech",
+                        "address": "store@cpr-ellicottcity.com",
+                        "phone": "(410) 696-5005"
+                    },
+                    {
+                        "serviceCenter": "My Cell Phone Repairs",
+                        "address": "7401BaltimoreAve,CollegePark,MD20740",
+                        "phone": "(301) 985-5111"
+                    },
+                    {
+                        "serviceCenter": "Fix Smarts Cell Phone Repair",
+                        "address": "620HungerfordDr,Rockville,MD20850",
+                        "phone": "(301) 339-8863"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair of Gambrills",
+                        "address": "2389BrandermillBlvd#STE10,Gambrills,MD21054",
+                        "phone": "(410) 721-5264"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4141MtnRd,Pasadena,MD21122",
+                        "phone": "(443) 305-2098"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "33MagothyBeachRd#STE104,Pasadena,MD21122",
+                        "phone": "(443) 305-2098"
+                    },
+                    {
+                        "serviceCenter": "Wigoclinc-Cell Phone Repair",
+                        "address": "2415WilsonBlvd,Arlington,VA22201",
+                        "phone": "(703) 243-6472"
+                    }
+                ]
             },
             {
                 "name": "Dundalk",
@@ -2741,7 +3928,29 @@
             },
             {
                 "name": "Lowell",
-                "link": "https://www.service-center-locator.com/htc/massachusetts/htc-lowell-massachusetts.htm"
+                "link": "https://www.service-center-locator.com/htc/massachusetts/htc-lowell-massachusetts.htm",
+                "city": [
+                    {
+                        "serviceCenter": "KliQet iPhone Repair",
+                        "address": "224MainSt#STE1C,Salem,NH03079",
+                        "phone": "(603) 458-7372"
+                    },
+                    {
+                        "serviceCenter": "iFixYouri Boston - iPhone Repair",
+                        "address": "11CBowSt,Somerville,MA02143",
+                        "phone": "(617) 616-5966"
+                    },
+                    {
+                        "serviceCenter": "Boston iPhone Repair",
+                        "address": "1208MassachusettsAve#STE5,Cambridge,MA02138",
+                        "phone": "(617) 771-7875"
+                    },
+                    {
+                        "serviceCenter": "Cell Zone | Cell Phone Repair - Recyc...",
+                        "address": "591SMastRd,Manchester,NH03102",
+                        "phone": "(603) 232-7622"
+                    }
+                ]
             },
             {
                 "name": "Springfield",
@@ -2759,7 +3968,17 @@
             },
             {
                 "name": "Worcester",
-                "link": "https://www.service-center-locator.com/htc/massachusetts/htc-worcester-massachusetts.htm"
+                "link": "https://www.service-center-locator.com/htc/massachusetts/htc-worcester-massachusetts.htm",
+                "city": [
+                    {
+                        "serviceCenter": "911 iPhone Repair and Accessories",
+                        "address": "1 St Mark St #STE A,  Auburn, MA 01501",
+                        "phone": "(774) 321-6100"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             }
         ]
     },
@@ -2979,7 +4198,59 @@
             },
             {
                 "name": "Warren",
-                "link": "https://www.service-center-locator.com/htc/michigan/htc-warren-michigan.htm"
+                "link": "https://www.service-center-locator.com/htc/michigan/htc-warren-michigan.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Pitt Stop Phone Repair",
+                        "address": "15565NorthlandDr#STE502WDR,Southfield,MI48175",
+                        "phone": "(248) 562-6214"
+                    },
+                    {
+                        "serviceCenter": "Tech Enterprises (Free In House Diagn...",
+                        "address": "31375HarperAve,SaintClairShores,MI48082",
+                        "phone": "(586) 447-7016"
+                    },
+                    {
+                        "serviceCenter": "Total Computer Support",
+                        "address": "25116JeffersonAve,SaintClairShores,MI48081",
+                        "phone": "(586) 443-4416"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair BlueDot",
+                        "address": "35830VanDykeAve,SterlingHeights,MI48312",
+                        "phone": "(586) 689-2030"
+                    },
+                    {
+                        "serviceCenter": "Wireless Geeks Phone Repair Center",
+                        "address": "28707DequindreRd,MadisonHeights,MI48071",
+                        "phone": "(248) 397-8225"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "13961HallRd,ShelbyTownship,MI48315",
+                        "phone": "(586) 580-3124"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair -  Shelbytownship",
+                        "address": "55118VanDykeAve,ShelbyTownship,MI48316",
+                        "phone": "(586) 207-1801"
+                    },
+                    {
+                        "serviceCenter": "Metro Detroit Phone Repair",
+                        "address": "49668GratiotAve,Chesterfield,MI48051",
+                        "phone": "(586) 846-4387"
+                    },
+                    {
+                        "serviceCenter": "Birmingham Cell Phone Repair",
+                        "address": "364Baldwin,Birmingham,MI48009",
+                        "phone": "(248) 266-1481"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair",
+                        "address": "4376IslandParkDr,Waterford,MI48329",
+                        "phone": "(248) 724-8739"
+                    }
+                ]
             }
         ]
     },
@@ -2988,11 +4259,31 @@
         "states": [
             {
                 "name": "Duluth",
-                "link": "https://www.service-center-locator.com/htc/minnesota/htc-duluth-minnesota.htm"
+                "link": "https://www.service-center-locator.com/htc/minnesota/htc-duluth-minnesota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iLF Smart Phone Clinic",
+                        "address": "1709 London Rd,  Duluth, MN 55806",
+                        "phone": "(218) 975-7359"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Minneapolis",
-                "link": "https://www.service-center-locator.com/htc/minnesota/htc-minneapolis-minnesota.htm"
+                "link": "https://www.service-center-locator.com/htc/minnesota/htc-minneapolis-minnesota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Plymouth",
+                        "address": "16605 County Rd 24 #STE 209,  Plymouth, MN 55447",
+                        "phone": "(763) 568-7041"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Rochester",
@@ -3012,7 +4303,24 @@
             },
             {
                 "name": "Saint Paul",
-                "link": "https://www.service-center-locator.com/htc/minnesota/htc-saint-paul-minnesota.htm"
+                "link": "https://www.service-center-locator.com/htc/minnesota/htc-saint-paul-minnesota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Phones 'N Things",
+                        "address": "1897RiceSt,SaintPaul,MN55113",
+                        "phone": "(651) 787-3425"
+                    },
+                    {
+                        "serviceCenter": "T-Cell Phones",
+                        "address": "2718NicolletAve,Minneapolis,MN55408",
+                        "phone": "(612) 353-6820"
+                    },
+                    {
+                        "serviceCenter": "Phone Guys Inc",
+                        "address": "5124HansonCtN,Minneapolis,MN55429",
+                        "phone": "(763) 497-1111"
+                    }
+                ]
             }
         ]
     },
@@ -3068,11 +4376,55 @@
             },
             {
                 "name": "Biloxi",
-                "link": "https://www.service-center-locator.com/htc/mississipi/htc-hattiesburg-mississipi.htm"
+                "link": "https://www.service-center-locator.com/htc/mississipi/htc-hattiesburg-mississipi.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Phone Repair Store",
+                        "address": "Servingthe39401Area",
+                        "phone": "(601) 910-6994"
+                    },
+                    {
+                        "serviceCenter": "Vonage",
+                        "address": "Servingthe39401Area",
+                        "phone": "(877) 884-9119"
+                    },
+                    {
+                        "serviceCenter": "iPhanAttic",
+                        "address": "Servingthe39401Area",
+                        "phone": "(769) 287-4036"
+                    },
+                    {
+                        "serviceCenter": "CPR (Cell Phone Repair)",
+                        "address": "24CrossCreekPkwy#STE120,Hattiesburg,MS39402",
+                        "phone": "(601) 255-5332"
+                    },
+                    {
+                        "serviceCenter": "Phone Repair",
+                        "address": "2221Highway15N,Laurel,MS39440",
+                        "phone": "(601) 340-3954"
+                    }
+                ]
             },
             {
                 "name": "Jackson",
-                "link": "https://www.service-center-locator.com/htc/mississipi/htc-jackson-mississipi.htm"
+                "link": "https://www.service-center-locator.com/htc/mississipi/htc-jackson-mississipi.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Metro Cell Phone Repair",
+                        "address": "3645MetroDr,Jackson,MS39209",
+                        "phone": "(601) 355-0035"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1220ENorthsideDr,Jackson,MS39211",
+                        "phone": "(601) 665-4013"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "323Highway80E,Clinton,MS39056",
+                        "phone": "(601) 499-5277"
+                    }
+                ]
             }
         ]
     },
@@ -3092,7 +4444,24 @@
             },
             {
                 "name": "Independence",
-                "link": "https://www.service-center-locator.com/htc/missouri/htc-independence-missouri.htm"
+                "link": "https://www.service-center-locator.com/htc/missouri/htc-independence-missouri.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Ez Phone N PC repairs",
+                        "address": "12800EUs40Hwy,Independence,MO64055",
+                        "phone": "(816) 888-4810"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Westport",
+                        "address": "4128PennsylvaniaAve,KansasCity,MO64111",
+                        "phone": "(816) 442-8008"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Overland Park",
+                        "address": "13444MetcalfAve,OverlandPark,KS66213",
+                        "phone": "(913) 681-2355"
+                    }
+                ]
             },
             {
                 "name": "Kansas City",
@@ -3257,7 +4626,41 @@
             },
             {
                 "name": "Butte",
-                "link": "https://www.service-center-locator.com/htc/montana/htc-butte-montana.htm"
+                "link": "https://www.service-center-locator.com/htc/montana/htc-butte-montana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "AT&T",
+                        "address": "1307HarrisonAve,Butte,MT59701",
+                        "phone": "(406) 782-9411"
+                    },
+                    {
+                        "serviceCenter": "America's Same Day Service",
+                        "phone": "(800) 870-0193"
+                    },
+                    {
+                        "serviceCenter": "North American Telecom, Inc.",
+                        "phone": "(888) 510-8732",
+                        "address": "NAT-CES@msn.com"
+                    },
+                    {
+                        "serviceCenter": "BandTel LLC",
+                        "phone": "(800) 730-2870"
+                    },
+                    {
+                        "serviceCenter": "RadioShack",
+                        "address": "3100HarrisonAve,Butte,MT59701",
+                        "phone": "(406) 494-3151"
+                    },
+                    {
+                        "serviceCenter": "Verizon Wireless",
+                        "address": "3103HarrisonAve,Butte,MT59701",
+                        "phone": "(406) 723-4888"
+                    }
+                ]
             },
             {
                 "name": "Great Falls",
@@ -3313,7 +4716,17 @@
             },
             {
                 "name": "Missoula",
-                "link": "https://www.service-center-locator.com/htc/montana/htc-missoula-montana.htm"
+                "link": "https://www.service-center-locator.com/htc/montana/htc-missoula-montana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Missoula Cell Phone Repair",
+                        "address": "3511 Brooks St,  Missoula, MT 59801",
+                        "phone": "(406) 549-1122"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             }
         ]
     },
@@ -3342,7 +4755,17 @@
             },
             {
                 "name": "Grand Island",
-                "link": "https://www.service-center-locator.com/htc/nebraska/htc-grand-island-nebraska.htm"
+                "link": "https://www.service-center-locator.com/htc/nebraska/htc-grand-island-nebraska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Mid America Pay Phones",
+                        "address": "1408 W John St,  Grand Island, NE 68801",
+                        "phone": "(308) 382-9265"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Lincoln",
@@ -3360,7 +4783,19 @@
             },
             {
                 "name": "Omaha",
-                "link": "https://www.service-center-locator.com/htc/nebraska/htc-omaha-nebraska.htm"
+                "link": "https://www.service-center-locator.com/htc/nebraska/htc-omaha-nebraska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "MyWirelessMD - iPhone/SmartPhone Repa...",
+                        "address": "7905LSt#STE410,Omaha,NE68127",
+                        "phone": "(402) 957-2349"
+                    },
+                    {
+                        "serviceCenter": "Phones Plus Repair",
+                        "address": "14224PiercePlz,Omaha,NE68144",
+                        "phone": "(402) 884-7068"
+                    }
+                ]
             }
         ]
     },
@@ -3369,7 +4804,29 @@
         "states": [
             {
                 "name": "Henderson",
-                "link": "https://www.service-center-locator.com/htc/nevada/htc-henderson-nevada.htm"
+                "link": "https://www.service-center-locator.com/htc/nevada/htc-henderson-nevada.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Henderson Phone Repair",
+                        "address": "2642WHorizonRidgePkwyA7,Henderson,NV89052",
+                        "phone": "(702) 878-5757"
+                    },
+                    {
+                        "serviceCenter": "Desert Wireless iPhone Repair",
+                        "address": "1500ETropicanaAve226,LasVegas,NV89119",
+                        "phone": "(702) 292-0029"
+                    },
+                    {
+                        "serviceCenter": "Smart FIX iPhone & Computer Repair",
+                        "address": "8221WCharlestonBlvd105,LasVegas,NV89117",
+                        "phone": "(702) 979-9400"
+                    },
+                    {
+                        "serviceCenter": "Telli's Phone Repair",
+                        "address": "3655SDurangoDr#STE15,LasVegas,NV89147",
+                        "phone": "(702) 778-0585"
+                    }
+                ]
             },
             {
                 "name": "Las Vegas",
@@ -3574,7 +5031,19 @@
             },
             {
                 "name": "Merrimack",
-                "link": "https://www.service-center-locator.com/htc/new-hampshire/htc-merrimack-new-hampshire.htm"
+                "link": "https://www.service-center-locator.com/htc/new-hampshire/htc-merrimack-new-hampshire.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Zone | Cell Phone Repair - Recyc...",
+                        "address": "591SMastRd,Manchester,NH03102",
+                        "phone": "(603) 232-7622"
+                    },
+                    {
+                        "serviceCenter": "KliQet iPhone Repair",
+                        "address": "224MainSt#STE1C,Salem,NH03079",
+                        "phone": "(603) 458-7372"
+                    }
+                ]
             },
             {
                 "name": "Nashua",
@@ -3599,7 +5068,43 @@
             },
             {
                 "name": "Rochester",
-                "link": "https://www.service-center-locator.com/htc/new-hampshire/htc-rochester-new-hampshire.htm"
+                "link": "https://www.service-center-locator.com/htc/new-hampshire/htc-rochester-new-hampshire.htm",
+                "city": [
+                    {
+                        "serviceCenter": "American Business Service Corp",
+                        "address": "35MitchellRd,Lee,NH03861",
+                        "phone": "(603) 659-2912"
+                    },
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "JS Mobile Solutions LLC IPhone repair",
+                        "address": "DoverPoint,Dover,NH03820",
+                        "phone": "(603) 781-8499"
+                    },
+                    {
+                        "serviceCenter": "Small World Wireless-At & T Authorize...",
+                        "address": "2LilacMall,Rochester,NH03867",
+                        "phone": "(603) 330-0029"
+                    },
+                    {
+                        "serviceCenter": "One Second Computers & Comm",
+                        "address": "299NMainSt,Rochester,NH03867",
+                        "phone": "(603) 332-3777"
+                    },
+                    {
+                        "serviceCenter": "Amcomm Wireless",
+                        "address": "10ChestnutHillRd,Rochester,NH03867",
+                        "phone": "(603) 335-3663"
+                    },
+                    {
+                        "serviceCenter": "Nextgen Telecom SVC Group INC",
+                        "address": "16AmarosaDr,Rochester,NH03868",
+                        "phone": "(603) 335-0044"
+                    }
+                ]
             },
             {
                 "name": "Salem",
@@ -3662,7 +5167,39 @@
             },
             {
                 "name": "Camden",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-camden-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-camden-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iPhone Repair Philadelphia",
+                        "address": "1539PrattSt,Philadelphia,PA19124",
+                        "phone": "(215) 914-6285"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "sales@eazycomputers.com",
+                        "phone": "(215) 310-0143"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "sales@eazycomputers.com",
+                        "phone": "(215) 609-4515"
+                    },
+                    {
+                        "serviceCenter": "Abington Phone Repair",
+                        "address": "1751OldYorkRd,Abington,PA19001",
+                        "phone": "(215) 800-7545"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Horsham",
+                        "address": "314HorshamRd,Horsham,PA19044",
+                        "phone": "(215) 323-4924"
+                    },
+                    {
+                        "serviceCenter": "Family Cell Phone Repairs",
+                        "address": "1802ChambersSt,Trenton,NJ08610",
+                        "phone": "(609) 392-7160"
+                    }
+                ]
             },
             {
                 "name": "Cape May",
@@ -3677,7 +5214,44 @@
             },
             {
                 "name": "Elizabeth",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-elizabeth-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-elizabeth-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "100UsHighway22,Springfield,NJ07081",
+                        "phone": "(973) 467-2771"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "930NewarkAve,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "3000JohnFKennedyBlvd#STE313AJERSEYCITYNEWJERSEY,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair New Jersey - Jersey Cit...",
+                        "address": "info@ps3repairnj.com",
+                        "phone": "(201) 425-0456"
+                    },
+                    {
+                        "serviceCenter": "Park Slope iPhone Repair",
+                        "address": "4571stSt,Brooklyn,NY11215",
+                        "phone": "(347) 599-6677"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Brooklyn",
+                        "address": "jdeluca@cpr-brooklyn.com",
+                        "phone": "(347) 673-0091"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of Edison NJ",
+                        "address": "1090AmboyAve,Edison,NJ08837",
+                        "phone": "(732) 902-6268"
+                    }
+                ]
             },
             {
                 "name": "Flemington",
@@ -3717,7 +5291,44 @@
             },
             {
                 "name": "Freehold Borough",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-freehold-borough-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-freehold-borough-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4150UsHighway9,Howell,NJ07731",
+                        "phone": "(732) 534-9965"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Services",
+                        "address": "9LnMillPlz,Brick,NJ08724",
+                        "phone": "(848) 459-0881"
+                    },
+                    {
+                        "serviceCenter": "BuySellRepairs - iPhone Tablet Comput...",
+                        "address": "kayjshah@gmail.com",
+                        "phone": "(609) 333-2003"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of Edison NJ",
+                        "address": "1090AmboyAve,Edison,NJ08837",
+                        "phone": "(732) 902-6268"
+                    },
+                    {
+                        "serviceCenter": "Family Cell Phone Repairs",
+                        "address": "1802ChambersSt,Trenton,NJ08610",
+                        "phone": "(609) 392-7160"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1732SheepsheadBayRd,Brooklyn,NY11235",
+                        "phone": "(347) 462-1033"
+                    },
+                    {
+                        "serviceCenter": "iPhone repair of Brooklyn, NY",
+                        "address": "2322BathAve,Brooklyn,NY11214",
+                        "phone": "(646) 770-0773"
+                    }
+                ]
             },
             {
                 "name": "Hackensack",
@@ -3817,7 +5428,44 @@
             },
             {
                 "name": "Morristown",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-morristown-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-morristown-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "100UsHighway22,Springfield,NJ07081",
+                        "phone": "(973) 467-2771"
+                    },
+                    {
+                        "serviceCenter": "iPhone & Computer Repairs",
+                        "address": "60HadleyAveSuit102,Clifton,NJ07011",
+                        "phone": "(973) 757-5658"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair New Jersey - Jersey Cit...",
+                        "address": "info@ps3repairnj.com",
+                        "phone": "(201) 425-0456"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "930NewarkAve,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of Edison NJ",
+                        "address": "1090AmboyAve,Edison,NJ08837",
+                        "phone": "(732) 902-6268"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "3000JohnFKennedyBlvd#STE313AJERSEYCITYNEWJERSEY,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone & Ipad Repair",
+                        "address": "428CentralAve,JerseyCity,NJ07307",
+                        "phone": "(201) 721-5620"
+                    }
+                ]
             },
             {
                 "name": "Mount Holly",
@@ -3903,7 +5551,44 @@
             },
             {
                 "name": "New Brunswick",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-new-brunswick-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-new-brunswick-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iPhone Repair of Edison NJ",
+                        "address": "1090AmboyAve,Edison,NJ08837",
+                        "phone": "(732) 902-6268"
+                    },
+                    {
+                        "serviceCenter": "BuySellRepairs - iPhone Tablet Comput...",
+                        "address": "kayjshah@gmail.com",
+                        "phone": "(609) 333-2003"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "100UsHighway22,Springfield,NJ07081",
+                        "phone": "(973) 467-2771"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "930NewarkAve,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    },
+                    {
+                        "serviceCenter": "Park Slope iPhone Repair",
+                        "address": "4571stSt,Brooklyn,NY11215",
+                        "phone": "(347) 599-6677"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Brooklyn",
+                        "address": "jdeluca@cpr-brooklyn.com",
+                        "phone": "(347) 673-0091"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "3000JohnFKennedyBlvd#STE313AJERSEYCITYNEWJERSEY,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    }
+                ]
             },
             {
                 "name": "Newton",
@@ -3943,11 +5628,60 @@
             },
             {
                 "name": "Paterson",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-paterson-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-paterson-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iPhone & Computer Repairs",
+                        "address": "60HadleyAveSuit102,Clifton,NJ07011",
+                        "phone": "(973) 757-5658"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair New Jersey - Jersey Cit...",
+                        "address": "info@ps3repairnj.com",
+                        "phone": "(201) 425-0456"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "930NewarkAve,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair of New Jersey",
+                        "address": "3000JohnFKennedyBlvd#STE313AJERSEYCITYNEWJERSEY,JerseyCity,NJ07306",
+                        "phone": "(201) 435-2874"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "360W36thSt,NewYork,NY10018",
+                        "phone": "(212) 673-8400"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "211BWRoute59,Nanuet,NY10954",
+                        "phone": "(845) 507-0809"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "110E13thSt,NewYork,NY10003",
+                        "phone": "(212) 673-8400"
+                    }
+                ]
             },
             {
                 "name": "Salem",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-salem-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-salem-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "516MiddletownWarwickRd,Middletown,DE19709",
+                        "phone": "(302) 378-4695"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "sales@eazycomputers.com",
+                        "phone": "(215) 310-0143"
+                    }
+                ]
             },
             {
                 "name": "Somerville",
@@ -3977,11 +5711,60 @@
             },
             {
                 "name": "Toms River",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-toms-river-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-toms-river-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Repair Services",
+                        "address": "9LnMillPlz,Brick,NJ08724",
+                        "phone": "(848) 459-0881"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4150UsHighway9,Howell,NJ07731",
+                        "phone": "(732) 534-9965"
+                    }
+                ]
             },
             {
                 "name": "Trenton",
-                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-trenton-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/htc/new-jersey/htc-trenton-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Family Cell Phone Repairs",
+                        "address": "1802ChambersSt,Trenton,NJ08610",
+                        "phone": "(609) 392-7160"
+                    },
+                    {
+                        "serviceCenter": "BuySellRepairs - iPhone Tablet Comput...",
+                        "address": "kayjshah@gmail.com",
+                        "phone": "(609) 333-2003"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Horsham",
+                        "address": "314HorshamRd,Horsham,PA19044",
+                        "phone": "(215) 323-4924"
+                    },
+                    {
+                        "serviceCenter": "Abington Phone Repair",
+                        "address": "1751OldYorkRd,Abington,PA19001",
+                        "phone": "(215) 800-7545"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair Philadelphia",
+                        "address": "1539PrattSt,Philadelphia,PA19124",
+                        "phone": "(215) 914-6285"
+                    },
+                    {
+                        "serviceCenter": "Eazy Computers & iPhone Repair",
+                        "address": "sales@eazycomputers.com",
+                        "phone": "(215) 609-4515"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4150UsHighway9,Howell,NJ07731",
+                        "phone": "(732) 534-9965"
+                    }
+                ]
             },
             {
                 "name": "Woodbury",
@@ -4054,11 +5837,33 @@
             },
             {
                 "name": "Las Cruces",
-                "link": "https://www.service-center-locator.com/htc/new-messico/htc-las-cruces-new-messico.htm"
+                "link": "https://www.service-center-locator.com/htc/new-messico/htc-las-cruces-new-messico.htm",
+                "city": [
+                    {
+                        "serviceCenter": "A Cell Phone Repair Shop",
+                        "address": "2201NMainSt,LasCruces,NM88001",
+                        "phone": "(575) 386-6281"
+                    },
+                    {
+                        "serviceCenter": "A Cell Phone Repair Shop",
+                        "address": "1021SSolrie,LasCruces,NM88001",
+                        "phone": "(575) 621-1922"
+                    }
+                ]
             },
             {
                 "name": "Rio Rancho",
-                "link": "https://www.service-center-locator.com/htc/new-messico/htc-rio-rancho-new-messico.htm"
+                "link": "https://www.service-center-locator.com/htc/new-messico/htc-rio-rancho-new-messico.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Fullbars Cell Phone Repair",
+                        "address": "6200 Coors Blvd NW,  Albuquerque, NM 87120",
+                        "phone": "(505) 897-1605"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Roswell",
@@ -4101,7 +5906,17 @@
             },
             {
                 "name": "Santa Fe",
-                "link": "https://www.service-center-locator.com/htc/new-messico/htc-santa-fe-new-messico.htm"
+                "link": "https://www.service-center-locator.com/htc/new-messico/htc-santa-fe-new-messico.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Phones Plus",
+                        "address": "1915 Cerrillos Rd,  Santa Fe, NM 87505",
+                        "phone": "(505) 474-0828"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             }
         ]
     },
@@ -4192,11 +6007,75 @@
             },
             {
                 "name": "New York County",
-                "link": "https://www.service-center-locator.com/htc/new-york/htc-new-york-county-new-york.htm"
+                "link": "https://www.service-center-locator.com/htc/new-york/htc-new-york-county-new-york.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "367W34thSt2ndFloor,NewYork,NY10001",
+                        "phone": "(212) 682-3547"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "360W36thSt,NewYork,NY10018",
+                        "phone": "(212) 673-8400"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "110E13thSt,NewYork,NY10003",
+                        "phone": "(212) 673-8400"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Shop",
+                        "address": "419LafayetteSt2ndFloor,NewYork,NY10003",
+                        "phone": "(917) 775-6915"
+                    },
+                    {
+                        "serviceCenter": "Huayu Cell Phone Repair",
+                        "address": "56EBroadway,NewYork,NY10002",
+                        "phone": "(212) 343-0666"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "97NassauSt,NewYork,NY10038",
+                        "phone": "(212) 240-9696"
+                    },
+                    {
+                        "serviceCenter": "N Y C Cell Phone Repair",
+                        "address": "3505thAve,NewYork,NY10118",
+                        "phone": "(212) 244-4342"
+                    }
+                ]
             },
             {
                 "name": "Putnam County",
-                "link": "https://www.service-center-locator.com/htc/new-york/htc-putnam-county-new-york.htm"
+                "link": "https://www.service-center-locator.com/htc/new-york/htc-putnam-county-new-york.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Wappingers Falls",
+                        "address": "1555US9#STE2,WappingersFalls,NY12590",
+                        "phone": "(845) 296-1047"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "211BWRoute59,Nanuet,NY10954",
+                        "phone": "(845) 507-0809"
+                    },
+                    {
+                        "serviceCenter": "Speed Wireless & Phone Fix and Repair",
+                        "address": "1000PalisadesCtrDr,WestNyack,NY10994",
+                        "phone": "(845) 358-1145"
+                    },
+                    {
+                        "serviceCenter": "Fast Cell Phone Repair",
+                        "address": "4WallSt,Norwalk,CT06850",
+                        "phone": "(203) 246-2978"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Brooklyn",
+                        "phone": "(347) 673-0091",
+                        "address": "jdeluca@cpr-brooklyn.com"
+                    }
+                ]
             },
             {
                 "name": "Queens",
@@ -4287,11 +6166,82 @@
         "states": [
             {
                 "name": "Cary",
-                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-cary-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-cary-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Phone Exchange",
+                        "address": "2955SRutherfordBlvd,Murfreesboro,TN37130",
+                        "phone": "(615) 410-7903"
+                    },
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "Tienda Chapin",
+                        "address": "108FairfieldPike,Shelbyville,TN37160",
+                        "phone": "(931) 684-0206"
+                    },
+                    {
+                        "serviceCenter": "Access Communication",
+                        "address": "403SCannonBlvd,Shelbyville,TN37160",
+                        "phone": "(931) 684-2495"
+                    },
+                    {
+                        "serviceCenter": "Megapath",
+                        "address": "1905NJacksonSt,Tullahoma,TN37388",
+                        "phone": "(931) 393-5386"
+                    },
+                    {
+                        "serviceCenter": "Complete Electronics Restoration",
+                        "address": "104JohnstonSt,Tullahoma,TN37388",
+                        "phone": "(931) 434-5601"
+                    },
+                    {
+                        "serviceCenter": "Williams Communications Group/Vyvx Vi...",
+                        "address": "38RigneyDr,Manchester,TN37355",
+                        "phone": "(931) 728-8235"
+                    }
+                ]
             },
             {
                 "name": "Charlotte",
-                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-charlotte-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-charlotte-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "4425ParkRd,Charlotte,NC28209",
+                        "phone": "(980) 219-8381"
+                    },
+                    {
+                        "serviceCenter": "Vortex Cell Phone Repair",
+                        "address": "3145NSharonAmityRd,Charlotte,NC28205",
+                        "phone": "(704) 535-2208"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Charlotte - Arb...",
+                        "address": "8020ProvidenceRd#STE400,Charlotte,NC28277",
+                        "phone": "(704) 542-0046"
+                    },
+                    {
+                        "serviceCenter": "EZ iPhone Repair",
+                        "phone": "(704) 941-0802"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Steele Creek",
+                        "address": "12806STryonSt#STE280,Charlotte,NC28273",
+                        "phone": "(704) 588-0520"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair",
+                        "phone": "(336) 837-8975"
+                    },
+                    {
+                        "serviceCenter": "Charlotte Mobile Phone Repair",
+                        "address": "12342CarriganCt,Huntersville,NC28078",
+                        "phone": "(704) 796-5837"
+                    }
+                ]
             },
             {
                 "name": "Durham",
@@ -4316,15 +6266,47 @@
             },
             {
                 "name": "Fayetteville",
-                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-fayetteville-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-fayetteville-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "3350 Footbridge Ln #STE 121,  Fayetteville, NC 28306",
+                        "phone": "(910) 779-2002"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Greensboro",
-                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-greensboro-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-greensboro-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "5870SametDr105,HighPoint,NC27265",
+                        "phone": "(336) 858-5269"
+                    },
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair",
+                        "address": "268SStratfordRd,WinstonSalem,NC27103",
+                        "phone": "(336) 448-1011"
+                    }
+                ]
             },
             {
                 "name": "Greenville",
-                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-greenville-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-greenville-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Allen Harper Cell Phone",
+                        "address": "2801 Ward Blvd,  Wilson, NC 27893",
+                        "phone": "(252) 236-7577"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "High Point",
@@ -4365,7 +6347,24 @@
             },
             {
                 "name": "Wilmington",
-                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-wilmington-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/north-carolina/htc-wilmington-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair",
+                        "address": "4401OleanderDr,Wilmington,NC28403",
+                        "phone": "(910) 859-7694"
+                    },
+                    {
+                        "serviceCenter": "Quikfix Phone Repair",
+                        "address": "120RacineDr,Wilmington,NC28403",
+                        "phone": "(910) 399-3430"
+                    },
+                    {
+                        "serviceCenter": "Second Chance Cell Phone Repair",
+                        "address": "624CoryLnNE,Leland,NC28451",
+                        "phone": "(910) 232-2785"
+                    }
+                ]
             },
             {
                 "name": "Winston Salem",
@@ -4390,7 +6389,17 @@
         "states": [
             {
                 "name": "Bismarck",
-                "link": "https://www.service-center-locator.com/htc/north-dakota/htc-bismarck-north-dakota.htm"
+                "link": "https://www.service-center-locator.com/htc/north-dakota/htc-bismarck-north-dakota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Classic Communications Phone",
+                        "address": "2427 N Washington St,  Bismarck, ND 58503",
+                        "phone": "(701) 223-7255"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Fargo",
@@ -4434,7 +6443,43 @@
             },
             {
                 "name": "Grand Forks",
-                "link": "https://www.service-center-locator.com/htc/north-dakota/htc-grand-forks-north-dakota.htm"
+                "link": "https://www.service-center-locator.com/htc/north-dakota/htc-grand-forks-north-dakota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "I.T.Works",
+                        "address": "1003SWashingtonSt,GrandForks,ND58201",
+                        "phone": "(701) 757-1899"
+                    },
+                    {
+                        "serviceCenter": "Dell-Comm Inc",
+                        "address": "616S15thSt,GrandForks,ND58201",
+                        "phone": "(701) 780-2086"
+                    },
+                    {
+                        "serviceCenter": "Cellular Communications",
+                        "address": "2800SColumbiaRd,GrandForks,ND58201",
+                        "phone": "(701) 738-8460"
+                    },
+                    {
+                        "serviceCenter": "Walmart Supercenter",
+                        "address": "225132ndAveS,GrandForks,ND58201",
+                        "phone": "(701) 402-0567"
+                    },
+                    {
+                        "serviceCenter": "Integra Telecom",
+                        "address": "215032ndAveS,GrandForks,ND58201",
+                        "phone": "(701) 738-4600"
+                    },
+                    {
+                        "serviceCenter": "Comeau Communications Systems",
+                        "address": "612S18thSt,GrandForks,ND58201",
+                        "phone": "(701) 775-6236"
+                    }
+                ]
             },
             {
                 "name": "Minot",
@@ -4483,15 +6528,50 @@
         "states": [
             {
                 "name": "Akron",
-                "link": "https://www.service-center-locator.com/htc/ohio/htc-akron-ohio.htm"
+                "link": "https://www.service-center-locator.com/htc/ohio/htc-akron-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Independence",
+                        "address": "7100 E Pleasant Valley Rd 300,  Independence, OH 44131",
+                        "phone": "(216) 674-0574"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Cincinnati",
-                "link": "https://www.service-center-locator.com/htc/ohio/htc-cincinnati-ohio.htm"
+                "link": "https://www.service-center-locator.com/htc/ohio/htc-cincinnati-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Genesis Cell Phone Accessories & Repair",
+                        "address": "400 Premium Outlets Dr Monroe Oh 45050- In Front Of J Crew,  Monroe, OH 45050",
+                        "phone": "(513) 539-8412"
+                    },
+                    {
+                        "serviceCenter": ""
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Cleveland",
-                "link": "https://www.service-center-locator.com/htc/ohio/htc-cleveland-ohio.htm"
+                "link": "https://www.service-center-locator.com/htc/ohio/htc-cleveland-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Independence",
+                        "address": "7100EPleasantValleyRd300,Independence,OH44131",
+                        "phone": "(216) 674-0574"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Screen Repair",
+                        "address": "cellrepair576@gmail.com",
+                        "phone": "(440) 387-4264"
+                    }
+                ]
             },
             {
                 "name": "Columbus",
@@ -4731,7 +6811,43 @@
             },
             {
                 "name": "Moore",
-                "link": "https://www.service-center-locator.com/htc/oklahoma/htc-moore-oklahoma.htm"
+                "link": "https://www.service-center-locator.com/htc/oklahoma/htc-moore-oklahoma.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Kirbie Cell Phone Repair Shop",
+                        "address": "914MainSt#STEA,Woodward,OK73801",
+                        "phone": "(580) 254-1548"
+                    },
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "Pioneer Telephone Co-Op Inc",
+                        "address": "117SElmSt,Mooreland,OK73852",
+                        "phone": "(580) 994-5655"
+                    },
+                    {
+                        "serviceCenter": "Cells Styles",
+                        "address": "11188thSt,Woodward,OK73801",
+                        "phone": "(580) 216-1790"
+                    },
+                    {
+                        "serviceCenter": "West Telecom",
+                        "address": "Telecom,Woodward,OK73801",
+                        "phone": "(580) 256-7222"
+                    },
+                    {
+                        "serviceCenter": "West Telecom",
+                        "address": "197877ECountyRd41,Woodward,OK73801",
+                        "phone": "(580) 256-7222"
+                    },
+                    {
+                        "serviceCenter": "Taloga Wireless",
+                        "address": "111SBroadwaySt,Taloga,OK73667",
+                        "phone": "(580) 328-5678"
+                    }
+                ]
             },
             {
                 "name": "Norman",
@@ -4817,7 +6933,17 @@
             },
             {
                 "name": "Stillwater",
-                "link": "https://www.service-center-locator.com/htc/oklahoma/htc-stillwater-oklahoma.htm"
+                "link": "https://www.service-center-locator.com/htc/oklahoma/htc-stillwater-oklahoma.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR Cell Phone Repair Stillwater",
+                        "address": "1120 N Duck St #STE H,  Stillwater, OK 74075",
+                        "phone": "(405) 372-7025"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Tulsa",
@@ -5042,7 +7168,19 @@
             },
             {
                 "name": "Springfield",
-                "link": "https://www.service-center-locator.com/htc/oregon/htc-springfield-oregon.htm"
+                "link": "https://www.service-center-locator.com/htc/oregon/htc-springfield-oregon.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Direct Tel Cell Phones",
+                        "address": "107S14thSt,Springfield,OR97477",
+                        "phone": "(541) 747-5474"
+                    },
+                    {
+                        "serviceCenter": "Phones Plus Communications",
+                        "address": "1267W7thAve,Eugene,OR97402",
+                        "phone": "(541) 687-0111"
+                    }
+                ]
             }
         ]
     },
@@ -5106,7 +7244,19 @@
             },
             {
                 "name": "York",
-                "link": "https://www.service-center-locator.com/htc/pennsylvania/htc-york-pennsylvania.htm"
+                "link": "https://www.service-center-locator.com/htc/pennsylvania/htc-york-pennsylvania.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Connect-A-Phone",
+                        "address": "730LewisberryRd,Lewisberry,PA17339",
+                        "phone": "(717) 938-8654"
+                    },
+                    {
+                        "serviceCenter": "Archie Affordable Phone Svc",
+                        "address": "12325WarnerRd,Keymar,MD21757",
+                        "phone": "(301) 845-2400"
+                    }
+                ]
             }
         ]
     },
@@ -5136,7 +7286,34 @@
             },
             {
                 "name": "Cranston",
-                "link": "https://www.service-center-locator.com/htc/rhode-island/htc-cranston-rhode-island.htm"
+                "link": "https://www.service-center-locator.com/htc/rhode-island/htc-cranston-rhode-island.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Solution",
+                        "address": "418QuequechanSt,FallRiver,MA02723",
+                        "phone": "(508) 567-0222"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Store",
+                        "address": "260ChauncySt,Mansfield,MA02048",
+                        "phone": "(508) 337-9999"
+                    },
+                    {
+                        "serviceCenter": "Phone Start",
+                        "address": "104MainSt,Milford,MA01757",
+                        "phone": "(508) 381-0547"
+                    },
+                    {
+                        "serviceCenter": "Sprint Store by The Cell Phone St",
+                        "address": "74ColonialPlz,Medway,MA02053",
+                        "phone": "(508) 533-5565"
+                    },
+                    {
+                        "serviceCenter": "The Cell Phone Store",
+                        "address": "1285BelmontSt,Brockton,MA02301",
+                        "phone": "(508) 230-7700"
+                    }
+                ]
             },
             {
                 "name": "Cumberland",
@@ -5185,11 +7362,58 @@
             },
             {
                 "name": "North Providence",
-                "link": "https://www.service-center-locator.com/htc/rhode-island/htc-north-providence-rhode-island.htm"
+                "link": "https://www.service-center-locator.com/htc/rhode-island/htc-north-providence-rhode-island.htm",
+                "city": [
+                    {
+                        "serviceCenter": "911 iPhone Repair and Accessories",
+                        "address": "1 St Mark St #STE A,  Auburn, MA 01501",
+                        "phone": "(774) 321-6100"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Pawtucket",
-                "link": "https://www.service-center-locator.com/htc/rhode-island/htc-pawtucket-rhode-island.htm"
+                "link": "https://www.service-center-locator.com/htc/rhode-island/htc-pawtucket-rhode-island.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Store",
+                        "address": "260ChauncySt,Mansfield,MA02048",
+                        "phone": "(508) 337-9999"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Solution",
+                        "address": "418QuequechanSt,FallRiver,MA02723",
+                        "phone": "(508) 567-0222"
+                    },
+                    {
+                        "serviceCenter": "Phone Start",
+                        "address": "104MainSt,Milford,MA01757",
+                        "phone": "(508) 381-0547"
+                    },
+                    {
+                        "serviceCenter": "Sprint Store by The Cell Phone St",
+                        "address": "74ColonialPlz,Medway,MA02053",
+                        "phone": "(508) 533-5565"
+                    },
+                    {
+                        "serviceCenter": "The Cell Phone Store",
+                        "address": "1285BelmontSt,Brockton,MA02301",
+                        "phone": "(508) 230-7700"
+                    },
+                    {
+                        "serviceCenter": "Mitchell Safe Arrival Phone",
+                        "address": "187BrooklineSt,Needham,MA02492",
+                        "phone": "(781) 444-2283"
+                    },
+                    {
+                        "serviceCenter": "GlobalPhonesOnly.com",
+                        "address": "21FarquharSt,Roslindale,MA02131",
+                        "phone": "(617) 637-7020"
+                    }
+                ]
             },
             {
                 "name": "Providence",
@@ -5249,7 +7473,17 @@
             },
             {
                 "name": "Woonsocket",
-                "link": "https://www.service-center-locator.com/htc/rhode-island/htc-woonsocket-rhode-island.htm"
+                "link": "https://www.service-center-locator.com/htc/rhode-island/htc-woonsocket-rhode-island.htm",
+                "city": [
+                    {
+                        "serviceCenter": "911 iPhone Repair and Accessories",
+                        "address": "1 St Mark St #STE A,  Auburn, MA 01501",
+                        "phone": "(774) 321-6100"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             }
         ]
     },
@@ -5258,19 +7492,113 @@
         "states": [
             {
                 "name": "Charleston",
-                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-charleston-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-charleston-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Charleston iPhone and PC Repair",
+                        "address": "PleaseCallForAppointment,Charleston,SC29407",
+                        "phone": "(843) 303-7166"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Center",
+                        "address": "5070InternationalBlvd,NorthCharleston,SC29418",
+                        "phone": "(843) 641-0316"
+                    }
+                ]
             },
             {
                 "name": "Columbia",
-                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-columbia-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-columbia-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Smart Phone Medic, LLC",
+                        "address": "1801GervaisSt,Columbia,SC29201",
+                        "phone": "(803) 354-3275"
+                    },
+                    {
+                        "serviceCenter": "Smart Phone Medic",
+                        "address": "902HardenSt,Columbia,SC29205",
+                        "phone": "(803) 354-3275"
+                    },
+                    {
+                        "serviceCenter": "Phone Pro Plus",
+                        "phone": "(800) 753-5006"
+                    },
+                    {
+                        "serviceCenter": "Phone Pro Plus of Columbia",
+                        "address": "3743SunsetBlvd,WestColumbia,SC29169",
+                        "phone": "(803) 339-4859"
+                    },
+                    {
+                        "serviceCenter": "Phone Doctor LLC",
+                        "phone": "(803) 796-8300"
+                    },
+                    {
+                        "serviceCenter": "The Phone Doctor",
+                        "phone": "(803) 796-8300"
+                    },
+                    {
+                        "serviceCenter": "Carolina Phone Systems Inc",
+                        "phone": "(803) 254-1195"
+                    }
+                ]
             },
             {
                 "name": "Greenville",
-                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-greenville-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-greenville-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "Categories:MobileDeviceRepair<CellularTelephoneEquipment&Supplies",
+                        "phone": "(864) 520-8424"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "Categories:TelephoneEquipment&Systems-Repair&Service<ElectronicEquipment&Supplies-Repair&Service<CellularTelephoneService",
+                        "phone": "(864) 234-9669"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair - Live Wire Communi...",
+                        "address": "Categories:CellularTelephoneEquipment&Supplies<CellularTelephoneService",
+                        "phone": "(864) 425-2607"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "Categories:CellularTelephoneEquipment&Supplies<MobileDeviceRepair",
+                        "phone": "(864) 222-2202"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "Categories:CellularTelephoneEquipment&Supplies<MobileDeviceRepair",
+                        "phone": "(864) 576-3524"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "Categories:CellularTelephoneEquipment&Supplies<MobileDeviceRepair",
+                        "phone": "(864) 222-2202"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair - Live Wire Communi...",
+                        "address": "Categories:CellularTelephoneService<CellularTelephoneEquipment&Supplies<CellularTelephoneEquipment&Supplies-Rental",
+                        "phone": "(864) 621-4167"
+                    }
+                ]
             },
             {
                 "name": "Mount Pleasant",
-                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-mount-pleasant-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-mount-pleasant-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Charleston iPhone and PC Repair",
+                        "address": "Categories:CellularTelephoneService<Computers&ComputerEquipment-Service&Repair",
+                        "phone": "(843) 303-7166"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Center",
+                        "address": "Categories:CellularTelephoneService<CommunicationsServices",
+                        "phone": "(843) 641-0316"
+                    }
+                ]
             },
             {
                 "name": "North Charleston",
@@ -5290,11 +7618,55 @@
             },
             {
                 "name": "Spartanburg",
-                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-spartanburg-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-spartanburg-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1450WoEzellBlvd,Spartanburg,SC29301",
+                        "phone": "(864) 576-3524"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair - Live Wire Communi...",
+                        "address": "1000NPineSt#STE37,Spartanburg,SC29303",
+                        "phone": "(864) 621-4167"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair - Live Wire Communi...",
+                        "address": "300JohnSt#STE1A,Greer,SC29651",
+                        "phone": "(864) 425-2607"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1618WoodruffRd#STEG,Greenville,SC29607",
+                        "phone": "(864) 234-9669"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1AugustaSt,Greenville,SC29601",
+                        "phone": "(864) 520-8424"
+                    }
+                ]
             },
             {
                 "name": "Summerville",
-                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-summerville-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/htc/south-carolina/htc-summerville-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Repair Center",
+                        "address": "5070InternationalBlvd,NorthCharleston,SC29418",
+                        "phone": "(843) 641-0316"
+                    },
+                    {
+                        "serviceCenter": "Charleston iPhone and PC Repair",
+                        "address": "PleaseCallForAppointment,Charleston,SC29407",
+                        "phone": "(843) 303-7166"
+                    },
+                    {
+                        "serviceCenter": "Lowcountry Mobile Phone Repair",
+                        "address": "208BrownleheSt,Walterboro,SC29488",
+                        "phone": "(843) 782-4035"
+                    }
+                ]
             }
         ]
     },
@@ -5459,11 +7831,40 @@
             },
             {
                 "name": "Clarksville",
-                "link": "https://www.service-center-locator.com/htc/tennessee/htc-clarksville-tennessee.htm"
+                "link": "https://www.service-center-locator.com/htc/tennessee/htc-clarksville-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Repairs",
+                        "address": "1352FtCampbellBlvd,Clarksville,TN37042",
+                        "phone": "(931) 802-5045"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "3416TomAustinHwy,Springfield,TN37172",
+                        "phone": "(615) 384-7520"
+                    }
+                ]
             },
             {
                 "name": "Franklin",
-                "link": "https://www.service-center-locator.com/htc/tennessee/htc-franklin-tennessee.htm"
+                "link": "https://www.service-center-locator.com/htc/tennessee/htc-franklin-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "790JordanRd,Franklin,TN37067",
+                        "phone": "(615) 778-9240"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair",
+                        "address": "1050GlenbrookWay#STE410,Hendersonville,TN37075",
+                        "phone": "(615) 822-3250"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1050GlenbrookWay,Hendersonville,TN37075",
+                        "phone": "(615) 822-3250"
+                    }
+                ]
             },
             {
                 "name": "Jackson",
@@ -5723,7 +8124,19 @@
             },
             {
                 "name": "Corpus Christi",
-                "link": "https://www.service-center-locator.com/htc/texas/htc-corpus-christi-texas.htm"
+                "link": "https://www.service-center-locator.com/htc/texas/htc-corpus-christi-texas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Iknow Smart Phone Repairs",
+                        "address": "9762LeopardSt,CorpusChristi,TX78410",
+                        "phone": "(361) 242-2773"
+                    },
+                    {
+                        "serviceCenter": "Instant Cell Phone Repairs",
+                        "address": "13434LeopardSt,CorpusChristi,TX78410",
+                        "phone": "(361) 947-5933"
+                    }
+                ]
             },
             {
                 "name": "Dallas",
@@ -5921,7 +8334,44 @@
             },
             {
                 "name": "Plano",
-                "link": "https://www.service-center-locator.com/htc/texas/htc-plano-texas.htm"
+                "link": "https://www.service-center-locator.com/htc/texas/htc-plano-texas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "A2Z Cell Phone Repair (INSIDE ASIA WO...",
+                        "address": "240LegacyDr202,Plano,TX75023",
+                        "phone": "(972) 575-8705"
+                    },
+                    {
+                        "serviceCenter": "K-Pcs Cell Phone Repair",
+                        "address": "1210EParkerRd,Plano,TX75074",
+                        "phone": "(972) 422-0709"
+                    },
+                    {
+                        "serviceCenter": "A & J Cell Phone Repair",
+                        "address": "581WCampbellRd,Richardson,TX75080",
+                        "phone": "(972) 479-9379"
+                    },
+                    {
+                        "serviceCenter": "Dallas Cell Phone Repair Center",
+                        "address": "101SShermanSt,Richardson,TX75081",
+                        "phone": "(972) 234-4833"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Repair Guys",
+                        "address": "6449CoitRd,Frisco,TX75035",
+                        "phone": "(214) 494-4438"
+                    },
+                    {
+                        "serviceCenter": "cell phone Accessories and Repair Ser...",
+                        "address": "2429PrestonRd,Frisco,TX75034",
+                        "phone": "(214) 494-4215"
+                    },
+                    {
+                        "serviceCenter": "Sozo Cell Phone Repair",
+                        "address": "204NGreenvilleAve,Allen,TX75002",
+                        "phone": "(214) 383-2929"
+                    }
+                ]
             },
             {
                 "name": "San Antonio",
@@ -6013,7 +8463,18 @@
             },
             {
                 "name": "Salt Lake City",
-                "link": "https://www.service-center-locator.com/htc/utah/htc-salt-lake-city-utah.htm"
+                "link": "https://www.service-center-locator.com/htc/utah/htc-salt-lake-city-utah.htm",
+                "city": [
+                    {
+                        "serviceCenter": "My Phone Accessories & Repair",
+                        "address": "1214NMainSt,Tooele,UT84074",
+                        "phone": "(435) 228-6341"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "phone": "(801) 566-5288"
+                    }
+                ]
             },
             {
                 "name": "Sandy",
@@ -6080,7 +8541,17 @@
             },
             {
                 "name": "South Burlington",
-                "link": "https://www.service-center-locator.com/htc/vermont/htc-south-burlington-vermont.htm"
+                "link": "https://www.service-center-locator.com/htc/vermont/htc-south-burlington-vermont.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Westport iPhone Repair",
+                        "address": "6431 Main St,  Westport, NY 12993",
+                        "phone": "(347) 599-6677"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             }
         ]
     },
@@ -6130,7 +8601,44 @@
             },
             {
                 "name": "Charlottesville",
-                "link": "https://www.service-center-locator.com/htc/virginia/htc-charlottesville-virginia.htm"
+                "link": "https://www.service-center-locator.com/htc/virginia/htc-charlottesville-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cell Phone Repair Technician",
+                        "address": "4557DukeSt,Alexandria,VA22304",
+                        "phone": "(703) 473-7247"
+                    },
+                    {
+                        "serviceCenter": "Wigoclinc-Cell Phone Repair",
+                        "address": "2415WilsonBlvd,Arlington,VA22201",
+                        "phone": "(703) 243-6472"
+                    },
+                    {
+                        "serviceCenter": "Zagg Phone Repair",
+                        "address": "1204GStNW,Washington,DC20005",
+                        "phone": "(202) 737-9244"
+                    },
+                    {
+                        "serviceCenter": "Wigoclinic-Cell Phone Repair",
+                        "address": "8446LeeHwy,Fairfax,VA22031",
+                        "phone": "(703) 639-0078"
+                    },
+                    {
+                        "serviceCenter": "My Cell Phone Repairs",
+                        "address": "7401BaltimoreAve,CollegePark,MD20740",
+                        "phone": "(301) 985-5111"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair DC",
+                        "address": "12915AltonSq,Herndon,VA20170",
+                        "phone": "(703) 286-7174"
+                    },
+                    {
+                        "serviceCenter": "Fix Smarts Cell Phone Repair",
+                        "address": "620HungerfordDr,Rockville,MD20850",
+                        "phone": "(301) 339-8863"
+                    }
+                ]
             },
             {
                 "name": "Chesapeake",
@@ -6231,7 +8739,19 @@
             },
             {
                 "name": "Lynchburg",
-                "link": "https://www.service-center-locator.com/htc/virginia/htc-lynchburg-virginia.htm"
+                "link": "https://www.service-center-locator.com/htc/virginia/htc-lynchburg-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "ABC Phones",
+                        "address": "3211FrstBrookRd,Lynchburg,VA24501",
+                        "phone": "(434) 509-0696"
+                    },
+                    {
+                        "serviceCenter": "Cell Phone Emergency Room",
+                        "address": "20722TimberlakeRd,Lynchburg,VA24502",
+                        "phone": "(434) 485-7800"
+                    }
+                ]
             },
             {
                 "name": "Newport News",
@@ -6372,7 +8892,17 @@
             },
             {
                 "name": "Roanoke",
-                "link": "https://www.service-center-locator.com/htc/virginia/htc-roanoke-virginia.htm"
+                "link": "https://www.service-center-locator.com/htc/virginia/htc-roanoke-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Trading Phone & Repair Service",
+                        "address": "4802 Valley View Blvd NW,  Roanoke, VA 24012",
+                        "phone": "(540) 563-1505"
+                    },
+                    {
+                        "serviceCenter": ""
+                    }
+                ]
             },
             {
                 "name": "Suffolk",
@@ -6532,7 +9062,19 @@
             },
             {
                 "name": "Seattle",
-                "link": "https://www.service-center-locator.com/htc/washington/htc-seattle-washington.htm"
+                "link": "https://www.service-center-locator.com/htc/washington/htc-seattle-washington.htm",
+                "city": [
+                    {
+                        "serviceCenter": "iPhone Repair Grp",
+                        "address": "33029PacificHighwayS,FederalWay,WA98003",
+                        "phone": "(253) 426-3066"
+                    },
+                    {
+                        "serviceCenter": "Tacoma iPhone Repair",
+                        "address": "23016thAve,Tacoma,WA98403",
+                        "phone": "(253) 212-9504"
+                    }
+                ]
             },
             {
                 "name": "Spokane",
@@ -6568,7 +9110,24 @@
             },
             {
                 "name": "Vancouver",
-                "link": "https://www.service-center-locator.com/htc/washington/htc-vancouver-washington.htm"
+                "link": "https://www.service-center-locator.com/htc/washington/htc-vancouver-washington.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Smart Phone Repair Shop",
+                        "address": "smartphonerepairshop@gmail.com",
+                        "phone": "(503) 208-2589"
+                    },
+                    {
+                        "serviceCenter": "Gadget Fix - Cell Phone Repair",
+                        "address": "1012SE96thAve,Portland,OR97216",
+                        "phone": "(503) 255-2988"
+                    },
+                    {
+                        "serviceCenter": "iPhone Repair",
+                        "address": "4265NEHalseySt,Portland,OR97213",
+                        "phone": "(775) 267-7333"
+                    }
+                ]
             },
             {
                 "name": "Yakima",
@@ -6869,7 +9428,32 @@
             },
             {
                 "name": "Milwaukee",
-                "link": "https://www.service-center-locator.com/htc/wisconsin/htc-milwaukee-wisconsin.htm"
+                "link": "https://www.service-center-locator.com/htc/wisconsin/htc-milwaukee-wisconsin.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR CellPhone Repair",
+                        "address": "17145WBluemoundRd,Brookfield,WI53005",
+                        "phone": "(414) 209-7310"
+                    },
+                    {
+                        "serviceCenter": "U.S. Cellular",
+                        "address": "740NWaterSt,Milwaukee,WI53202",
+                        "phone": "(414) 291-3140"
+                    },
+                    {
+                        "serviceCenter": "U.S. Cellular Authorized Agent - Tele...",
+                        "address": "3426WNationalAve,Milwaukee,WI53215"
+                    },
+                    {
+                        "serviceCenter": "Smart Tech Mobile Phone Repair",
+                        "phone": "(262) 347-1154"
+                    },
+                    {
+                        "serviceCenter": "Smart Phone Repair Center",
+                        "address": "5201WashingtonAve#STEM,Racine,WI53406",
+                        "phone": "(262) 260-8619"
+                    }
+                ]
             },
             {
                 "name": "Oshkosh",
@@ -6928,7 +9512,33 @@
             },
             {
                 "name": "Waukesha",
-                "link": "https://www.service-center-locator.com/htc/wisconsin/htc-waukesha-wisconsin.htm"
+                "link": "https://www.service-center-locator.com/htc/wisconsin/htc-waukesha-wisconsin.htm",
+                "city": [
+                    {
+                        "serviceCenter": "CPR CellPhone Repair",
+                        "address": "17145WBluemoundRd,Brookfield,WI53005",
+                        "phone": "(414) 209-7310"
+                    },
+                    {
+                        "serviceCenter": "U.S. Cellular Authorized Agent - More...",
+                        "address": "530WSunsetDr,Waukesha,WI53189"
+                    },
+                    {
+                        "serviceCenter": "U.S. Cellular",
+                        "address": "2930GolfRd,Delafield,WI53018",
+                        "phone": "(262) 646-6340"
+                    },
+                    {
+                        "serviceCenter": "Smart Phone Repair Center",
+                        "address": "5201WashingtonAve#STEM,Racine,WI53406",
+                        "phone": "(262) 260-8619"
+                    },
+                    {
+                        "serviceCenter": "CPR-Cell Phone Repair",
+                        "address": "1741EGenevaStUnit450,Delavan,WI53115",
+                        "phone": "(262) 728-5046"
+                    }
+                ]
             }
         ]
     },
@@ -6977,7 +9587,43 @@
             },
             {
                 "name": "Cheyenne",
-                "link": "https://www.service-center-locator.com/htc/wyoming/htc-cheyenne-wyoming.htm"
+                "link": "https://www.service-center-locator.com/htc/wyoming/htc-cheyenne-wyoming.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Frontier Authorized Reseller DGS - In...",
+                        "phone": "(888) 309-4395"
+                    },
+                    {
+                        "serviceCenter": "First Wireless",
+                        "address": "2020E11thSt,Cheyenne,WY82001",
+                        "phone": "(307) 632-6686"
+                    },
+                    {
+                        "serviceCenter": "Two Guys Communications",
+                        "address": "5205CharlesSt,Cheyenne,WY82001",
+                        "phone": "(307) 632-4285"
+                    },
+                    {
+                        "serviceCenter": "Page One",
+                        "address": "1418BradleyAve,Cheyenne,WY82001",
+                        "phone": "(307) 638-6161"
+                    },
+                    {
+                        "serviceCenter": "Patrick J Crank Att",
+                        "address": "1815EvansAve,Cheyenne,WY82001",
+                        "phone": "(307) 634-2994"
+                    },
+                    {
+                        "serviceCenter": "Dialersolutions Inc",
+                        "address": "2510WarrenAve,Cheyenne,WY82001",
+                        "phone": "(307) 222-4355"
+                    },
+                    {
+                        "serviceCenter": "At T and Affiliates",
+                        "address": "1919CapitolAve,Cheyenne,WY82001",
+                        "phone": "(307) 771-6000"
+                    }
+                ]
             },
             {
                 "name": "Laramie",

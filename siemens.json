@@ -117,7 +117,26 @@
         "states": [
             {
                 "name": "Anchorage",
-                "link": "https://www.service-center-locator.com/siemens/alaska/siemens-anchorage-alaska.htm"
+                "link": "https://www.service-center-locator.com/siemens/alaska/siemens-anchorage-alaska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Brown's Electrical Supply Co Inc",
+                        "address": "365 Industrial Way Anchorage, AK 99501",
+                        "phone": "(907)272-5136",
+                        "fax": "(907)277-4275"
+                    },
+                    {
+                        "serviceCenter": "North Coast Electric Company",
+                        "address": "5410 Fairbanks St Anchorage, AK 99518",
+                        "phone": "(907)563-5229"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "5760 SILVERADO WAY ANCHORAGE, AK 99518",
+                        "phone": "(907)563-3350",
+                        "fax": "(907)563-3134"
+                    }
+                ]
             },
             {
                 "name": "Fairbanks",
@@ -133,15 +152,72 @@
             },
             {
                 "name": "Juneau",
-                "link": "https://www.service-center-locator.com/siemens/alaska/siemens-juneau-alaska.htm"
+                "link": "https://www.service-center-locator.com/siemens/alaska/siemens-juneau-alaska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Brown's Electrical Supply Co Inc",
+                        "address": "365 Industrial Way Anchorage, AK 99501",
+                        "phone": "(907)272-5136",
+                        "fax": "(907)277-4275"
+                    },
+                    {
+                        "serviceCenter": "North Coast Electric Company",
+                        "address": "5410 Fairbanks St Anchorage, AK 99518",
+                        "phone": "(907)563-5229"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "5760 SILVERADO WAY ANCHORAGE, AK 99518",
+                        "phone": "(907)563-3350",
+                        "fax": "(907)563-3134"
+                    }
+                ]
             },
             {
                 "name": "Ketchikan",
-                "link": "https://www.service-center-locator.com/siemens/alaska/siemens-ketchikan-alaska.htm"
+                "link": "https://www.service-center-locator.com/siemens/alaska/siemens-ketchikan-alaska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Brown's Electrical Supply Co Inc",
+                        "address": "365 Industrial Way Anchorage, AK 99501",
+                        "phone": "(907)272-5136",
+                        "fax": "(907)277-4275"
+                    },
+                    {
+                        "serviceCenter": "North Coast Electric Company",
+                        "address": "5410 Fairbanks St Anchorage, AK 99518",
+                        "phone": "(907)563-5229"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "5760 SILVERADO WAY ANCHORAGE, AK 99518",
+                        "phone": "(907)563-3350",
+                        "fax": "(907)563-3134"
+                    }
+                ]
             },
             {
                 "name": "Kodiak",
-                "link": "https://www.service-center-locator.com/siemens/alaska/siemens-kodiak-alaska.htm"
+                "link": "https://www.service-center-locator.com/siemens/alaska/siemens-kodiak-alaska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Brown's Electrical Supply Co Inc",
+                        "address": "365 Industrial Way Anchorage, AK 99501",
+                        "phone": "(907)272-5136",
+                        "fax": "(907)277-4275"
+                    },
+                    {
+                        "serviceCenter": "North Coast Electric Company",
+                        "address": "5410 Fairbanks St Anchorage, AK 99518",
+                        "phone": "(907)563-5229"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "5760 SILVERADO WAY ANCHORAGE, AK 99518",
+                        "phone": "(907)563-3350",
+                        "fax": "(907)563-3134"
+                    }
+                ]
             }
         ]
     },
@@ -150,15 +226,179 @@
         "states": [
             {
                 "name": "Flagstaff",
-                "link": "https://www.service-center-locator.com/siemens/arizona/siemens-flagstaff-arizona.htm"
+                "link": "https://www.service-center-locator.com/siemens/arizona/siemens-flagstaff-arizona.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "3425 E VAN BUREN ST PHOENIX, AZ 85008",
+                        "phone": "(602)275-8521"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors",
+                        "address": "7310 W Roosevelt Ste 2 Phoenix, AZ 85043",
+                        "phone": "(623)936-6789",
+                        "fax": "(623)936-6262"
+                    },
+                    {
+                        "serviceCenter": "Essco Wholesale Electric",
+                        "address": "3555 N ESSCO ST KINGMAN, AZ 86409",
+                        "phone": "(928)757-3294",
+                        "fax": "(928)757-5209"
+                    }
+                ]
             },
             {
                 "name": "Phoenix",
-                "link": "https://www.service-center-locator.com/siemens/arizona/siemens-phoenix-arizona.htm"
+                "link": "https://www.service-center-locator.com/siemens/arizona/siemens-phoenix-arizona.htm",
+                "city": [
+                    {
+                        "serviceCenter": "QED INC",
+                        "address": "2929 S 16TH ST PHOENIX, AZ 85034",
+                        "phone": "(480)620-3299",
+                        "fax": "(602)258-2475"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "3425 E VAN BUREN ST PHOENIX, AZ 85008",
+                        "phone": "602)275-8521"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "2343 WEST UNIVERSITY DR Tempe, AZ 85281",
+                        "phone": "(480)634-2455",
+                        "fax": "(480)634-2458"
+                    },
+                    {
+                        "serviceCenter": "Border States Electric Supply",
+                        "address": "5519 E Washington St Phoenix, AZ 85034",
+                        "phone": "(602)244-0331",
+                        "fax": "(602)231-8535"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors Inc",
+                        "address": "832 W 22nd St Tempe, AZ 85282",
+                        "phone": "(480)968-9341",
+                        "fax": "(480)966-6468"
+                    },
+                    {
+                        "serviceCenter": "Independent Electric Supply",
+                        "address": "2626 S HARDY DR TEMPE, AZ 85282",
+                        "phone": "(480)966-2644"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors",
+                        "address": "7310 W Roosevelt Ste 2 Phoenix, AZ 85043",
+                        "phone": "(623)936-6789",
+                        "fax": "(623)936-6262"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "4340 W CHANDLER BLVD SUITE 2 CHANDLER, AZ 85226",
+                        "phone": "(480)246-8561",
+                        "fax": "(480)246-8564"
+                    },
+                    {
+                        "serviceCenter": "Essco Electric Wholesale Inc",
+                        "address": "2507 W VILLA RITA DR PHOENIX, AZ 85023",
+                        "phone": "(623)344-2300",
+                        "fax": "(623)344-2399"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "7280 N GLEN HARBOR BLVD GLENDALE, AZ 85307",
+                        "phone": "(623)889-2037",
+                        "fax": "(623)889-2040"
+                    },
+                    {
+                        "serviceCenter": "ESSCO WHOLESALE ELECTRIC ",
+                        "address": "948 E ISABELLA AVE MESA, AZ 85204",
+                        "phone": "(480)892-7200",
+                        "fax": "(480)892-6713"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "600 N BULLARD AVE STE 11 12 GOODYEAR, AZ 85338",
+                        "phone": "(623)889-2041",
+                        "fax": "(623)889-2044"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "24820 N 16TH AVE PHOENIX, AZ 85027",
+                        "phone": "(623)889-6360",
+                        "fax": "(623)889-6359"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "4450 E MCCLELLAN RD MESA, AZ 85205",
+                        "phone": "(480)290-7993",
+                        "fax": "(480)290-7997"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "1050 S PLUMER AVE TUCSON, AZ 85719",
+                        "phone": "(520)623-6941",
+                        "fax": "(520)623-5040"
+                    }
+                ]
             },
             {
                 "name": "Tucson",
-                "link": "https://www.service-center-locator.com/siemens/arizona/siemens-tucson-arizona.htm"
+                "link": "https://www.service-center-locator.com/siemens/arizona/siemens-tucson-arizona.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Crescent Electric Supply Company",
+                        "address": "523 E 10TH ST TUCSON, AZ 85705",
+                        "phone": "(520)624-8241",
+                        "fax": "(520)792-0476"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "1050 S PLUMER AVE TUCSON, AZ 85719",
+                        "phone": "(520)623-6941",
+                        "fax": "(520)623-5040"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "2520 N COYOTE DR TUCSON, AZ 85745",
+                        "phone": "(520)206-9801",
+                        "fax": "(520)206-9805"
+                    },
+                    {
+                        "serviceCenter": "Border States Electric Supply",
+                        "address": "763 EAST MACARTHUR TUCSON, AZ 85714",
+                        "phone": "(520)294-1414",
+                        "fax": "(502)295-1515"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "3500 S Dodge Blvd Tucson, AZ 85713",
+                        "phone": "(520)747-7400",
+                        "fax": "(520)747-7407"
+                    },
+                    {
+                        "serviceCenter": "ARIZONA ELECTRIC SUPPLY",
+                        "address": "3310 E GAS RD TUCSON, AZ 85714",
+                        "phone": "(520)622-7751",
+                        "fax": "(520)624-2051"
+                    },
+                    {
+                        "serviceCenter": "Border States Electric Supply",
+                        "address": "5519 E Washington St Phoenix, AZ 85034",
+                        "phone": "(602)244-0331",
+                        "fax": "(602)231-8535"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "3425 E VAN BUREN ST PHOENIX, AZ 85008",
+                        "phone": "(602)275-8521"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors",
+                        "address": "7310 W Roosevelt Ste 2 Phoenix, AZ 85043",
+                        "phone": "(623)936-6789",
+                        "fax": "(623)936-6262"
+                    }
+                ]
             },
             {
                 "name": "Yuma",
@@ -185,15 +425,120 @@
         "states": [
             {
                 "name": "Conway",
-                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-conway-arkansas.htm"
+                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-conway-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Treadway Electric",
+                        "address": "650 ROBINS ST CONWAY, AR 72032",
+                        "phone": "(501)513-0111",
+                        "fax": "(501)513-0112"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors Inc",
+                        "address": "585 COMMERCE CONWAY, AR 72032",
+                        "phone": "(501)329-5667",
+                        "fax": "(501)327-9855"
+                    },
+                    {
+                        "serviceCenter": "Keathley Patterson Electric CED #5010",
+                        "address": "3100 E BROADWAY ST NORTH LITTLE ROCK, AR 72114",
+                        "phone": "(501)945-7143",
+                        "fax": "(501)945-0882"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "7023 Interstate 30 Little Rock, AR 72209",
+                        "phone": "(501)562-7510",
+                        "fax": "(501)562-0564"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc ",
+                        "address": "13465 H PUPPY CREEK RD SPRINGDALE, AR 72762",
+                        "phone": "(479)756-1608"
+                    }
+                ]
             },
             {
                 "name": "Fayetteville",
-                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-fayetteville-arkansas.htm"
+                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-fayetteville-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Industrial Electrical Supply Inc",
+                        "address": "2401 S MAESTRI RD SPRINGDALE, AR 72762",
+                        "phone": "(479)361-9143",
+                        "fax": "(479)361-5075"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors Inc",
+                        "address": "1102 STERWIN ST SPRINGDALE, AR 72762",
+                        "phone": "(479)756-0200",
+                        "fax": "(479)756-6706"
+                    },
+                    {
+                        "serviceCenter": "Anderson Electric & Plumbing Supply",
+                        "address": "1116 Bulldog Ave Ste 3 Springdale, AR 72764",
+                        "phone": "(479)631-9733",
+                        "fax": "(479)631-4133"
+                    },
+                    {
+                        "serviceCenter": "Anderson Electric and Plumbing Supply",
+                        "address": "1116 BULLDOG LN SPRINGDALE, AR 72764",
+                        "phone": "(479)756-8055",
+                        "fax": "(479)756-8056"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "13465 H PUPPY CREEK RD SPRINGDALE, AR 72762",
+                        "phone": "(479)756-1608"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "12121 E 51ST ST TULSA, OK 74146",
+                        "phone": "(918)254-2399",
+                        "fax": "(918)357-9723"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "7023 Interstate 30 Little Rock, AR 72209",
+                        "phone": "(501)562-7510",
+                        "fax": "(501)562-0564"
+                    }
+                ]
             },
             {
                 "name": "Fort Smith",
-                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-fort-smith-arkansas.htm"
+                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-fort-smith-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "JM Supply Inc",
+                        "address": "1200 Wheeler AveFort Smith, AR 72901",
+                        "phone": "(479)783-6220",
+                        "fax": "(479)783-2513"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors Inc",
+                        "address": "7707 S ZERO STFORT SMITH, AR 72903",
+                        "phone": "(479)648-3600",
+                        "fax": "(479)648-3972"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "13465 H PUPPY CREEK RDSPRINGDALE, AR 72762",
+                        "phone": "(479)756-1608"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "12121 E 51ST STTULSA, OK 74146",
+                        "phone": "(918)254-2399",
+                        "fax": "(918)357-9723"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "7023 Interstate 30Little Rock, AR 72209",
+                        "phone": "(501)562-7510",
+                        "fax": "(501)562-0564"
+                    }
+                ]
             },
             {
                 "name": "Jonesboro",
@@ -233,7 +578,32 @@
             },
             {
                 "name": "Little Rock",
-                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-little-rock-arkansas.htm"
+                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-little-rock-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Keathley Patterson Electric CED #5010",
+                        "address": "3100 E BROADWAY STNORTH LITTLE ROCK, AR 72114",
+                        "phone": "(501)945-7143",
+                        "fax": "(501)945-0882"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "7023 Interstate 30Little Rock, AR 72209",
+                        "phone": "(501)562-7510",
+                        "fax": "(501)562-0564"
+                    },
+                    {
+                        "serviceCenter": "Treadway Electric",
+                        "address": "650 ROBINS STCONWAY, AR 72032",
+                        "phone": "(501)513-0111",
+                        "fax": "(501)513-0112"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "13465 H PUPPY CREEK RDSPRINGDALE, AR 72762",
+                        "phone": "(479)756-1608"
+                    }
+                ]
             },
             {
                 "name": "North Little Rock",
@@ -267,11 +637,55 @@
             },
             {
                 "name": "Rogers",
-                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-rogers-arkansas.htm"
+                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-rogers-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc",
+                        "address": "13465 H PUPPY CREEK RDSPRINGDALE, AR 72762",
+                        "phone": "(479)756-1608"
+                    },
+                    {
+                        "serviceCenter": "Anderson Electric and Plumbing Supply",
+                        "address": "1116 BULLDOG LNSPRINGDALE, AR 72764",
+                        "phone": "(479)756-8055",
+                        "fax": "(479)756-8056"
+                    }
+                ]
             },
             {
                 "name": "Springdale",
-                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-springdale-arkansas.htm"
+                "link": "https://www.service-center-locator.com/siemens/arkansas/siemens-springdale-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Anderson Electric & Plumbing Supply ",
+                        "address": "1116 Bulldog Ave Ste 3Springdale, AR 72764",
+                        "phone": "(479)631-9733",
+                        "fax": "(479)631-4133"
+                    },
+                    {
+                        "serviceCenter": "Anderson Electric and Plumbing Supply",
+                        "address": "1116 BULLDOG LNSPRINGDALE, AR 72764",
+                        "phone": "(479)756-8055",
+                        "fax": "(479)756-8056"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors Inc ",
+                        "address": "1102 STERWIN STSPRINGDALE, AR 72762",
+                        "phone": "(479)756-0200",
+                        "fax": "(479)756-6706"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc ",
+                        "address": "13465 H PUPPY CREEK RDSPRINGDALE, AR 72762",
+                        "phone": "(479)756-1608"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electrical Supply Inc ",
+                        "address": "2401 S MAESTRI RDSPRINGDALE, AR 72762",
+                        "phone": "(479)361-9143",
+                        "fax": "(479)361-5075"
+                    }
+                ]
             }
         ]
     },
@@ -555,7 +969,20 @@
         "states": [
             {
                 "name": "Arvada",
-                "link": "https://www.service-center-locator.com/siemens/colorado/siemens-arvada-colorado.htm"
+                "link": "https://www.service-center-locator.com/siemens/colorado/siemens-arvada-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Crum Electric Supply Co Inc",
+                        "address": "6260 WASHINGTON ST DENVER, CO 80216",
+                        "phone": "(303)429-1842"
+                    },
+                    {
+                        "serviceCenter": "Intermountain Distributing Company Inc",
+                        "address": "11111 W 8TH AVE LAKEWOOD, CO 80215",
+                        "phone": "(303)237-3050",
+                        "fax": "(303)237-3540"
+                    }
+                ]
             },
             {
                 "name": "Aurora",
@@ -571,11 +998,60 @@
             },
             {
                 "name": "Colorado Springs",
-                "link": "https://www.service-center-locator.com/siemens/colorado/siemens-colorado-springs-colorado.htm"
+                "link": "https://www.service-center-locator.com/siemens/colorado/siemens-colorado-springs-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "COLORADO ELECTRIC SUPPLY LTD",
+                        "address": "1491 TUSKEGEE PL COLORADO SPRINGS, CO 80915",
+                        "phone": "(719)638-6382",
+                        "fax": "(719)638-6390"
+                    },
+                    {
+                        "serviceCenter": "QED Inc",
+                        "address": "1340 FORD ST COLORADO SPRINGS, CO 80915",
+                        "phone": "(719)591-8341",
+                        "fax": "(719)896-7654"
+                    },
+                    {
+                        "serviceCenter": "Crum Electric Supply Co Inc",
+                        "address": "960 FORD ST COLORADO SPRINGS, CO 80915"
+                    }
+                ]
             },
             {
                 "name": "Denver",
-                "link": "https://www.service-center-locator.com/siemens/colorado/siemens-denver-colorado.htm"
+                "link": "https://www.service-center-locator.com/siemens/colorado/siemens-denver-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Crum Electric Supply Co Inc",
+                        "address": "6260 WASHINGTON STDENVER, CO 80216",
+                        "phone": "(303)429-1842"
+                    },
+                    {
+                        "serviceCenter": "Denver Distributors Inc",
+                        "address": "3301 Mariposa StDenver, CO 80211",
+                        "phone": "(303)433-7463",
+                        "fax": "(303)455-2751"
+                    },
+                    {
+                        "serviceCenter": "QED Inc",
+                        "address": "1661 W 3RD AVEDENVER, CO 80223",
+                        "phone": "(303)825-5011",
+                        "fax": "(303)446-0321"
+                    },
+                    {
+                        "serviceCenter": "Foothills Lighting Inc",
+                        "address": "1393 S SANTA FE DRDENVER, CO 80223",
+                        "phone": "(303)989-8895",
+                        "fax": "(303)989-8911"
+                    },
+                    {
+                        "serviceCenter": "Rexel Inc",
+                        "address": "11775 E 45TH AVEDENVER, CO 80239",
+                        "phone": "(303)629-7721",
+                        "fax": "(303)629-7101"
+                    }
+                ]
             },
             {
                 "name": "Fort Collins",
@@ -609,7 +1085,20 @@
             },
             {
                 "name": "Westminster",
-                "link": "https://www.service-center-locator.com/siemens/colorado/siemens-westminster-colorado.htm"
+                "link": "https://www.service-center-locator.com/siemens/colorado/siemens-westminster-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Crum Electric Supply Co Inc",
+                        "address": "6260 WASHINGTON STDENVER, CO 80216",
+                        "phone": "(303)429-1842"
+                    },
+                    {
+                        "serviceCenter": "Denver Distributors Inc",
+                        "address": "3301 Mariposa StDenver, CO 80211",
+                        "phone": "(303)433-7463",
+                        "fax": "(303)455-2751"
+                    }
+                ]
             }
         ]
     },
@@ -636,19 +1125,76 @@
             },
             {
                 "name": "Danbury",
-                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-danbury-connecticut.htm"
+                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-danbury-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Rexel Inc",
+                        "address": "640 Access RdStratford, CT 06615",
+                        "phone": "(203)380-3753",
+                        "fax": "(203)380-3764"
+                    },
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc",
+                        "address": "35 Larkin StStamford, CT 06907",
+                        "phone": "(203)348-2645"
+                    }
+                ]
             },
             {
                 "name": "Greenwich",
-                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-greenwich-connecticut.htm"
+                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-greenwich-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "35 Larkin StStamford, CT 06907",
+                        "phone": "(203)348-2645"
+                    },
+                    {
+                        "serviceCenter": "Rexel Inc ",
+                        "address": "640 Access RdStratford, CT 06615",
+                        "phone": "(203)380-3753",
+                        "fax": "(203)380-3764"
+                    }
+                ]
             },
             {
                 "name": "Hartford",
-                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-hartford-connecticut.htm"
+                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-hartford-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Beacon Light & Supply Company Inc ",
+                        "address": "180 WALNUT STHARTFORD, CT 06120",
+                        "phone": "(860)527-8236",
+                        "fax": "(860)520-4949"
+                    },
+                    {
+                        "serviceCenter": "Rexel Inc ",
+                        "address": "270 LOCUST STHARTFORD, CT 06141",
+                        "phone": "(860)549-1230",
+                        "fax": "(860)549-8312"
+                    },
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "26 Murphy RdHartford, CT 06114"
+                    }
+                ]
             },
             {
                 "name": "New Haven",
-                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-new-haven-connecticut.htm"
+                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-new-haven-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Rexel Inc ",
+                        "address": "130 HAMILTON STNEW HAVEN, CT 06511",
+                        "phone": "(203)865-1211",
+                        "fax": "(203)624-5152"
+                    },
+                    {
+                        "serviceCenter": "Turtle & Hughes Inc ",
+                        "address": "87 UNION ST REARNEW HAVEN, CT 06511",
+                        "phone": "(203)497-1500"
+                    }
+                ]
             },
             {
                 "name": "New London",
@@ -706,7 +1252,20 @@
             },
             {
                 "name": "Stamford",
-                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-stamford-connecticut.htm"
+                "link": "https://www.service-center-locator.com/siemens/connecticut/siemens-stamford-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "35 Larkin StStamford, CT 06907",
+                        "phone": "(203)348-2645"
+                    },
+                    {
+                        "serviceCenter": "Rexel Inc ",
+                        "address": "640 Access RdStratford, CT 06615",
+                        "phone": "(203)380-3753",
+                        "fax": "(203)380-3764"
+                    }
+                ]
             },
             {
                 "name": "Waterbury",
@@ -816,7 +1375,20 @@
             },
             {
                 "name": "Hialeah",
-                "link": "https://www.service-center-locator.com/siemens/florida/siemens-hialeah-florida.htm"
+                "link": "https://www.service-center-locator.com/siemens/florida/siemens-hialeah-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "City Electric Supply Co",
+                        "address": "7323 NW 56TH STMIAMI, FL 33166",
+                        "phone": "(305)889-0900"
+                    },
+                    {
+                        "serviceCenter": "Rexel Inc ",
+                        "address": "5201 NW 77TH AVEMIAMI, FL 33166",
+                        "phone": "(305)633-9565",
+                        "fax": "(305)635-5725"
+                    }
+                ]
             },
             {
                 "name": "Jacksonville",
@@ -880,7 +1452,26 @@
             },
             {
                 "name": "Miami",
-                "link": "https://www.service-center-locator.com/siemens/florida/siemens-miami-florida.htm"
+                "link": "https://www.service-center-locator.com/siemens/florida/siemens-miami-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "City Electric Supply Co",
+                        "address": "7323 NW 56TH STMIAMI, FL 33166",
+                        "phone": "(305)889-0900"
+                    },
+                    {
+                        "serviceCenter": "Rexel Inc ",
+                        "address": "5201 NW 77TH AVEMIAMI, FL 33166",
+                        "phone": "(305)633-9565",
+                        "fax": "(305)635-5725"
+                    },
+                    {
+                        "serviceCenter": "South Dade Electrical Supply Inc ",
+                        "address": "13100 SW 87th AveMiami, FL 33176",
+                        "phone": "(305)238-7131",
+                        "fax": "(305)251-5254"
+                    }
+                ]
             },
             {
                 "name": "Orlando",
@@ -1039,7 +1630,20 @@
             },
             {
                 "name": "Macon",
-                "link": "https://www.service-center-locator.com/siemens/georgia/siemens-macon-georgia.htm"
+                "link": "https://www.service-center-locator.com/siemens/georgia/siemens-macon-georgia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "1570 SEVENTH STMACON, GA 31208",
+                        "phone": "(912)746-4227"
+                    },
+                    {
+                        "serviceCenter": "City Electric Supply",
+                        "address": "130 STEVEN DR UNIT 2MACON, GA 31210",
+                        "phone": "(478)405-5422",
+                        "fax": "(478)405-5441"
+                    }
+                ]
             },
             {
                 "name": "Roswell",
@@ -1061,7 +1665,14 @@
             },
             {
                 "name": "Savannah",
-                "link": "https://www.service-center-locator.com/siemens/georgia/siemens-savannah-georgia.htm"
+                "link": "https://www.service-center-locator.com/siemens/georgia/siemens-savannah-georgia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Savannah Winlectric Company Inc ",
+                        "address": "3801 Ogeechee RdSavannah, GA 31405",
+                        "phone": "(912)233-7717"
+                    }
+                ]
             }
         ]
     },
@@ -1105,7 +1716,26 @@
         "states": [
             {
                 "name": "Boise",
-                "link": "https://www.service-center-locator.com/siemens/idaho/siemens-boise-idaho.htm"
+                "link": "https://www.service-center-locator.com/siemens/idaho/siemens-boise-idaho.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Dykman Electrical Inc ",
+                        "address": "2323 FEDERAL WAYBOISE, ID 83705",
+                        "phone": "(208)336-3988",
+                        "fax": "(208)336-3993"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "5480 IRVING STBOISE, ID 83706",
+                        "phone": "(208)322-3200",
+                        "fax": "(208)375-7119"
+                    },
+                    {
+                        "serviceCenter": "Consolidated Electrical Distributors Inc/Columbia Electric ",
+                        "address": "8645 Westpark StreetBOISE, ID 83704",
+                        "phone": "(208)322-1231"
+                    }
+                ]
             },
             {
                 "name": "Nampa",
@@ -1293,7 +1923,32 @@
             },
             {
                 "name": "Fort Wayne",
-                "link": "https://www.service-center-locator.com/siemens/indiana/siemens-fort-wayne-indiana.htm"
+                "link": "https://www.service-center-locator.com/siemens/indiana/siemens-fort-wayne-indiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Central Supply Company Inc ",
+                        "address": "701 E WALLACE STFORT WAYNE, IN 46803",
+                        "phone": "(219)745-4961",
+                        "fax": "(260)456-3517"
+                    },
+                    {
+                        "serviceCenter": "Wabash Electric Inc ",
+                        "address": "4621 EXECUTIVE BLVDFORT WAYNE, IN 46808",
+                        "phone": "(219)483-8820"
+                    },
+                    {
+                        "serviceCenter": "Kirby Risk Corporation ",
+                        "address": "5015 SPEEDWAY DRFORT WAYNE, IN 46825",
+                        "phone": "(260)496-9135",
+                        "fax": "(260)496-9143"
+                    },
+                    {
+                        "serviceCenter": "Kendall Electric Inc ",
+                        "address": "415 Ley RdFort Wayne, IN 46825",
+                        "phone": "(269)963-5585",
+                        "fax": "(269)966-9919"
+                    }
+                ]
             },
             {
                 "name": "Gary",
@@ -1707,11 +2362,79 @@
         "states": [
             {
                 "name": "Baton Rouge",
-                "link": "https://www.service-center-locator.com/siemens/louisiana/siemens-baton-rouge-louisiana.htm"
+                "link": "https://www.service-center-locator.com/siemens/louisiana/siemens-baton-rouge-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Awc Inc",
+                        "address": "6655 EXCHEQUER DRBATON ROUGE, LA 70809",
+                        "phone": "(225)752-3939",
+                        "fax": "(225)755-6723"
+                    },
+                    {
+                        "serviceCenter": "Industrial Electronic Supply Inc ",
+                        "address": "3575 CHOCTAW DRBATON ROUGE, LA 70805",
+                        "phone": "(225)357-4249",
+                        "fax": "(225)355-9712"
+                    },
+                    {
+                        "serviceCenter": "Rexel Inc ",
+                        "address": "8536 S CHOCTAW DRBATON ROUGE, LA 70815",
+                        "phone": "(225)926-3800",
+                        "fax": "(225)926-4103"
+                    },
+                    {
+                        "serviceCenter": "Notoco Industries LLC ",
+                        "address": "10380 Airline HwyBaton Rouge, LA 70816",
+                        "phone": "(225)292-1303"
+                    },
+                    {
+                        "serviceCenter": "The Reynolds Company ",
+                        "address": "11550 N HARRELLS FERRY RDBATON ROUGE, LA 70816",
+                        "phone": "(225)274-2500",
+                        "fax": "(225)274-2501"
+                    },
+                    {
+                        "serviceCenter": "Teche Electric Supply Inc ",
+                        "address": "11750 AIRLINE HWYBATON ROUGE, LA 70817",
+                        "phone": "(225)292-0082",
+                        "fax": "(225)292-0084"
+                    },
+                    {
+                        "serviceCenter": "AWC INC ",
+                        "address": "11511 Industriplex BlvdBaton Rouge, LA 70809",
+                        "phone": "(225)752-1100",
+                        "fax": "(225)755-6722"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "11435 REIGER RDBATON ROUGE, LA 70809",
+                        "phone": "(225)755-0066",
+                        "fax": "(225)755-3223"
+                    }
+                ]
             },
             {
                 "name": "Lafayette",
-                "link": "https://www.service-center-locator.com/siemens/louisiana/siemens-lafayette-louisiana.htm"
+                "link": "https://www.service-center-locator.com/siemens/louisiana/siemens-lafayette-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Notoco Industries LLC ",
+                        "address": "1800 Cameron StLafayette, LA 70506",
+                        "phone": "(337)237-1100"
+                    },
+                    {
+                        "serviceCenter": "Teche Electric Supply Inc ",
+                        "address": "410 ERASTE LANDRY RDLAFAYETTE, LA 70506",
+                        "phone": "(337)234-7427",
+                        "fax": "(337)234-3105"
+                    },
+                    {
+                        "serviceCenter": "Rexel Inc",
+                        "address": "209 SOUTHPARK RDLAFAYETTE, LA 70508",
+                        "phone": "(713)316-1700",
+                        "fax": "(713)316-1788"
+                    }
+                ]
             },
             {
                 "name": "Lake Charles",
@@ -1857,11 +2580,43 @@
         "states": [
             {
                 "name": "Baltimore",
-                "link": "https://www.service-center-locator.com/siemens/maryland/siemens-baltimore-maryland.htm"
+                "link": "https://www.service-center-locator.com/siemens/maryland/siemens-baltimore-maryland.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Capital Lighting & Supply ",
+                        "address": "600 W HAMBURG STBALTIMORE, MD 21230",
+                        "phone": "(410)332-8497"
+                    },
+                    {
+                        "serviceCenter": "Wesco Distribution Inc",
+                        "address": "1710 EDISON HWYBaltimore, MD 21213",
+                        "phone": "(410)563-8200",
+                        "fax": "(410)563-8292"
+                    },
+                    {
+                        "serviceCenter": "Primary Electric Supply Inc ",
+                        "address": "6310 FRANKFORD AVEBALTIMORE, MD 21206",
+                        "phone": "(410)488-7300",
+                        "fax": "(410)485-5343"
+                    }
+                ]
             },
             {
                 "name": "Columbia",
-                "link": "https://www.service-center-locator.com/siemens/maryland/siemens-columbia-maryland.htm"
+                "link": "https://www.service-center-locator.com/siemens/maryland/siemens-columbia-maryland.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Dominion Electric Supply Company Inc ",
+                        "address": "1740 Twin Springs RdHalethorpe, MD 21227",
+                        "phone": "(410)636-6366",
+                        "fax": "(410)636-1637"
+                    },
+                    {
+                        "serviceCenter": "Capital Lighting & Supply ",
+                        "address": "600 W HAMBURG STBALTIMORE, MD 21230",
+                        "phone": "(410)332-8497"
+                    }
+                ]
             },
             {
                 "name": "Dundalk",
@@ -1942,7 +2697,20 @@
             },
             {
                 "name": "Cambridge",
-                "link": "https://www.service-center-locator.com/siemens/massachusetts/siemens-cambridge-massachusetts.htm"
+                "link": "https://www.service-center-locator.com/siemens/massachusetts/siemens-cambridge-massachusetts.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "56 ROLAND STCHARLESTOWN, MA 02129",
+                        "phone": "(617)625-7010",
+                        "fax": "(617)625-6618"
+                    },
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "326 MYSTIC AVEMEDFORD, MA 02155",
+                        "phone": "(617)391-0180"
+                    }
+                ]
             },
             {
                 "name": "Lowell",
@@ -2041,7 +2809,20 @@
             },
             {
                 "name": "Flint",
-                "link": "https://www.service-center-locator.com/siemens/michigan/siemens-flint-michigan.htm"
+                "link": "https://www.service-center-locator.com/siemens/michigan/siemens-flint-michigan.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Michigan Electric Supply Co Inc",
+                        "address": "976 E Wood StFlint, MI 48503",
+                        "phone": "(810)234-8661",
+                        "fax": "(810)234-3202"
+                    },
+                    {
+                        "serviceCenter": "LG Customer Service Representative",
+                        "address": "",
+                        "phone": "(800) 243-0000"
+                    }
+                ]
             },
             {
                 "name": "Grand Rapids",
@@ -2104,7 +2885,14 @@
         "states": [
             {
                 "name": "Duluth",
-                "link": "https://www.service-center-locator.com/siemens/minnesota/siemens-duluth-minnesota.htm"
+                "link": "https://www.service-center-locator.com/siemens/minnesota/siemens-duluth-minnesota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Viking Electric Supply Inc",
+                        "address": "4531 W FIRST STDULUTH, MN 55807",
+                        "phone": "(218)624-2200"
+                    }
+                ]
             },
             {
                 "name": "Minneapolis",
@@ -2132,7 +2920,14 @@
             },
             {
                 "name": "Saint Paul",
-                "link": "https://www.service-center-locator.com/siemens/minnesota/siemens-saint-paul-minnesota.htm"
+                "link": "https://www.service-center-locator.com/siemens/minnesota/siemens-saint-paul-minnesota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Viking Electric Supply Inc",
+                        "address": "500 BROADWAY STSAINT PAUL, MN 55101",
+                        "phone": "(651)298-0666"
+                    }
+                ]
             }
         ]
     },
@@ -2224,7 +3019,20 @@
         "states": [
             {
                 "name": "Columbia",
-                "link": "https://www.service-center-locator.com/siemens/missouri/siemens-columbia-missouri.htm"
+                "link": "https://www.service-center-locator.com/siemens/missouri/siemens-columbia-missouri.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Frost Electric Supply Company ",
+                        "address": "1711 PARIS RDCOLUMBIA, MO 65201",
+                        "phone": "(573)875-4151",
+                        "fax": "(573)875-4240"
+                    },
+                    {
+                        "serviceCenter": "French Gerleman ",
+                        "address": "1815 Vandiver DrColumbia, MO 65202",
+                        "phone": "(573)474-4194"
+                    }
+                ]
             },
             {
                 "name": "Independence",
@@ -2329,7 +3137,14 @@
             },
             {
                 "name": "Bozeman",
-                "link": "https://www.service-center-locator.com/siemens/montana/siemens-bozeman-montana.htm"
+                "link": "https://www.service-center-locator.com/siemens/montana/siemens-bozeman-montana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Platt Electric",
+                        "address": "262 PRONGHORN TRAILBOZEMAN, MT 59718",
+                        "phone": "(406)522-7223"
+                    }
+                ]
             },
             {
                 "name": "Butte",
@@ -2375,7 +3190,14 @@
             },
             {
                 "name": "Missoula",
-                "link": "https://www.service-center-locator.com/siemens/montana/siemens-missoula-montana.htm"
+                "link": "https://www.service-center-locator.com/siemens/montana/siemens-missoula-montana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Platt Electric Supply ",
+                        "address": "321 EXPRESSWAYMISSOULA, MT 59808",
+                        "phone": "(406)549-5182"
+                    }
+                ]
             }
         ]
     },
@@ -2586,11 +3408,36 @@
             },
             {
                 "name": "Dover",
-                "link": "https://www.service-center-locator.com/siemens/new-hampshire/siemens-dover-new-hampshire.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-hampshire/siemens-dover-new-hampshire.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "151 Portland AveDover, NH 03820",
+                        "phone": "(603)742-4325"
+                    },
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "36 LITTLEWORTH RDDOVER, NH 03820",
+                        "phone": "(603)740-3800"
+                    }
+                ]
             },
             {
                 "name": "Hudson",
-                "link": "https://www.service-center-locator.com/siemens/new-hampshire/siemens-hudson-new-hampshire.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-hampshire/siemens-hudson-new-hampshire.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "76 Lake StNashua, NH 03060",
+                        "phone": "(603)889-5125",
+                        "fax": "(603)889-9495"
+                    },
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "71 Lowell RdSalem, NH 03079",
+                        "phone": "(603)893-3004"
+                    }
+                ]
             },
             {
                 "name": "Londonderry",
@@ -2672,7 +3519,26 @@
             },
             {
                 "name": "Salem",
-                "link": "https://www.service-center-locator.com/siemens/new-hampshire/siemens-salem-new-hampshire.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-hampshire/siemens-salem-new-hampshire.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "254 NORTH BROADWAY RT 28SALEM, NH 03079",
+                        "phone": "(603)893-2522",
+                        "fax": "(603)898-1097"
+                    },
+                    {
+                        "serviceCenter": "Northeast Electrical Distributors Inc ",
+                        "address": "71 Lowell RdSalem, NH 03079",
+                        "phone": "(603)893-3004"
+                    },
+                    {
+                        "serviceCenter": "",
+                        "address": "",
+                        "phone": "",
+                        "fax": ""
+                    }
+                ]
             }
         ]
     },
@@ -2717,11 +3583,37 @@
             },
             {
                 "name": "Camden",
-                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-camden-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-camden-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Billows Electric Supply Company of Haddon Heights Inc ",
+                        "address": "506 WHITE HORSE PIKEHADDON HEIGHTS, NJ 08035",
+                        "phone": "(856)546-7700",
+                        "fax": "(856)547-2149"
+                    },
+                    {
+                        "serviceCenter": "Billows Electric Supply ",
+                        "address": "1630 Washington AvePhiladelphia, PA 19146",
+                        "phone": "(215)531-5900"
+                    }
+                ]
             },
             {
                 "name": "Cape May",
-                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-cape-may-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-cape-may-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Billows Electric Supply Company of Philadelphia Inc ",
+                        "address": "1810 Baltic AveAtlantic City, NJ 08401",
+                        "phone": "(609)345-6154"
+                    },
+                    {
+                        "serviceCenter": "Warshauer Electric Supply Co ",
+                        "address": "12 TRAVIS WAYLITTLE EGG HARBOR, NJ 08087",
+                        "phone": "(609)294-5050",
+                        "fax": "(609)294-5070"
+                    }
+                ]
             },
             {
                 "name": "Elizabeth",
@@ -2815,11 +3707,37 @@
             },
             {
                 "name": "Mays Landing",
-                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-mays-landing-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-mays-landing-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Billows Electric Supply Company of Philadelphia Inc ",
+                        "address": "1810 Baltic AveAtlantic City, NJ 08401",
+                        "phone": "(609)345-6154"
+                    },
+                    {
+                        "serviceCenter": "Warshauer Electric Supply Co ",
+                        "address": "12 TRAVIS WAYLITTLE EGG HARBOR, NJ 08087",
+                        "phone": "(609)294-5050",
+                        "fax": "(609)294-5070"
+                    }
+                ]
             },
             {
                 "name": "Morristown",
-                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-morristown-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-morristown-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Billows Electric Supply Company of Philadelphia Inc ",
+                        "address": "1810 Baltic AveAtlantic City, NJ 08401",
+                        "phone": "(609)345-6154"
+                    },
+                    {
+                        "serviceCenter": "Warshauer Electric Supply Co ",
+                        "address": "12 TRAVIS WAYLITTLE EGG HARBOR, NJ 08087",
+                        "phone": "(609)294-5050",
+                        "fax": "(609)294-5070"
+                    }
+                ]
             },
             {
                 "name": "Mount Holly",
@@ -2907,7 +3825,20 @@
             },
             {
                 "name": "Salem",
-                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-salem-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-jersey/siemens-salem-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "US Electrical Service Inc ",
+                        "address": "3901 G StPhiladelphia, PA 19124",
+                        "phone": "(215)425-7280",
+                        "fax": "(215)425-5257"
+                    },
+                    {
+                        "serviceCenter": "Billows Electric Supply Company of Philadelphia Inc ",
+                        "address": "1810 Baltic AveAtlantic City, NJ 08401",
+                        "phone": "(609)345-6154"
+                    }
+                ]
             },
             {
                 "name": "Somerville",
@@ -3006,7 +3937,14 @@
             },
             {
                 "name": "Farmington",
-                "link": "https://www.service-center-locator.com/siemens/new-messico/siemens-farmington-new-messico.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-messico/siemens-farmington-new-messico.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Border States Electric Supply ",
+                        "address": "865 S BROWNING PKWYFARMINGTON, NM 87401",
+                        "phone": "(505)324-8800"
+                    }
+                ]
             },
             {
                 "name": "Las Cruces",
@@ -3081,7 +4019,26 @@
         "states": [
             {
                 "name": "Bronx County",
-                "link": "https://www.service-center-locator.com/siemens/new-york/siemens-bronx-county-new-york.htm"
+                "link": "https://www.service-center-locator.com/siemens/new-york/siemens-bronx-county-new-york.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Smith El-Dis-Co Inc ",
+                        "address": "2482 3RD AVEBRONX, NY 10454",
+                        "phone": "(718)292-4670"
+                    },
+                    {
+                        "serviceCenter": "Midway Electric & Data Supply LLC",
+                        "address": "403 Concord AveBronx, NY 10454",
+                        "phone": "(212)926-6500",
+                        "fax": "(212)694-1548"
+                    },
+                    {
+                        "serviceCenter": "Crescent Electric Supply Company ",
+                        "address": "1200 ZEREGA AVEBRONX, NY 10462",
+                        "phone": "(718)527-5600",
+                        "fax": "(718)341-1048"
+                    }
+                ]
             },
             {
                 "name": "Brooklyn",
@@ -3288,11 +4245,31 @@
             },
             {
                 "name": "Greenville",
-                "link": "https://www.service-center-locator.com/siemens/north-carolina/siemens-greenville-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/siemens/north-carolina/siemens-greenville-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Mayer Electric Supply Co Inc ",
+                        "address": "1512 Hooker RdGreenville, NC 27834",
+                        "phone": "(252)756-5506"
+                    }
+                ]
             },
             {
                 "name": "High Point",
-                "link": "https://www.service-center-locator.com/siemens/north-carolina/siemens-high-point-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/siemens/north-carolina/siemens-high-point-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "State Electric Supply Co ",
+                        "address": "2709 Patterson StGreensboro, NC 27407",
+                        "phone": "(336)855-8200"
+                    },
+                    {
+                        "serviceCenter": "State Electric Supply Co ",
+                        "address": "1221 NATIONAL DRWINSTON-SALEM, NC 27103",
+                        "phone": "(336)723-9656",
+                        "fax": "(336)777-0588"
+                    }
+                ]
             },
             {
                 "name": "Raleigh",
@@ -3558,7 +4535,14 @@
             },
             {
                 "name": "Youngstown",
-                "link": "https://www.service-center-locator.com/siemens/ohio/siemens-youngstown-ohio.htm"
+                "link": "https://www.service-center-locator.com/siemens/ohio/siemens-youngstown-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Winkle Electric Inc ",
+                        "address": "1900 HUBBARD RDYOUNGSTOWN, OH 44505",
+                        "phone": "(330)744-5303"
+                    }
+                ]
             }
         ]
     },
@@ -3764,7 +4748,20 @@
             },
             {
                 "name": "Corvallis",
-                "link": "https://www.service-center-locator.com/siemens/oregon/siemens-corvallis-oregon.htm"
+                "link": "https://www.service-center-locator.com/siemens/oregon/siemens-corvallis-oregon.htm",
+                "city": [
+                    {
+                        "serviceCenter": "North Coast Electric Company",
+                        "address": "3130 KATHRYN AVE NEALBANY, OR 97321",
+                        "phone": "(503)924-9120"
+                    },
+                    {
+                        "serviceCenter": "North Coast Electric Company",
+                        "address": "130 GARFIELD STEUGENE, OR 97402",
+                        "phone": "(541)343-7701",
+                        "fax": "(541)343-7708"
+                    }
+                ]
             },
             {
                 "name": "Eugene",
@@ -3828,7 +4825,14 @@
             },
             {
                 "name": "Medford",
-                "link": "https://www.service-center-locator.com/siemens/oregon/siemens-medford-oregon.htm"
+                "link": "https://www.service-center-locator.com/siemens/oregon/siemens-medford-oregon.htm",
+                "city": [
+                    {
+                        "serviceCenter": "North Coast Electric Company",
+                        "address": "801 S Grape StMedford, OR 97501",
+                        "phone": "(541)772-7131"
+                    }
+                ]
             },
             {
                 "name": "Portland",
@@ -3903,7 +4907,44 @@
             },
             {
                 "name": "Philadelphia",
-                "link": "https://www.service-center-locator.com/siemens/pennsylvania/siemens-philadelphia-pennsylvania.htm"
+                "link": "https://www.service-center-locator.com/siemens/pennsylvania/siemens-philadelphia-pennsylvania.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Billows Electric Supply Co Inc",
+                        "address": "9100 State RdPhiladelphia, PA 19136",
+                        "phone": "(215)332-9700",
+                        "fax": "(215)332-9701"
+                    },
+                    {
+                        "serviceCenter": "US Electrical Service Inc ",
+                        "address": "3901 G StPhiladelphia, PA 19124",
+                        "phone": "(215)425-7280",
+                        "fax": "(215)425-5257"
+                    },
+                    {
+                        "serviceCenter": "Royal Electric Supply Company ",
+                        "address": "3233 W HUNTING PARK AVEPHILADELPHIA, PA 19132",
+                        "phone": "(215)221-1200",
+                        "fax": "(215)228-4551"
+                    },
+                    {
+                        "serviceCenter": "Esco Electrical Supply Company Inc",
+                        "address": "820 N 2ND STPHILADELPHIA, PA 19123",
+                        "phone": "(215)923-6050",
+                        "fax": "(215)574-9817"
+                    },
+                    {
+                        "serviceCenter": "Billows Electric Supply ",
+                        "address": "1630 Washington AvePhiladelphia, PA 19146",
+                        "phone": "(215)531-5900"
+                    },
+                    {
+                        "serviceCenter": "Ciro Electrical Supplies Inc ",
+                        "address": "1732 40 JACKSON STPHILADELPHIA, PA 19145",
+                        "phone": "(215)463-8855",
+                        "fax": "(215)467-8182"
+                    }
+                ]
             },
             {
                 "name": "York",
@@ -4121,7 +5162,14 @@
             },
             {
                 "name": "Columbia",
-                "link": "https://www.service-center-locator.com/siemens/south-carolina/siemens-columbia-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/siemens/south-carolina/siemens-columbia-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "HD Supply",
+                        "address": "801 Pulaski StColumbia, SC 29201",
+                        "phone": "(803)779-3624"
+                    }
+                ]
             },
             {
                 "name": "Greenville",
@@ -4476,7 +5524,26 @@
             },
             {
                 "name": "Austin",
-                "link": "https://www.service-center-locator.com/siemens/texas/siemens-austin-texas.htm"
+                "link": "https://www.service-center-locator.com/siemens/texas/siemens-austin-texas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "AWC Inc",
+                        "address": "9208 WATERFORD CENTRE BLVDAUSTIN, TX 78758",
+                        "phone": "(512)832-5100"
+                    },
+                    {
+                        "serviceCenter": "Dealers Electrical Supply Co ",
+                        "address": "4700 SUNSET TRAILAUSTIN, TX 78745",
+                        "phone": "(512)892-5910",
+                        "fax": "(512)892-1481"
+                    },
+                    {
+                        "serviceCenter": "Reynolds Company Inc ",
+                        "address": "9701 METRIC BLVDAUSTIN, TX 78758",
+                        "phone": "(512)927-7100",
+                        "fax": "(512)927-7104"
+                    }
+                ]
             },
             {
                 "name": "Corpus Christi",
@@ -4546,7 +5613,26 @@
             },
             {
                 "name": "Fort Worth",
-                "link": "https://www.service-center-locator.com/siemens/texas/siemens-fort-worth-texas.htm"
+                "link": "https://www.service-center-locator.com/siemens/texas/siemens-fort-worth-texas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "AWC Inc ",
+                        "address": "301 BEACH STFORT WORTH, TX 76111",
+                        "phone": "(214)535-2955"
+                    },
+                    {
+                        "serviceCenter": "Franklin Electric Supply",
+                        "address": "605 E BERRY STFORT WORTH, TX 76110",
+                        "phone": "(817)926-8828",
+                        "fax": "(817)429-5602"
+                    },
+                    {
+                        "serviceCenter": "The Reynolds Company ",
+                        "address": "2680 Sylvania Cross DrFort Worth, TX 76137",
+                        "phone": "(817)626-3636",
+                        "fax": "(817)625-8495"
+                    }
+                ]
             },
             {
                 "name": "Garland",
@@ -5473,11 +6559,37 @@
             },
             {
                 "name": "Cheyenne",
-                "link": "https://www.service-center-locator.com/siemens/wyoming/siemens-cheyenne-wyoming.htm"
+                "link": "https://www.service-center-locator.com/siemens/wyoming/siemens-cheyenne-wyoming.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Crum Electric Supply Co Inc",
+                        "address": "1010 DUNN AVECHEYENNE, WY 82001",
+                        "phone": "(307)778-8442",
+                        "fax": "(307)638-3854"
+                    },
+                    {
+                        "serviceCenter": "Cheyenne Winlectric Co Inc ",
+                        "address": "1509 Bent AveCheyenne, WY 82001",
+                        "phone": "(307)635-4966"
+                    }
+                ]
             },
             {
                 "name": "Laramie",
-                "link": "https://www.service-center-locator.com/siemens/wyoming/siemens-laramie-wyoming.htm"
+                "link": "https://www.service-center-locator.com/siemens/wyoming/siemens-laramie-wyoming.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cheyenne Winlectric Co Inc ",
+                        "address": "1509 Bent AveCheyenne, WY 82001",
+                        "phone": "(307)635-4966"
+                    },
+                    {
+                        "serviceCenter": "Crum Electric Supply Co Inc",
+                        "address": "1010 DUNN AVECHEYENNE, WY 82001",
+                        "phone": "(307)778-8442",
+                        "fax": "(307)638-3854"
+                    }
+                ]
             },
             {
                 "name": "Rock Springs",

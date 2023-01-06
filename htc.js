@@ -31,7 +31,7 @@ async function scrap() {
                 const brand = JSON.stringify(htc)
                 fs.writeFileSync("./htc.json", brand)
 
-            }, 7000)
+            }, 20000)
 
         } catch (error) {
 
@@ -58,7 +58,7 @@ async function detailsPage(cityUrl, brand) {
                     arr[i]["serviceCenter"] = $(serviceCenter).children("h2").text()
                     $(serviceCenter).children("div").each((j, address) => {
                         if (/[A-Za-z]/.test($(address).text()))
-                            arr[i]["address"] = $(address).text().replace("\n",",").replaceAll("\t","").replaceAll("    ","").replaceAll(" ","")
+                            arr[i]["address"] = $(address).text().replace("\n", ",").replaceAll("\t", "").replaceAll("    ", "").replaceAll(" ", "")
                         else
                             arr[i]["phone"] = $(address).text()
                     })
@@ -69,23 +69,21 @@ async function detailsPage(cityUrl, brand) {
                     arr[i]["serviceCenter"] = $(serviceCenter).children("h2").text()
                     $(serviceCenter).children("div").each((j, address) => {
                         if ($(address).text().includes(","))
-                            arr[i]["address"] = $(address).text().replace("\n",",").replaceAll("\t","").replaceAll("    ","").replaceAll(" ","")
+                            arr[i]["address"] = $(address).text().replace("\n", ",").replaceAll("\t", "").replaceAll("    ", "").replaceAll(" ", "")
                         arr[i]["phone"] = $(address).text()
                     })
                 })
 
             }
-            let count = 0
-            $(postDiv).children("h2").each((l, headerAddr) => {
-                if (!$(headerAddr).text().startsWith('Htc Service Centers')) {
-                    arr[count]["serviceCenter"] = $(headerAddr).text()
-                    arr[count]["address"]= $(headerAddr).next().text().replaceAll("\n",",").replaceAll("\t","").replaceAll("    ","").replaceAll("\n","")
-                    arr[count]["phone"]=$(headerAddr).next().next().text()
-                    count++
-                }
-            })
-
-
+                let count = 0
+                $(postDiv).children("h2").each((l, headerAddr) => {
+                    if (!$(headerAddr).text().startsWith('Htc Service Centers')) {
+                        arr[count]["serviceCenter"] = $(headerAddr).text()
+                        arr[count]["address"] = $(headerAddr).next().text().replaceAll("\n", ",").replaceAll("\t", "").replaceAll("    ", "").replaceAll("\n", "")
+                        arr[count]["phone"] = $(headerAddr).next().next().text()
+                        count++
+                    }
+                })
 
             resolve(arr)
         } catch (error) {

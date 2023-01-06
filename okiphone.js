@@ -31,7 +31,7 @@ async function scrap() {
                 const brand = JSON.stringify(oki)
                 fs.writeFileSync("./oki.json", brand)
 
-            }, 7000)
+            }, 20000)
 
         } catch (error) {
 
@@ -52,16 +52,16 @@ async function detailsPage(cityUrl, brand) {
 
             const tableDiv = $(postDiv).find("table > tbody > tr")
             if ($(tableDiv).text()) {
-                // $(tableDiv).each((i, serviceCenter) => {
-                //     arr[i] = {}
-                //     arr[i]["serviceCenter"] = $(serviceCenter).children("td").children("h2").text()
-                //     $(serviceCenter).children("td").children("div").each((j, address) => {
-                //         if ($(address).text().includes("\n"))
-                //             arr[i]["address"] = $(address).text().replaceAll("\n", "").replaceAll("\t", "").trim()
-                //         else if ($(address).text().length)
-                //             arr[i]["phone"] = $(address).text()
-                //     })
-                // })
+                $(tableDiv).each((i, serviceCenter) => {
+                    arr[i] = {}
+                    arr[i]["serviceCenter"] = $(serviceCenter).children("td").children("h2").text()
+                    $(serviceCenter).children("td").children("div").each((j, address) => {
+                        if ($(address).text().includes("\n"))
+                            arr[i]["address"] = $(address).text().replaceAll("\n", "").replaceAll("\t", "").trim()
+                        else if ($(address).text().length)
+                            arr[i]["phone"] = $(address).text()
+                    })
+                })
             } else {
                 $(postDiv).children("h2").each((i, serviceCenter) => {
                     if(!$(serviceCenter).text().includes("Oki Phone Service Centers in Vancouver")){

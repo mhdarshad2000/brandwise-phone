@@ -36,7 +36,7 @@ async function scrap() {
             setTimeout(() => {
                 const brand = JSON.stringify(lg)
                 fs.writeFileSync("./lg.json", brand)
-            }, 12000)
+            }, 20000)
 
         } catch (error) {
 

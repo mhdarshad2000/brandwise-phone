@@ -495,7 +495,29 @@
             },
             {
                 "name": "Jonesboro",
-                "link": "https://www.service-center-locator.com/iphone/arkansas/iphone-jonesboro-arkansas.htm"
+                "link": "https://www.service-center-locator.com/iphone/arkansas/iphone-jonesboro-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computerlab Of Memphis Inc",
+                        "address": "685 N Mendenhall RdMemphis, TN 38122"
+                    },
+                    {
+                        "serviceCenter": "Macadvantage",
+                        "address": "4860 Poplar AveMemphis, TN 38117"
+                    },
+                    {
+                        "serviceCenter": "Quality Office Inc",
+                        "address": "304 S Main StSearcy, AR 72143"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Saddle Creek",
+                        "address": "7615 W Farmington BlvdGermantown, TN 38138"
+                    },
+                    {
+                        "serviceCenter": "Tate Computer Systems",
+                        "address": "3800 Hacks Cross Rd Ste 103Memphis, TN 38125"
+                    }
+                ]
             },
             {
                 "name": "Little Rock",
@@ -525,15 +547,81 @@
             },
             {
                 "name": "North Little Rock",
-                "link": "https://www.service-center-locator.com/iphone/arkansas/iphone-north-little-rock-arkansas.htm"
+                "link": "https://www.service-center-locator.com/iphone/arkansas/iphone-north-little-rock-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Complete Computing Inc",
+                        "address": "400 W 7th StLittle Rock, AR 72201"
+                    },
+                    {
+                        "serviceCenter": "The Field Shop Inc",
+                        "address": "5507 Geyer Springs RdLittle Rock, AR 72209"
+                    },
+                    {
+                        "serviceCenter": "Apple Store The Promenade at Chenal",
+                        "address": "17711 Chenal ParkwayLittle Rock, AR 72223"
+                    },
+                    {
+                        "serviceCenter": "Quality Office Inc",
+                        "address": "304 S Main StSearcy, AR 72143"
+                    },
+                    {
+                        "serviceCenter": "Advanced Solutions Inc",
+                        "address": "220 E 4th StRussellville, AR 72801"
+                    }
+                ]
             },
             {
                 "name": "Pine Bluff",
-                "link": "https://www.service-center-locator.com/iphone/arkansas/iphone-pine-bluff-arkansas.htm"
+                "link": "https://www.service-center-locator.com/iphone/arkansas/iphone-pine-bluff-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Field Shop Inc",
+                        "address": "5507 Geyer Springs RdLittle Rock, AR 72209"
+                    },
+                    {
+                        "serviceCenter": "Complete Computing Inc",
+                        "address": "400 W 7th StLittle Rock, AR 72201"
+                    },
+                    {
+                        "serviceCenter": "Apple Store The Promenade at Chenal",
+                        "address": "17711 Chenal ParkwayLittle Rock, AR 72223"
+                    },
+                    {
+                        "serviceCenter": "Quality Office Inc",
+                        "address": "304 S Main StSearcy, AR 72143"
+                    },
+                    {
+                        "serviceCenter": "Advanced Solutions Inc",
+                        "address": "220 E 4th StRussellville, AR 72801"
+                    }
+                ]
             },
             {
                 "name": "Rogers",
-                "link": "https://www.service-center-locator.com/iphone/arkansas/iphone-rogers-arkansas.htm"
+                "link": "https://www.service-center-locator.com/iphone/arkansas/iphone-rogers-arkansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Megabyte Computer Center",
+                        "address": "Premium Service Provider1061 E Joyce Blvd Ste 5Fayetteville, AR 72703"
+                    },
+                    {
+                        "serviceCenter": "Database Systems",
+                        "address": "1550 E Battlefield St Ste CSpringfield, MO 65804"
+                    },
+                    {
+                        "serviceCenter": "Advanced Solutions Inc",
+                        "address": "220 E 4th StRussellville, AR 72801"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Woodland Hills",
+                        "address": "7021 S. Memorial DriveTulsa, OK 74133"
+                    },
+                    {
+                        "serviceCenter": "Mobile Macsters LLC",
+                        "address": "6670 S Lewis Ave Ste 202Tulsa, OK 74136"
+                    }
+                ]
             },
             {
                 "name": "Springdale",
@@ -572,7 +660,33 @@
         "states": [
             {
                 "name": "Anaheim",
-                "link": "https://www.service-center-locator.com/iphone/california/iphone-anaheim-california.htm"
+                "link": "https://www.service-center-locator.com/iphone/california/iphone-anaheim-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Illume Solutions",
+                        "address": "270 E La Habra Blvd               La Habra, CA 90631"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Brea Mall",
+                        "address": "1024 Brea Mall               Brea, CA 92821"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Los Cerritos",
+                        "address": "239 Los Cerritos Center               Cerritos, CA 90703"
+                    },
+                    {
+                        "serviceCenter": "Macmall Retail Stores",
+                        "address": "16929 Beach Blvd               Huntington Beach, CA 92647"
+                    },
+                    {
+                        "serviceCenter": "Invision Computing Inc",
+                        "address": "13931 Carroll Way Ste B               Tustin, CA 92780"
+                    },
+                    {
+                        "serviceCenter": "Datalogic Computer Service",
+                        "address": "3303 Harbor Blvd Ste G12               Costa Mesa, CA 92626"
+                    }
+                ]
             },
             {
                 "name": "Bakersfield",
@@ -602,7 +716,37 @@
             },
             {
                 "name": "Berkeley",
-                "link": "https://www.service-center-locator.com/iphone/california/iphone-berkeley-california.htm"
+                "link": "https://www.service-center-locator.com/iphone/california/iphone-berkeley-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computerland Of Berkeley",
+                        "address": "80 Shattuck Sq               Berkeley, CA 94704"
+                    },
+                    {
+                        "serviceCenter": "Apple Store 4th Street",
+                        "address": "1823 4th Street               Berkeley, CA 94710"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Bay Street",
+                        "address": "5656 Bay Street               Emeryville, CA 94608"
+                    },
+                    {
+                        "serviceCenter": "Create More Inc",
+                        "address": "Premium Service Provider               689 3rd St               San Francisco, CA 94107"
+                    },
+                    {
+                        "serviceCenter": "Apple Store San Francisco",
+                        "address": "One Stockton Street               San Francisco, CA 94108"
+                    },
+                    {
+                        "serviceCenter": "Keane",
+                        "address": "Premium Service Provider               870 Market St Ste 1090               San Francisco, CA 94102"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Chestnut Street",
+                        "address": "2125 Chestnut Street               San Francisco, CA 94123"
+                    }
+                ]
             },
             {
                 "name": "Fresno",
@@ -734,7 +878,33 @@
             },
             {
                 "name": "Riverside",
-                "link": "https://www.service-center-locator.com/iphone/california/iphone-riverside-california.htm"
+                "link": "https://www.service-center-locator.com/iphone/california/iphone-riverside-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Css Computer Service And Sales",
+                        "address": "2220 Eastridge Ave               Riverside, CA 92507"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Victoria Gardens",
+                        "address": "12461 South Main Street               Rancho Cucamonga, CA 91739"
+                    },
+                    {
+                        "serviceCenter": "Cornice",
+                        "address": "Premium Service Provider               615 N Benson Ave Ste B               Upland, CA 91786"
+                    },
+                    {
+                        "serviceCenter": "Intelli Tech",
+                        "address": "1652 Yeager Ave               La Verne, CA 91750"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Brea Mall",
+                        "address": "1024 Brea Mall               Brea, CA 92821"
+                    },
+                    {
+                        "serviceCenter": "Invision Computing Inc",
+                        "address": "13931 Carroll Way Ste B               Tustin, CA 92780"
+                    }
+                ]
             },
             {
                 "name": "Sacramento",
@@ -798,7 +968,25 @@
             },
             {
                 "name": "San Diego",
-                "link": "https://www.service-center-locator.com/iphone/california/iphone-san-diego-california.htm"
+                "link": "https://www.service-center-locator.com/iphone/california/iphone-san-diego-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Technology Integration Group",
+                        "address": "9155 Trade Pl             San Diego, CA 92126                          (858) 566-1900"
+                    },
+                    {
+                        "serviceCenter": "Apple Store UTC",
+                        "address": "4505 La Jolla Village Dr.             San Diego, CA 92122                          (858) 824-1030"
+                    },
+                    {
+                        "serviceCenter": "Crywolf",
+                        "address": "7634 Clairemont Mesa Blvd             San Diego, CA 92111                          (760) 633-3413"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Fashion Valley",
+                        "address": "7007 Friars Road             San Diego, CA 92108                          (619) 321-3920"
+                    }
+                ]
             },
             {
                 "name": "San Francisco",
@@ -836,7 +1024,25 @@
             },
             {
                 "name": "San Jose",
-                "link": "https://www.service-center-locator.com/iphone/california/iphone-san-jose-california.htm"
+                "link": "https://www.service-center-locator.com/iphone/california/iphone-san-jose-california.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Serviceware Inc",
+                        "address": "2455 Autumnvale Dr               San Jose, CA 95131             (408) 934-6393"
+                    },
+                    {
+                        "serviceCenter": "Compu Pro Services",
+                        "address": "765 E Brokaw Rd               San Jose, CA 95112             (408) 453-4513"
+                    },
+                    {
+                        "serviceCenter": "Frys Electronics",
+                        "address": "550 E Brokaw Rd               San Jose, CA 95112             (408) 487-1000"
+                    },
+                    {
+                        "serviceCenter": "Cal Micro Inc",
+                        "address": "712 Charcot Ave               San Jose, CA 95131             (408) 321-9777"
+                    }
+                ]
             }
         ]
     },
@@ -875,7 +1081,33 @@
             },
             {
                 "name": "Aurora",
-                "link": "https://www.service-center-locator.com/iphone/colorado/iphone-aurora-colorado.htm"
+                "link": "https://www.service-center-locator.com/iphone/colorado/iphone-aurora-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Mpc Express Service Inc",
+                        "address": "3005 S Peoria             Aurora, CO 80014                          (303) 369-3552"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Cherry Creek",
+                        "address": "3000 E 1st Ave.               Denver, CO 80206"
+                    },
+                    {
+                        "serviceCenter": "Mac Outlet",
+                        "address": "111 W Floyd Ave               Englewood, CO 80110"
+                    },
+                    {
+                        "serviceCenter": "Macmall",
+                        "address": "7355 E Orchard Rd #300               Englewood, CO 80111"
+                    },
+                    {
+                        "serviceCenter": "Cobalt Pc",
+                        "address": "7747 W 44th Ave               Wheat Ridge, CO 80033"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Park Meadows",
+                        "address": "8401 Park Meadows Center Dr.               Lone Tree, CO 80124"
+                    }
+                ]
             },
             {
                 "name": "Colorado Springs",
@@ -897,7 +1129,33 @@
             },
             {
                 "name": "Denver",
-                "link": "https://www.service-center-locator.com/iphone/colorado/iphone-denver-colorado.htm"
+                "link": "https://www.service-center-locator.com/iphone/colorado/iphone-denver-colorado.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Cherry Creek",
+                        "address": "3000 E 1st Ave.             Denver, CO 80206                          (303) 320-9191"
+                    },
+                    {
+                        "serviceCenter": "Netbuilders",
+                        "address": "3225 S Wadsworth Blvd Unt D               Lakewood, CO 80227"
+                    },
+                    {
+                        "serviceCenter": "Mac Outlet",
+                        "address": "111 W Floyd Ave               Englewood, CO 80110"
+                    },
+                    {
+                        "serviceCenter": "Cobalt Pc",
+                        "address": "7747 W 44th Ave               Wheat Ridge, CO 80033"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Aspen Grove",
+                        "address": "7301 S Santa Fe Drive               Littleton, CO 80120"
+                    },
+                    {
+                        "serviceCenter": "Macmall",
+                        "address": "7355 E Orchard Rd #300               Englewood, CO 80111"
+                    }
+                ]
             },
             {
                 "name": "Fort Collins",
@@ -1150,11 +1408,63 @@
             },
             {
                 "name": "New London",
-                "link": "https://www.service-center-locator.com/iphone/connecticut/iphone-new-london-connecticut.htm"
+                "link": "https://www.service-center-locator.com/iphone/connecticut/iphone-new-london-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Computer Lab Inc",
+                        "address": "345 Broad St               New London, CT 06320\t\t\t   (860) 447-1079"
+                    },
+                    {
+                        "serviceCenter": "Enterprise Computer",
+                        "address": "83 W Main St               Clinton, CT 06413"
+                    },
+                    {
+                        "serviceCenter": "Geekhampton",
+                        "address": "34 Bay St Ste 102               Sag Harbor, NY 11963"
+                    },
+                    {
+                        "serviceCenter": "Advanced Office Systems",
+                        "address": "211 Shunpike Rd               Cromwell, CT 06416"
+                    },
+                    {
+                        "serviceCenter": "Advanced Office Systems",
+                        "address": "296 E Main St               Branford, CT 06405"
+                    },
+                    {
+                        "serviceCenter": "Computer Resources Inc",
+                        "address": "365 Silas Deane Hwy               Wethersfield, CT 06109"
+                    }
+                ]
             },
             {
                 "name": "Norwalk",
-                "link": "https://www.service-center-locator.com/iphone/connecticut/iphone-norwalk-connecticut.htm"
+                "link": "https://www.service-center-locator.com/iphone/connecticut/iphone-norwalk-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Tbi Computer Services Inc",
+                        "address": "52 Post Rd W               Westport, CT 06880"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Stamford",
+                        "address": "Stamford Town Center               Stamford, CT 06901"
+                    },
+                    {
+                        "serviceCenter": "Cos Cob Tv And Audio",
+                        "address": "5 Strickland Rd               Cos Cob, CT 06807"
+                    },
+                    {
+                        "serviceCenter": "Computer Supercenter",
+                        "address": "103 Mason St               Greenwich, CT 06830"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Greenwich Avenue",
+                        "address": "356 Greenwich Ave.               Greenwich, CT 06830"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Danbury Fair Mall",
+                        "address": "Seven Backus Avenue               Danbury, CT 06810"
+                    }
+                ]
             },
             {
                 "name": "Norwich",
@@ -1188,7 +1498,33 @@
             },
             {
                 "name": "Stamford",
-                "link": "https://www.service-center-locator.com/iphone/connecticut/iphone-stamford-connecticut.htm"
+                "link": "https://www.service-center-locator.com/iphone/connecticut/iphone-stamford-connecticut.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Stamford",
+                        "address": "Stamford Town Center               Stamford, CT 06901\t\t\t   (203) 658-1801"
+                    },
+                    {
+                        "serviceCenter": "Cos Cob Tv And Audio",
+                        "address": "5 Strickland Rd               Cos Cob, CT 06807"
+                    },
+                    {
+                        "serviceCenter": "Computer Supercenter",
+                        "address": "103 Mason St               Greenwich, CT 06830"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Greenwich Avenue",
+                        "address": "356 Greenwich Ave.               Greenwich, CT 06830"
+                    },
+                    {
+                        "serviceCenter": "Tbi Computer Services Inc",
+                        "address": "52 Post Rd W               Westport, CT 06880"
+                    },
+                    {
+                        "serviceCenter": "Apple Store The Westchester",
+                        "address": "125 Westchester Ave.               White Plains, NY 10601"
+                    }
+                ]
             },
             {
                 "name": "Waterbury",
@@ -1374,7 +1710,33 @@
             },
             {
                 "name": "Jacksonville",
-                "link": "https://www.service-center-locator.com/iphone/florida/iphone-jacksonville-florida.htm"
+                "link": "https://www.service-center-locator.com/iphone/florida/iphone-jacksonville-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Emtec Inc",
+                        "address": "9450 Phillips Hwy               Jacksonville, FL 32256             (904) 739-7676"
+                    },
+                    {
+                        "serviceCenter": "Apple Store St. Johns Town Center",
+                        "address": "4712 River City Drive, Suite 117               Jacksonville, FL 32246             (904) 997-8570"
+                    },
+                    {
+                        "serviceCenter": "Network Monkeys",
+                        "address": "1304 Gloucester St               Brunswick, GA 31520"
+                    },
+                    {
+                        "serviceCenter": "Everything Mac LLC",
+                        "address": "11 Nw 33rd Ct Ste 106               Gainesville, FL 32607"
+                    },
+                    {
+                        "serviceCenter": "Everything Mac LLC",
+                        "address": "11 Nw 33 Ct               Gainesville, FL 32607"
+                    },
+                    {
+                        "serviceCenter": "Teletek Software Inc",
+                        "address": "3405 Nw 97th Blvd Ste A200               Gainesville, FL 32606"
+                    }
+                ]
             },
             {
                 "name": "Miami",
@@ -1404,11 +1766,51 @@
             },
             {
                 "name": "Orlando",
-                "link": "https://www.service-center-locator.com/iphone/florida/iphone-orlando-florida.htm"
+                "link": "https://www.service-center-locator.com/iphone/florida/iphone-orlando-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Connecting Point Computer Center",
+                        "address": "2100 N Orange Ave Ste I5               Orlando, FL 32804             (407) 599-5150"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Florida Mall",
+                        "address": "8001 South Orange Blossom Trail               Orlando, FL 32809             (407) 858-1310"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Millenia",
+                        "address": "4200 Conroy Rd.               Orlando, FL 32839             (407) 241-5400"
+                    }
+                ]
             },
             {
                 "name": "St. Petersburg",
-                "link": "https://www.service-center-locator.com/iphone/florida/iphone-st.-petersburg-florida.htm"
+                "link": "https://www.service-center-locator.com/iphone/florida/iphone-st.-petersburg-florida.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Icon Computers",
+                        "address": "12167 49th St N Ste 200               Clearwater, FL 33762"
+                    },
+                    {
+                        "serviceCenter": "Performance Computer Group",
+                        "address": "1155 S Dale Mabry Hwy Ste 2               Tampa, FL 33629"
+                    },
+                    {
+                        "serviceCenter": "Apple Store International Plaza",
+                        "address": "2223 N West Shore Blvd.               Tampa, FL 33607"
+                    },
+                    {
+                        "serviceCenter": "Rays Connecting Point",
+                        "address": "2340 State Road 580 Ste M               Clearwater, FL 33763"
+                    },
+                    {
+                        "serviceCenter": "Geekmatics",
+                        "address": "30329 Us Hwy 19 N               Clearwater, FL 33761"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Brandon",
+                        "address": "459 Brandon Town Center Drive                Brandon, FL 33511"
+                    }
+                ]
             },
             {
                 "name": "Tallahassee",
@@ -1477,7 +1879,33 @@
         "states": [
             {
                 "name": "Athens",
-                "link": "https://www.service-center-locator.com/iphone/georgia/iphone-athens-georgia.htm"
+                "link": "https://www.service-center-locator.com/iphone/georgia/iphone-athens-georgia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Peachmac",
+                        "address": "1850 Epps Bridge Pkwy               Athens, GA 30606\t\t\t   (706) 208-9990"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Mall of Georgia",
+                        "address": "3333 Buford Drive, Suite# 2055A               Buford, GA 30519"
+                    },
+                    {
+                        "serviceCenter": "Fry's Electronics",
+                        "address": "3296 Commerce Ave               Duluth, GA 30096"
+                    },
+                    {
+                        "serviceCenter": "Macrobatix",
+                        "address": "9700 Medlock Bridge Rd Ste 114               Johns Creek, GA 30097"
+                    },
+                    {
+                        "serviceCenter": "Stratix Corporation",
+                        "address": "4920 Avalon Ridge Pkwy               Norcross, GA 30071"
+                    },
+                    {
+                        "serviceCenter": "Peachmac",
+                        "address": "410 Peachtree Pkwy Ste 4142               Cumming, GA 30041"
+                    }
+                ]
             },
             {
                 "name": "Augusta",
@@ -1511,7 +1939,8 @@
             },
             {
                 "name": "Columbus",
-                "link": "https://www.service-center-locator.com/iphone/georgia/iphone-columbus-georgia.htm"
+                "link": "https://www.service-center-locator.com/iphone/georgia/iphone-columbus-georgia.htm",
+                "city": []
             },
             {
                 "name": "Macon",
@@ -1818,7 +2247,33 @@
             },
             {
                 "name": "Naperville",
-                "link": "https://www.service-center-locator.com/iphone/illinois/iphone-naperville-illinois.htm"
+                "link": "https://www.service-center-locator.com/iphone/illinois/iphone-naperville-illinois.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Main Place",
+                        "address": "120 West Jefferson Avenue               Naperville, IL 60540             (630) 536-5400"
+                    },
+                    {
+                        "serviceCenter": "Macspecialist",
+                        "address": "Premium Service Provider               226 W Roosevelt Rd               Villa Park, IL 60181"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Oakbrook",
+                        "address": "402 Oakbrook Center               Oak Brook, IL 60523"
+                    },
+                    {
+                        "serviceCenter": "United Electronics Group",
+                        "address": "1062 Tower Ln               Bensenville, IL 60106"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Orland Square Mall",
+                        "address": "428 Orland Square, Suite D06A               Orland Park, IL 60462"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Woodfield",
+                        "address": "K303 Woodfield Mall               Schaumburg, IL 60173"
+                    }
+                ]
             },
             {
                 "name": "Rockford",
@@ -1965,11 +2420,67 @@
             },
             {
                 "name": "Indianapolis",
-                "link": "https://www.service-center-locator.com/iphone/indiana/iphone-indianapolis-indiana.htm"
+                "link": "https://www.service-center-locator.com/iphone/indiana/iphone-indianapolis-indiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Help My Mac Inc",
+                        "address": "5630 E Washington St               Indianapolis, IN 46219             (317) 357-6227"
+                    },
+                    {
+                        "serviceCenter": "Macexperience",
+                        "address": "1702 W Michigan St               Indianapolis, IN 46222             (317) 429-0089"
+                    },
+                    {
+                        "serviceCenter": "Macexperience",
+                        "address": "45 S Franklin Rd               Indianapolis, IN 46219             (317) 217-1610"
+                    },
+                    {
+                        "serviceCenter": "Desktop Resources Inc",
+                        "address": "8004 Castleway Dr               Indianapolis, IN 46250             (317) 596-3650"
+                    },
+                    {
+                        "serviceCenter": "The Mac Experience Inc",
+                        "address": "6609 E 82nd St Ste B               Indianapolis, IN 46250             (317) 217-1610"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Keystone",
+                        "address": "8702 Keystone Crossing, Suite #128               Indianapolis, IN 46240             (317) 574-8601"
+                    },
+                    {
+                        "serviceCenter": "Bell Industries Inc",
+                        "address": "8888 Keystone Xing Ste 1700               Indianapolis, IN 46240             (317) 704-6000"
+                    }
+                ]
             },
             {
                 "name": "South Bend",
-                "link": "https://www.service-center-locator.com/iphone/indiana/iphone-south-bend-indiana.htm"
+                "link": "https://www.service-center-locator.com/iphone/indiana/iphone-south-bend-indiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Pixelcreek Technologies",
+                        "address": "2750 Foundation Dr               South Bend, IN 46628             (574) 968-1442"
+                    },
+                    {
+                        "serviceCenter": "Apple Store University Park Mall",
+                        "address": "6501 North Grape Road               Mishawaka, IN 46545"
+                    },
+                    {
+                        "serviceCenter": "Amt Computers",
+                        "address": "540 Indian Boundary Rd               Chesterton, IN 46304"
+                    },
+                    {
+                        "serviceCenter": "Continental Computer Services Inc",
+                        "address": "7337 W Jefferson Blvd Ste 200               Fort Wayne, IN 46804"
+                    },
+                    {
+                        "serviceCenter": "Signature Mac Inc",
+                        "address": "Premium Service Provider               4734 Parnell Ave               Fort Wayne, IN 46825"
+                    },
+                    {
+                        "serviceCenter": "Macanix LLC",
+                        "address": "9230 Conservation Way               Fort Wayne, IN 46809"
+                    }
+                ]
             }
         ]
     },
@@ -2076,7 +2587,33 @@
             },
             {
                 "name": "Iowa City",
-                "link": "https://www.service-center-locator.com/iphone/iowa/iphone-iowa-city-iowa.htm"
+                "link": "https://www.service-center-locator.com/iphone/iowa/iphone-iowa-city-iowa.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Technology Associates Inc",
+                        "address": "318 1/2 E Burlington St               Iowa City, IA 52240             (319) 338-3735"
+                    },
+                    {
+                        "serviceCenter": "Technology Associates Inc",
+                        "address": "222 3rd Ave Se Ste 265               Cedar Rapids, IA 52401"
+                    },
+                    {
+                        "serviceCenter": "Technology Associates Inc",
+                        "address": "516 W 35th St Ste 102               Davenport, IA 52806"
+                    },
+                    {
+                        "serviceCenter": "Computer Evolution",
+                        "address": "2824 E 53rd St               Davenport, IA 52807"
+                    },
+                    {
+                        "serviceCenter": "Mainstream Usa Inc",
+                        "address": "101 19th Ave               Moline, IL 61265"
+                    },
+                    {
+                        "serviceCenter": "Ajd Computer Specialist Inc",
+                        "address": "2208 37th St               Moline, IL 61265"
+                    }
+                ]
             },
             {
                 "name": "Sioux City",
@@ -2287,7 +2824,25 @@
             },
             {
                 "name": "Wichita",
-                "link": "https://www.service-center-locator.com/iphone/kansas/iphone-wichita-kansas.htm"
+                "link": "https://www.service-center-locator.com/iphone/kansas/iphone-wichita-kansas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Ribbit Computers LLC",
+                        "address": "240 S West St Ste 55               Wichita, KS 67213             (316) 612-1500"
+                    },
+                    {
+                        "serviceCenter": "Ribbit Computers LLC",
+                        "address": "438 S Rock Rd               Wichita, KS 67207             (316) 612-1500"
+                    },
+                    {
+                        "serviceCenter": "Ribbit Computers LLC",
+                        "address": "3433 N Rock Rd Ste 105               Wichita, KS 67226             (316) 630-0050"
+                    },
+                    {
+                        "serviceCenter": "Haddock Computer Center",
+                        "address": "10096 East 13th St N               Wichita, KS 67206             (316) 425-6340"
+                    }
+                ]
             }
         ]
     },
@@ -2356,7 +2911,33 @@
             },
             {
                 "name": "Lexington",
-                "link": "https://www.service-center-locator.com/iphone/kentucky/iphone-lexington-kentucky.htm"
+                "link": "https://www.service-center-locator.com/iphone/kentucky/iphone-lexington-kentucky.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Fayette Mall",
+                        "address": "3401 Nicholasville Rd, Ste 303                Lexington, KY 40503             (859) 272-3493"
+                    },
+                    {
+                        "serviceCenter": "Elan Technologies",
+                        "address": "2210 Nicholasville Rd               Lexington, KY 40503             (859) 559-4545"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Oxmoor",
+                        "address": "7900 Shelbyville Rd               Louisville, KY 40222"
+                    },
+                    {
+                        "serviceCenter": "Macauthority",
+                        "address": "Premium Service Provider               128 Breckenridge Ln               Louisville, KY 40207"
+                    },
+                    {
+                        "serviceCenter": "Elan Technologies",
+                        "address": "5143 Kennedy Ave               Cincinnati, OH 45213"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Kenwood Towne Centre",
+                        "address": "7875 Montgomery Rd.               Cincinnati, OH 45236"
+                    }
+                ]
             },
             {
                 "name": "Louisville",
@@ -2443,27 +3024,167 @@
         "states": [
             {
                 "name": "Baton Rouge",
-                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-baton-rouge-louisiana.htm"
+                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-baton-rouge-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Coy Computer Services",
+                        "address": "11832 Newcastle Dr               Baton Rouge, LA 70816             (225) 291-7299"
+                    },
+                    {
+                        "serviceCenter": "Mac Consulting Group Inc",
+                        "address": "8568 Goodwood Blvd Ste B               Baton Rouge, LA 70806             (225) 933-5311"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Mall of Louisiana",
+                        "address": "6401 Bluebonnet Blvd.               Baton Rouge, LA 70836             (225) 765-3500"
+                    }
+                ]
             },
             {
                 "name": "Lafayette",
-                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-lafayette-louisiana.htm"
+                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-lafayette-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Orchard",
+                        "address": "4415 Ambassador Caffery Pkwy               Lafayette, LA 70508"
+                    },
+                    {
+                        "serviceCenter": "Iss",
+                        "address": "133 E Main St               Ville Platte, LA 70586"
+                    },
+                    {
+                        "serviceCenter": "Mac Consulting Group Inc",
+                        "address": "662 Jefferson Hwy               Baton Rouge, LA 70806"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Mall of Louisiana",
+                        "address": "6401 Bluebonnet Blvd.               Baton Rouge, LA 70836"
+                    },
+                    {
+                        "serviceCenter": "Computer Technologies Group",
+                        "address": "7987 Pecue Ln Ste C               Baton Rouge, LA 70809"
+                    },
+                    {
+                        "serviceCenter": "National Networks",
+                        "address": "2950 Country Club Rd               Lake Charles, LA 70605"
+                    }
+                ]
             },
             {
                 "name": "Lake Charles",
-                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-lake-charles-louisiana.htm"
+                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-lake-charles-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "National Networks",
+                        "address": "2950 Country Club Rd               Lake Charles, LA 70605             (337) 474-4249"
+                    },
+                    {
+                        "serviceCenter": "Computer Dimensions",
+                        "address": "Premium Service Provider               3050 Dowlen Rd Ste M               Beaumont, TX 77706"
+                    },
+                    {
+                        "serviceCenter": "Iss",
+                        "address": "133 E Main St               Ville Platte, LA 70586"
+                    },
+                    {
+                        "serviceCenter": "The Orchard",
+                        "address": "4415 Ambassador Caffery Pkwy               Lafayette, LA 70508"
+                    },
+                    {
+                        "serviceCenter": "Mac Consulting Group Inc",
+                        "address": "662 Jefferson Hwy               Baton Rouge, LA 70806"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Mall of Louisiana",
+                        "address": "6401 Bluebonnet Blvd.               Baton Rouge, LA 70836"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Baybrook",
+                        "address": "500 Baybrook Mall               Friendswood, TX 77546"
+                    }
+                ]
             },
             {
                 "name": "Metairie",
-                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-metairie-louisiana.htm"
+                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-metairie-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Shear Systems",
+                        "address": "4808 Page Dr               Metairie, LA 70003             (504) 889-1267"
+                    },
+                    {
+                        "serviceCenter": "The Computer Shoppe",
+                        "address": "2707 N Hullen St               Metairie, LA 70002             (504) 833-5100"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Lakeside Shopping Center",
+                        "address": "3301 Veterans Memorial Blvd.                Metairie, LA 70002             (504) 830-1400"
+                    }
+                ]
             },
             {
                 "name": "New Orleans",
-                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-new-orleans-louisiana.htm"
+                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-new-orleans-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Lakeside Shopping Center",
+                        "address": "3301 Veterans Memorial Blvd.                Metairie, LA 70002"
+                    },
+                    {
+                        "serviceCenter": "Shear Systems",
+                        "address": "4808 Page Dr               Metairie, LA 70003"
+                    },
+                    {
+                        "serviceCenter": "Network Logic LLC",
+                        "address": "2637 N Causeway Blvd               Mandeville, LA 70471"
+                    },
+                    {
+                        "serviceCenter": "Nortech Css",
+                        "address": "110 E Thomas St               Hammond, LA 70401"
+                    },
+                    {
+                        "serviceCenter": "Computer Technologies Group",
+                        "address": "7987 Pecue Ln Ste C               Baton Rouge, LA 70809"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Mall of Louisiana",
+                        "address": "6401 Bluebonnet Blvd.               Baton Rouge, LA 70836"
+                    },
+                    {
+                        "serviceCenter": "Mac Consulting Group Inc",
+                        "address": "662 Jefferson Hwy               Baton Rouge, LA 70806"
+                    }
+                ]
             },
             {
                 "name": "Shreveport",
-                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-shreveport-louisiana.htm"
+                "link": "https://www.service-center-locator.com/iphone/louisiana/iphone-shreveport-louisiana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Maccentric LLC",
+                        "address": "7111 University Dr               Shreveport, LA 71105             (318) 222-2522"
+                    },
+                    {
+                        "serviceCenter": "Computer Solutions",
+                        "address": "1501 Farmerville Hwy               Ruston, LA 71270"
+                    },
+                    {
+                        "serviceCenter": "PC Warehouse",
+                        "address": "713 Wsw Loop 323 Ste C               Tyler, TX 75701"
+                    },
+                    {
+                        "serviceCenter": "Iss",
+                        "address": "133 E Main St               Ville Platte, LA 70586"
+                    },
+                    {
+                        "serviceCenter": "Tyrosys Corp",
+                        "address": "406 N Center St               Bonham, TX 75418"
+                    },
+                    {
+                        "serviceCenter": "National Networks",
+                        "address": "2950 Country Club Rd               Lake Charles, LA 70605"
+                    }
+                ]
             }
         ]
     },
@@ -2631,7 +3352,37 @@
             },
             {
                 "name": "Columbia",
-                "link": "https://www.service-center-locator.com/iphone/maryland/iphone-columbia-maryland.htm"
+                "link": "https://www.service-center-locator.com/iphone/maryland/iphone-columbia-maryland.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Columbia",
+                        "address": "10300 Little Patuxent Parkway               Columbia, MD 21044             (410) 423-1801"
+                    },
+                    {
+                        "serviceCenter": "Ama Computers",
+                        "address": "8835 Columbia 100 Pkwy               Columbia, MD 21045             (410) 312-9920"
+                    },
+                    {
+                        "serviceCenter": "Macservices",
+                        "address": "8378 Veterans Hwy               Millersville, MD 21108"
+                    },
+                    {
+                        "serviceCenter": "Chesapeake Systems Inc",
+                        "address": "801 W 33rd St               Baltimore, MD 21211"
+                    },
+                    {
+                        "serviceCenter": "Macmedics",
+                        "address": "1131 Benfield Blvd Ste H               Millersville, MD 21108"
+                    },
+                    {
+                        "serviceCenter": "Capitolmac",
+                        "address": "714 S Broadway               Baltimore, MD 21231"
+                    },
+                    {
+                        "serviceCenter": "Mbs Inc",
+                        "address": "Premium Service Provider               9057 Gaither Rd               Gaithersburg, MD 20877"
+                    }
+                ]
             },
             {
                 "name": "Dundalk",
@@ -2665,7 +3416,33 @@
             },
             {
                 "name": "Silver Spring",
-                "link": "https://www.service-center-locator.com/iphone/maryland/iphone-silver-spring-maryland.htm"
+                "link": "https://www.service-center-locator.com/iphone/maryland/iphone-silver-spring-maryland.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Bethesda Row",
+                        "address": "4860 Bethesda Avenue               Bethesda, MD 20814"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Montgomery Mall",
+                        "address": "7101 Democracy Blvd.               Bethesda, MD 20817"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Georgetown",
+                        "address": "1229 Wisconsin Avenue NW               Washington, DC 20007"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Clarendon",
+                        "address": "2700 Clarendon Blvd.               Arlington, VA 22201"
+                    },
+                    {
+                        "serviceCenter": "Macmedics",
+                        "address": "4421 Nicole Dr               Lanham, MD 20706"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Pentagon City",
+                        "address": "1100 South Hayes Street               Arlington, VA 22202"
+                    }
+                ]
             }
         ]
     },
@@ -2861,7 +3638,33 @@
             },
             {
                 "name": "Detroit",
-                "link": "https://www.service-center-locator.com/iphone/michigan/iphone-detroit-michigan.htm"
+                "link": "https://www.service-center-locator.com/iphone/michigan/iphone-detroit-michigan.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Network One Computer Systems",
+                        "address": "26603 Southfield Rd               Lathrup Village, MI 48076"
+                    },
+                    {
+                        "serviceCenter": "Micro Center",
+                        "address": "32800 Concord Dr               Madison Heights, MI 48071"
+                    },
+                    {
+                        "serviceCenter": "Mac Solutions LLC",
+                        "address": "1675 Austin Dr               Troy, MI 48083"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Somerset",
+                        "address": "2800 W Big Beaver Rd.               Troy, MI 48084"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Partridge Creek",
+                        "address": "17360 Hall Road, Suite 181               Clinton Township, MI 48038"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Twelve Oaks",
+                        "address": "27518 Novi Road               Novi, MI 48377"
+                    }
+                ]
             },
             {
                 "name": "Flint",
@@ -2925,7 +3728,33 @@
             },
             {
                 "name": "Lansing",
-                "link": "https://www.service-center-locator.com/iphone/michigan/iphone-lansing-michigan.htm"
+                "link": "https://www.service-center-locator.com/iphone/michigan/iphone-lansing-michigan.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Capitol Macintosh",
+                        "address": "1915 E Michigan Ave               Lansing, MI 48912             (517) 351-9339"
+                    },
+                    {
+                        "serviceCenter": "Saycomputer LLC",
+                        "address": "1509 Corunna Ave Ste A               Owosso, MI 48867"
+                    },
+                    {
+                        "serviceCenter": "Digital Medics",
+                        "address": "210 E Main St               Flushing, MI 48433"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Briarwood",
+                        "address": "100 Briarwood Circle               Ann Arbor, MI 48108"
+                    },
+                    {
+                        "serviceCenter": "The Learning Center Ltd",
+                        "address": "2750 S State St               Ann Arbor, MI 48104"
+                    },
+                    {
+                        "serviceCenter": "Computer Rescue 911",
+                        "address": "3070 Broadmoor Ave Se Ste A               Grand Rapids, MI 49512"
+                    }
+                ]
             },
             {
                 "name": "Sterling Heights",
@@ -3088,7 +3917,33 @@
             },
             {
                 "name": "Saint Paul",
-                "link": "https://www.service-center-locator.com/iphone/minnesota/iphone-saint-paul-minnesota.htm"
+                "link": "https://www.service-center-locator.com/iphone/minnesota/iphone-saint-paul-minnesota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Rosedale Center",
+                        "address": "1026 Rosedale Center, Suite 470               Roseville, MN 55113"
+                    },
+                    {
+                        "serviceCenter": "Team Technology",
+                        "address": "8484 Tamarack Bay Ste 102               Woodbury, MN 55125"
+                    },
+                    {
+                        "serviceCenter": "Unique Software Corporation",
+                        "address": "3140 Neil Armstrong Blvd Ste 127               Eagan, MN 55121"
+                    },
+                    {
+                        "serviceCenter": "The Foundation",
+                        "address": "311 7th Ave N               Minneapolis, MN 55401"
+                    },
+                    {
+                        "serviceCenter": "First Tech Computer",
+                        "address": "Premium Service Provider               2640 Hennepin Ave               Minneapolis, MN 55408"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Uptown",
+                        "address": "3018 Hennepin Avenue               Minneapolis, MN 55408"
+                    }
+                ]
             }
         ]
     },
@@ -3097,7 +3952,33 @@
         "states": [
             {
                 "name": "Biloxi",
-                "link": "https://www.service-center-locator.com/iphone/mississipi/iphone-biloxi-mississipi.htm"
+                "link": "https://www.service-center-locator.com/iphone/mississipi/iphone-biloxi-mississipi.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Computer Store",
+                        "address": "Premium Service Provider               2370 D Hillcrest Rd               Mobile, AL 36695"
+                    },
+                    {
+                        "serviceCenter": "The Computer Store Eastern Shore",
+                        "address": "9945 Spanish Fort Blvd Ste C               Spanish Fort, AL 36527"
+                    },
+                    {
+                        "serviceCenter": "Network Logic LLC",
+                        "address": "2637 N Causeway Blvd               Mandeville, LA 70471"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Lakeside Shopping Center",
+                        "address": "3301 Veterans Memorial Blvd.                Metairie, LA 70002"
+                    },
+                    {
+                        "serviceCenter": "Shear Systems",
+                        "address": "4808 Page Dr               Metairie, LA 70003"
+                    },
+                    {
+                        "serviceCenter": "Burton Computer Resources Inc",
+                        "address": "400 N 16th Ave               Laurel, MS 39440"
+                    }
+                ]
             },
             {
                 "name": "Gulfport",
@@ -3131,7 +4012,33 @@
             },
             {
                 "name": "Biloxi",
-                "link": "https://www.service-center-locator.com/iphone/mississipi/iphone-hattiesburg-mississipi.htm"
+                "link": "https://www.service-center-locator.com/iphone/mississipi/iphone-hattiesburg-mississipi.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Burton Computer Resources Inc",
+                        "address": "400 N 16th Ave               Laurel, MS 39440"
+                    },
+                    {
+                        "serviceCenter": "Network Logic LLC",
+                        "address": "2637 N Causeway Blvd               Mandeville, LA 70471"
+                    },
+                    {
+                        "serviceCenter": "The Computer Store",
+                        "address": "Premium Service Provider               2370 D Hillcrest Rd               Mobile, AL 36695"
+                    },
+                    {
+                        "serviceCenter": "Nortech Css",
+                        "address": "110 E Thomas St               Hammond, LA 70401"
+                    },
+                    {
+                        "serviceCenter": "The Computer Store Eastern Shore",
+                        "address": "9945 Spanish Fort Blvd Ste C               Spanish Fort, AL 36527"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Renaissance at Colony Park",
+                        "address": "1000 Highland Colony Parkway Suite 4010               Ridgeland, MS 39157"
+                    }
+                ]
             },
             {
                 "name": "Jackson",
@@ -3230,15 +4137,81 @@
             },
             {
                 "name": "Kansas City",
-                "link": "https://www.service-center-locator.com/iphone/missouri/iphone-kansas-city-missouri.htm"
+                "link": "https://www.service-center-locator.com/iphone/missouri/iphone-kansas-city-missouri.htm",
+                "city": [
+                    {
+                        "serviceCenter": "River City Solutions",
+                        "address": "423 Delaware St Ste 101             \tKansas City, MO 64105                          (816) 474-3922"
+                    },
+                    {
+                        "serviceCenter": "Teksolutions Inc",
+                        "address": "2820 Roe Ln               Kansas City, KS 66103"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Country Club Plaza",
+                        "address": "4712 Broadway Street             Kansas City, MO 64112                          (816) 960-3700>"
+                    },
+                    {
+                        "serviceCenter": "Macassist Company",
+                        "address": "10519 Richmond Ave             Kansas City, MO 64134                          (816) 761-2153"
+                    }
+                ]
             },
             {
                 "name": "Springfield",
-                "link": "https://www.service-center-locator.com/iphone/missouri/iphone-springfield-missouri.htm"
+                "link": "https://www.service-center-locator.com/iphone/missouri/iphone-springfield-missouri.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Database Systems",
+                        "address": "1550 E Battlefield Rd               Springfield, MO 65804             (417) 883-5665"
+                    },
+                    {
+                        "serviceCenter": "Megabyte Computer Center",
+                        "address": "Premium Service Provider               1061 E Joyce Blvd Ste 5               Fayetteville, AR 72703"
+                    },
+                    {
+                        "serviceCenter": "Advanced Solutions Inc",
+                        "address": "220 E 4th St               Russellville, AR 72801"
+                    },
+                    {
+                        "serviceCenter": "Mid Missouri Computer Services",
+                        "address": "7831 S Rangeline Rd               Columbia, MO 65201"
+                    },
+                    {
+                        "serviceCenter": "The Macxprts Network",
+                        "address": "2001 Corona Rd Ste 205               Columbia, MO 65203"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Leawood",
+                        "address": "4529 West 119th Street, Suite #283               Leawood, KS 66209"
+                    }
+                ]
             },
             {
                 "name": "St. Louis",
-                "link": "https://www.service-center-locator.com/iphone/missouri/iphone-st.-louis-missouri.htm"
+                "link": "https://www.service-center-locator.com/iphone/missouri/iphone-st.-louis-missouri.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Digital Partners Incorporated",
+                        "address": "8008 Carondelet Ave               Saint Louis, MO 63105             (314) 863-8008"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Saint Louis Galleria",
+                        "address": "2440 Saint Louis Galleria               Saint Louis, MO 63117             (314) 721-8444"
+                    },
+                    {
+                        "serviceCenter": "Mac Headquarters",
+                        "address": "7120 Manchester Ave               Saint Louis, MO 63143             (314) 647-6647"
+                    },
+                    {
+                        "serviceCenter": "Computer Solutions",
+                        "address": "8780 Big Bend Blvd               Saint Louis, MO 63119             (314) 918-7600"
+                    },
+                    {
+                        "serviceCenter": "Apple Store West County",
+                        "address": "131 West County Center               St. Louis, MO 63131             (314) 965-3213"
+                    }
+                ]
             }
         ]
     },
@@ -3311,7 +4284,33 @@
             },
             {
                 "name": "Butte",
-                "link": "https://www.service-center-locator.com/iphone/montana/iphone-butte-montana.htm"
+                "link": "https://www.service-center-locator.com/iphone/montana/iphone-butte-montana.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Information Systems Of Montana",
+                        "address": "1314 Helena Ave               Helena, MT 59601"
+                    },
+                    {
+                        "serviceCenter": "Stevens Computer Service",
+                        "address": "601 Nikles Dr Ste 12               Bozeman, MT 59715"
+                    },
+                    {
+                        "serviceCenter": "Computer Guys Inc",
+                        "address": "2240 South Ave W               Missoula, MT 59801"
+                    },
+                    {
+                        "serviceCenter": "Information Systems Of Montana",
+                        "address": "910 7th St S               Great Falls, MT 59405"
+                    },
+                    {
+                        "serviceCenter": "Computer Medical Center",
+                        "address": "259 N 2nd E               Rexburg, ID 83440"
+                    },
+                    {
+                        "serviceCenter": "Rigby Macstore",
+                        "address": "234 S State St               Rigby, ID 83442"
+                    }
+                ]
             },
             {
                 "name": "Great Falls",
@@ -3474,7 +4473,33 @@
             },
             {
                 "name": "Lincoln",
-                "link": "https://www.service-center-locator.com/iphone/nebraska/iphone-lincoln-nebraska.htm"
+                "link": "https://www.service-center-locator.com/iphone/nebraska/iphone-lincoln-nebraska.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computer Hardware Inc",
+                        "address": "237 S 70th St Ste 103               Lincoln, NE 68510             (402) 483-6400"
+                    },
+                    {
+                        "serviceCenter": "Oliva Audio Visual Repair",
+                        "address": "519 1st St               Milford, NE 68405"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Village Pointe",
+                        "address": "17305 Davenport Street               Omaha, NE 68118"
+                    },
+                    {
+                        "serviceCenter": "Digital Dot Systems Inc",
+                        "address": "13213 F St               Omaha, NE 68137"
+                    },
+                    {
+                        "serviceCenter": "Computer Hardware Inc",
+                        "address": "15809 N 2nd St               Bennington, NE 68007"
+                    },
+                    {
+                        "serviceCenter": "Computer Hardware Inc",
+                        "address": "2720 Old Fair Rd               Grand Island, NE 68803"
+                    }
+                ]
             },
             {
                 "name": "Omaha",
@@ -3513,7 +4538,33 @@
         "states": [
             {
                 "name": "Henderson",
-                "link": "https://www.service-center-locator.com/iphone/nevada/iphone-henderson-nevada.htm"
+                "link": "https://www.service-center-locator.com/iphone/nevada/iphone-henderson-nevada.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Town Square",
+                        "address": "6671 Las Vegas Blvd. Suite A125               Las Vegas, NV 89119"
+                    },
+                    {
+                        "serviceCenter": "Apple Store The Forum Shops",
+                        "address": "3500 Las Vegas Blvd South, Caesars Palace               Las Vegas, NV 89109"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Fashion Show",
+                        "address": "3200 Las Vegas Blvd.               Las Vegas, NV 89109"
+                    },
+                    {
+                        "serviceCenter": "The Mac Clinic",
+                        "address": "5485 W Flamingo Rd Ste 203               Las Vegas, NV 89103"
+                    },
+                    {
+                        "serviceCenter": "Century 23",
+                        "address": "5000 W Oakey Blvd Ste B5               Las Vegas, NV 89146"
+                    },
+                    {
+                        "serviceCenter": "The Mac Clinic",
+                        "address": "2116 N Stockton Hill Rd Ste D               Kingman, AZ 86401"
+                    }
+                ]
             },
             {
                 "name": "Las Vegas",
@@ -3577,7 +4628,33 @@
             },
             {
                 "name": "Reno",
-                "link": "https://www.service-center-locator.com/iphone/nevada/iphone-reno-nevada.htm"
+                "link": "https://www.service-center-locator.com/iphone/nevada/iphone-reno-nevada.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Mac O Rama ",
+                        "address": "4690 Longley Ln               Reno, NV 89502             (775) 626-7751"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Summit Sierra",
+                        "address": "13925 S. Virginia St.               Reno, NV 89511             (775) 333-5460"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Roseville",
+                        "address": "1151 Galleria Blvd.               Roseville, CA 95678"
+                    },
+                    {
+                        "serviceCenter": "Fry's Electronics",
+                        "address": "180 N Sunrise Ave               Roseville, CA 95661"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Arden Fair",
+                        "address": "1689 Arden Way               Sacramento, CA 95815"
+                    },
+                    {
+                        "serviceCenter": "Core Care",
+                        "address": "Premium Service Provider               2340 Harvard St               Sacramento, CA 95815"
+                    }
+                ]
             }
         ]
     },
@@ -3646,11 +4723,63 @@
             },
             {
                 "name": "Dover",
-                "link": "https://www.service-center-locator.com/iphone/new-hampshire/iphone-dover-new-hampshire.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-hampshire/iphone-dover-new-hampshire.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Macedge",
+                        "address": "599 Lafayette Rd Ste 8               Portsmouth, NH 03801"
+                    },
+                    {
+                        "serviceCenter": "Small Dog Electronics Inc",
+                        "address": "Premium Service Provider               1500 S Willow St Ste N119               Manchester, NH 03103"
+                    },
+                    {
+                        "serviceCenter": "Northpoint Solutions LLC",
+                        "address": "13 West St               Concord, NH 03301"
+                    },
+                    {
+                        "serviceCenter": "Gorham Micro",
+                        "address": "209 Main St               Saco, ME 04072"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Rockingham Park",
+                        "address": "99 Rockingham Park Blvd.               Salem, NH 03079"
+                    },
+                    {
+                        "serviceCenter": "Brinestone",
+                        "address": "116 State Route 101a               Amherst, NH 03031"
+                    }
+                ]
             },
             {
                 "name": "Hudson",
-                "link": "https://www.service-center-locator.com/iphone/new-hampshire/iphone-hudson-new-hampshire.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-hampshire/iphone-hudson-new-hampshire.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Pheasant Lane",
+                        "address": "310 Daniel Webster Highway               Nashua, NH 03060"
+                    },
+                    {
+                        "serviceCenter": "Brinestone",
+                        "address": "116 State Route 101a               Amherst, NH 03031"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Rockingham Park",
+                        "address": "99 Rockingham Park Blvd.               Salem, NH 03079"
+                    },
+                    {
+                        "serviceCenter": "Small Dog Electronics Inc",
+                        "address": "Premium Service Provider               1500 S Willow St Ste N119               Manchester, NH 03103"
+                    },
+                    {
+                        "serviceCenter": "Paul Bryan Inc",
+                        "address": "28 Concord Xing               Concord, MA 01742"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Burlington",
+                        "address": "75 Middlesex Turnpike, Space #1091               Burlington, MA 01803"
+                    }
+                ]
             },
             {
                 "name": "Londonderry",
@@ -3804,7 +4933,33 @@
             },
             {
                 "name": "Salem",
-                "link": "https://www.service-center-locator.com/iphone/new-hampshire/iphone-salem-new-hampshire.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-hampshire/iphone-salem-new-hampshire.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Rockingham Park",
+                        "address": "99 Rockingham Park Blvd.               Salem, NH 03079             (603) 890-3518"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Pheasant Lane",
+                        "address": "310 Daniel Webster Highway               Nashua, NH 03060"
+                    },
+                    {
+                        "serviceCenter": "Small Dog Electronics Inc",
+                        "address": "Premium Service Provider               1500 S Willow St Ste N119               Manchester, NH 03103"
+                    },
+                    {
+                        "serviceCenter": "Brinestone",
+                        "address": "116 State Route 101a               Amherst, NH 03031"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Burlington",
+                        "address": "75 Middlesex Turnpike, Space #1091               Burlington, MA 01803"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Northshore",
+                        "address": "210 Andover Street               Peabody, MA 01960"
+                    }
+                ]
             }
         ]
     },
@@ -3843,7 +4998,33 @@
             },
             {
                 "name": "Bridgeton",
-                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-bridgeton-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-bridgeton-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computers And Networks Unlimited",
+                        "address": "3033 S East Blvd               Vineland, NJ 08360"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Christiana Mall",
+                        "address": "125 Christiana Mall               Newark, DE 19702"
+                    },
+                    {
+                        "serviceCenter": "Diamond Computer Incorporated",
+                        "address": "4608 S Dupont Hwy Ste 4               Dover, DE 19901"
+                    },
+                    {
+                        "serviceCenter": "Macservices",
+                        "address": "440 Benigno Blvd Fl 1kor               Bellmawr, NJ 08031"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Sagemore",
+                        "address": "500 Route 73 South               Marlton, NJ 08053"
+                    },
+                    {
+                        "serviceCenter": "Macservices",
+                        "address": "1001 Marlton Pike W               Cherry Hill, NJ 08002"
+                    }
+                ]
             },
             {
                 "name": "Camden",
@@ -3967,7 +5148,33 @@
             },
             {
                 "name": "Freehold Borough",
-                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-freehold-borough-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-freehold-borough-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Freehold Raceway Mall",
+                        "address": "3710 Route 9 South               Freehold, NJ 07728             (732) 358-8426"
+                    },
+                    {
+                        "serviceCenter": "Advanced Micro Distribution Channels",
+                        "address": "50 Campus Dr               Edison, NJ 08837"
+                    },
+                    {
+                        "serviceCenter": "Advanced Micro Distribution Channels",
+                        "address": "1164 Village Blvd               Princeton, NJ 08540"
+                    },
+                    {
+                        "serviceCenter": "Best Buy-0615",
+                        "address": "950 Convery Blvd               Perth Amboy, NJ 08861"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Menlo Park",
+                        "address": "55 Parsonage Road               Edison, NJ 08837"
+                    },
+                    {
+                        "serviceCenter": "Creative Computing",
+                        "address": "423 Wall St               Princeton, NJ 08540"
+                    }
+                ]
             },
             {
                 "name": "Hackensack",
@@ -4155,19 +5362,123 @@
             },
             {
                 "name": "New Brunswick",
-                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-new-brunswick-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-new-brunswick-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Advanced Micro Distribution Channels",
+                        "address": "50 Campus Dr               Edison, NJ 08837"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Menlo Park",
+                        "address": "55 Parsonage Road               Edison, NJ 08837"
+                    },
+                    {
+                        "serviceCenter": "Best Buy-0615",
+                        "address": "950 Convery Blvd               Perth Amboy, NJ 08861"
+                    },
+                    {
+                        "serviceCenter": "Boise Technologies",
+                        "address": "574 Somerset St               North Plainfield, NJ 07060"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Bridgewater",
+                        "address": "400 Commons Way               Bridgewater, NJ 08807"
+                    },
+                    {
+                        "serviceCenter": "Creative Computing",
+                        "address": "423 Wall St               Princeton, NJ 08540"
+                    }
+                ]
             },
             {
                 "name": "Newton",
-                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-newton-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-newton-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computer Wholesalers Inc",
+                        "address": "715 Willow Grove St Ste 5               Hackettstown, NJ 07840"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Rockaway",
+                        "address": "301 Mt. Hope Avenue               Rockaway, NJ 07866"
+                    },
+                    {
+                        "serviceCenter": "Peggnet Computers",
+                        "address": "5 W Main St               Mendham, NJ 07945"
+                    },
+                    {
+                        "serviceCenter": "Pcps Inc",
+                        "address": "718 Main St               Boonton, NJ 07005"
+                    },
+                    {
+                        "serviceCenter": "Advanced Micro Distribution Channels",
+                        "address": "133 Washington St               Morristown, NJ 07960"
+                    },
+                    {
+                        "serviceCenter": "Gravity Systems",
+                        "address": "150 Morristown Rd Ste 206               Bernardsville, NJ 07924"
+                    }
+                ]
             },
             {
                 "name": "Paterson",
-                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-paterson-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-paterson-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Willowbrook",
+                        "address": "1400 Willowbrook Mall               Wayne, NJ 07470"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Garden State Plaza",
+                        "address": "1 Garden State Plaza, Space I1A               Paramus, NJ 07652"
+                    },
+                    {
+                        "serviceCenter": "Information Technology Corporation",
+                        "address": "174 State Rt 17 N Ste 215               Rochelle Park, NJ 07662"
+                    },
+                    {
+                        "serviceCenter": "Essex Computers",
+                        "address": "185 N State Rt 17               Paramus, NJ 07652"
+                    },
+                    {
+                        "serviceCenter": "Catcom Computers Inc",
+                        "address": "25 Valley Rd Ste 2               Montclair, NJ 07042"
+                    },
+                    {
+                        "serviceCenter": "Safenet Computer",
+                        "address": "815 Broad Ave               Ridgefield, NJ 07657"
+                    }
+                ]
             },
             {
                 "name": "Salem",
-                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-salem-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-salem-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Christiana Mall",
+                        "address": "125 Christiana Mall               Newark, DE 19702"
+                    },
+                    {
+                        "serviceCenter": "Computers And Networks Unlimited",
+                        "address": "3033 S East Blvd               Vineland, NJ 08360"
+                    },
+                    {
+                        "serviceCenter": "Mcmobile Inc",
+                        "address": "Premium Service Provider               5120 State Rd               Drexel Hill, PA 19026"
+                    },
+                    {
+                        "serviceCenter": "Macservices",
+                        "address": "440 Benigno Blvd Fl 1kor               Bellmawr, NJ 08031"
+                    },
+                    {
+                        "serviceCenter": "Matrx Systems LLC",
+                        "address": "5068r W Chester Pike               Newtown Square, PA 19073"
+                    },
+                    {
+                        "serviceCenter": "Springboard Media",
+                        "address": "Premium Service Provider               2212 Walnut St               Philadelphia, PA 19103"
+                    }
+                ]
             },
             {
                 "name": "Somerville",
@@ -4201,7 +5512,33 @@
             },
             {
                 "name": "Toms River",
-                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-toms-river-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-toms-river-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Freehold Raceway Mall",
+                        "address": "3710 Route 9 South               Freehold, NJ 07728"
+                    },
+                    {
+                        "serviceCenter": "Macsultants",
+                        "address": "34 Mill St               Mount Holly, NJ 08060"
+                    },
+                    {
+                        "serviceCenter": "Advanced Micro Distribution Channels",
+                        "address": "1164 Village Blvd               Princeton, NJ 08540"
+                    },
+                    {
+                        "serviceCenter": "Advanced Micro Distribution Channels",
+                        "address": "8c North Broad St               Trenton, NJ 08608"
+                    },
+                    {
+                        "serviceCenter": "Advanced Micro Distribution Channels",
+                        "address": "50 Campus Dr               Edison, NJ 08837"
+                    },
+                    {
+                        "serviceCenter": "G2 Computers LLC",
+                        "address": "1629 Big Oak Rd Unt 530               Yardley, PA 19067"
+                    }
+                ]
             },
             {
                 "name": "Trenton",
@@ -4235,7 +5572,33 @@
             },
             {
                 "name": "Woodbury",
-                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-woodbury-new-jersey.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-jersey/iphone-woodbury-new-jersey.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Macservices",
+                        "address": "440 Benigno Blvd Fl 1kor               Bellmawr, NJ 08031"
+                    },
+                    {
+                        "serviceCenter": "Macservices",
+                        "address": "1001 Marlton Pike W               Cherry Hill, NJ 08002"
+                    },
+                    {
+                        "serviceCenter": "Springboard Media",
+                        "address": "116 S 13th St               Philadelphia, PA 19107"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Walnut Street",
+                        "address": "1607 Walnut Street               Philadelphia, PA 19103"
+                    },
+                    {
+                        "serviceCenter": "Macxprts New Jersey",
+                        "address": "706 Haddonfield Rd               Cherry Hill, NJ 08002"
+                    },
+                    {
+                        "serviceCenter": "Bundy Computer",
+                        "address": "1809 Chestnut St               Philadelphia, PA 19103"
+                    }
+                ]
             }
         ]
     },
@@ -4386,7 +5749,21 @@
             },
             {
                 "name": "Santa Fe",
-                "link": "https://www.service-center-locator.com/iphone/new-messico/iphone-santa-fe-new-messico.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-messico/iphone-santa-fe-new-messico.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computer Medics ",
+                        "address": "2801 Rodeo Rd               Santa Fe, NM 87505             (505) 577-2265"
+                    },
+                    {
+                        "serviceCenter": "Dotfoil Computers",
+                        "address": "851 St Michaels Dr               Santa Fe, NM 87505             (505) 954-9955"
+                    },
+                    {
+                        "serviceCenter": "Macxprts Santa Fe",
+                        "address": "3294 Cerrillos Rd               Santa Fe, NM 87507             (505) 471-0046"
+                    }
+                ]
             }
         ]
     },
@@ -4459,11 +5836,71 @@
             },
             {
                 "name": "New York County",
-                "link": "https://www.service-center-locator.com/iphone/new-york/iphone-new-york-county-new-york.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-york/iphone-new-york-county-new-york.htm",
+                "city": [
+                    {
+                        "serviceCenter": "3h Technologies",
+                        "address": "1173 2nd Ave               New York, NY 10065             (212) 588-8760"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Fifth Avenue",
+                        "address": "767 Fifth Ave.               New York City, NY 10153             (212) 336-1440"
+                    },
+                    {
+                        "serviceCenter": "Micro Decision Systems Inc",
+                        "address": "315 E 86th St               New York, NY 10028"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Upper West Side",
+                        "address": "1981 Broadway               New York City, NY 10023             (212) 209-3400"
+                    },
+                    {
+                        "serviceCenter": "Alliance Computer Systems",
+                        "address": "16 E 40th St 202               New York, NY 10016             (212) 779-7467"
+                    },
+                    {
+                        "serviceCenter": "The Edward Stern Company",
+                        "address": "75 W End Ave               New York, NY 10023             (212) 586-9334"
+                    },
+                    {
+                        "serviceCenter": "Datavision Computer Video",
+                        "address": "445 5th Ave               New York, NY 10016             (212) 689-1111"
+                    },
+                    {
+                        "serviceCenter": "Xperteks Computer Consultancy",
+                        "address": "1001 6th Ave               New York, NY 10018             (212) 206-6262"
+                    }
+                ]
             },
             {
                 "name": "Putnam County",
-                "link": "https://www.service-center-locator.com/iphone/new-york/iphone-putnam-county-new-york.htm"
+                "link": "https://www.service-center-locator.com/iphone/new-york/iphone-putnam-county-new-york.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Danbury Fair Mall",
+                        "address": "Seven Backus Avenue               Danbury, CT 06810"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Palisades",
+                        "address": "1591 Palisades Center Drive               West Nyack, NY 10994"
+                    },
+                    {
+                        "serviceCenter": "Dataserve Corporation",
+                        "address": "6 Westchester Plz               Elmsford, NY 10523"
+                    },
+                    {
+                        "serviceCenter": "Doctormac",
+                        "address": "64 Main St               Irvington, NY 10533"
+                    },
+                    {
+                        "serviceCenter": "Apple Store The Westchester",
+                        "address": "125 Westchester Ave.               White Plains, NY 10601"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Tice's Corner",
+                        "address": "441 Chestnut Ridge Road               Woodcliff Lake, NJ 07677"
+                    }
+                ]
             },
             {
                 "name": "Queens",
@@ -4562,7 +5999,33 @@
             },
             {
                 "name": "Charlotte",
-                "link": "https://www.service-center-locator.com/iphone/north-carolina/iphone-charlotte-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/iphone/north-carolina/iphone-charlotte-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store SouthPark",
+                        "address": "4400 Sharon Road               Charlotte, NC 28211             (704) 364-2205"
+                    },
+                    {
+                        "serviceCenter": "Dat A Syst LLC",
+                        "address": "4035 South Blvd               Charlotte, NC 28209"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Northlake Mall",
+                        "address": "6801 Northlake Mall Drive               Charlotte, NC 28216"
+                    },
+                    {
+                        "serviceCenter": "Integrity Computer Service",
+                        "address": "1812 Davie Ave               Statesville, NC 28677"
+                    },
+                    {
+                        "serviceCenter": "Mactutor And Service",
+                        "address": "40121 Us Highway 1 S               Aberdeen, NC 28315"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Friendly Center",
+                        "address": "3320 West Friendly Ave               Greensboro, NC 27410"
+                    }
+                ]
             },
             {
                 "name": "Durham",
@@ -4596,7 +6059,37 @@
             },
             {
                 "name": "Fayetteville",
-                "link": "https://www.service-center-locator.com/iphone/north-carolina/iphone-fayetteville-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/iphone/north-carolina/iphone-fayetteville-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "N2",
+                        "address": "106 Hay St               Fayetteville, NC 28311             (800) 349-5542"
+                    },
+                    {
+                        "serviceCenter": "Mactutor And Service",
+                        "address": "40121 Us Highway 1 S               Aberdeen, NC 28315"
+                    },
+                    {
+                        "serviceCenter": "Tenplus Systems",
+                        "address": "500 C Uwharrie Ct               Raleigh, NC 27606"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Crabtree Valley Mall",
+                        "address": "4325 Glenwood Ave., Space #2114               Raleigh, NC 27612"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Southpoint",
+                        "address": "8030 Renaissance Pkwy               Durham, NC 27713"
+                    },
+                    {
+                        "serviceCenter": "Computer Services Of Carolina",
+                        "address": "4125 Durham Chapel Hill Blvd Ste 7               Durham, NC 27707"
+                    },
+                    {
+                        "serviceCenter": "It Worx",
+                        "address": "1724 Battleground Ave Ste 101               Greensboro, NC 27408"
+                    }
+                ]
             },
             {
                 "name": "Greensboro",
@@ -4708,7 +6201,33 @@
             },
             {
                 "name": "Wilmington",
-                "link": "https://www.service-center-locator.com/iphone/north-carolina/iphone-wilmington-north-carolina.htm"
+                "link": "https://www.service-center-locator.com/iphone/north-carolina/iphone-wilmington-north-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Connecting Point",
+                        "address": "3350 Phillis Blvd Ste 101               Myrtle Beach, SC 29577"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point",
+                        "address": "5341 Highway 17               Murrells Inlet, SC 29576"
+                    },
+                    {
+                        "serviceCenter": "University PC Care Inc",
+                        "address": "1909 E Fire Tower Rd Ste F               Greenville, NC 27858"
+                    },
+                    {
+                        "serviceCenter": "Mactutor And Service",
+                        "address": "40121 Us Highway 1 S               Aberdeen, NC 28315"
+                    },
+                    {
+                        "serviceCenter": "Tenplus Systems",
+                        "address": "500 C Uwharrie Ct               Raleigh, NC 27606"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Crabtree Valley Mall",
+                        "address": "4325 Glenwood Ave., Space #2114               Raleigh, NC 27612"
+                    }
+                ]
             },
             {
                 "name": "Winston Salem",
@@ -4821,7 +6340,33 @@
             },
             {
                 "name": "Minot",
-                "link": "https://www.service-center-locator.com/iphone/north-dakota/iphone-minot-north-dakota.htm"
+                "link": "https://www.service-center-locator.com/iphone/north-dakota/iphone-minot-north-dakota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Computer Store Inc",
+                        "address": "1100 S Broadway               Minot, ND 58701             (701) 838-3967"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point Computer Center",
+                        "address": "303 S 3rd St               Bismarck, ND 58504"
+                    },
+                    {
+                        "serviceCenter": "The Computer Place",
+                        "address": "4501 15th Ave Sw Ste 108               Fargo, ND 58103"
+                    },
+                    {
+                        "serviceCenter": "Corporate Technologies",
+                        "address": "2000 44th St Sw Ste 100               Fargo, ND 58103"
+                    },
+                    {
+                        "serviceCenter": "Arvig",
+                        "address": "150 2nd Ave Sw               Perham, MN 56573"
+                    },
+                    {
+                        "serviceCenter": "Computer Village Inc",
+                        "address": "601 12th St Ste 2               Rapid City, SD 57701"
+                    }
+                ]
             }
         ]
     },
@@ -4830,7 +6375,33 @@
         "states": [
             {
                 "name": "Akron",
-                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-akron-ohio.htm"
+                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-akron-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Allegiance It",
+                        "address": "43 Furnace St               Akron, OH 44308             (330) 315-2867"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Summit Mall",
+                        "address": "3265 West Market Street               Akron, OH 44333             (330) 867-6997"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point",
+                        "address": "8312 Cleveland Ave Nw               North Canton, OH 44720"
+                    },
+                    {
+                        "serviceCenter": "Quadstar Digital Guidance Ltd",
+                        "address": "Premium Service Provider               4001 Towpath Trl Ste A               Broadview Heights, OH 44147"
+                    },
+                    {
+                        "serviceCenter": "Computermixx",
+                        "address": "332 S Market St               Wooster, OH 44691"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Legacy Village",
+                        "address": "24393 Cedar Road               Lyndhurst, OH 44124"
+                    }
+                ]
             },
             {
                 "name": "Cincinnati",
@@ -4852,19 +6423,127 @@
             },
             {
                 "name": "Cleveland",
-                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-cleveland-ohio.htm"
+                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-cleveland-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "MCPc Inc",
+                        "address": "1401 E 18th St               Cleveland, OH 44114"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Legacy Village",
+                        "address": "24393 Cedar Road               Lyndhurst, OH 44124"
+                    },
+                    {
+                        "serviceCenter": "Micro Center",
+                        "address": "1349 Som Center Rd               Mayfield Heights, OH 44124"
+                    },
+                    {
+                        "serviceCenter": "Quadstar Digital Guidance Ltd",
+                        "address": "Premium Service Provider               4001 Towpath Trl Ste A               Broadview Heights, OH 44147"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Crocker Park",
+                        "address": "267 Crocker Park Blvd.               Westlake, OH 44145"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Summit Mall",
+                        "address": "3265 West Market Street               Akron, OH 44333"
+                    }
+                ]
             },
             {
                 "name": "Columbus",
-                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-columbus-ohio.htm"
+                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-columbus-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Elan Technologies",
+                        "address": "331 Stoneridge Ln               Columbus, OH 43230             (614) 678-5373"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Easton Town Center",
+                        "address": "4070 The Strand East               Columbus, OH 43219             (614) 478-5592"
+                    },
+                    {
+                        "serviceCenter": "Computer Site Columbus",
+                        "address": "6155 N Huntley Rd               Columbus, OH 43229             (614) 786-7100"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Polaris Fashion Place",
+                        "address": "1500 Polaris Parkway               Columbus, OH 43240             (614) 987-1430"
+                    },
+                    {
+                        "serviceCenter": "Micro Center",
+                        "address": "747 Bethel Rd               Columbus, OH 43214             (614) 326-8500"
+                    },
+                    {
+                        "serviceCenter": "Pomeroy It Solutions",
+                        "address": "2325 Westbrooke Dr Bldg B               Columbus, OH 43228             (614) 876-6521"
+                    },
+                    {
+                        "serviceCenter": "Xtek Partners Inc",
+                        "address": "2402 Advanced Business Center Dr               Columbus, OH 43228             614-334-3150"
+                    }
+                ]
             },
             {
                 "name": "Dayton",
-                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-dayton-ohio.htm"
+                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-dayton-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Ucr LLC",
+                        "address": "1332 Woodman Dr               Dayton, OH 45432             (937) 253-8898"
+                    },
+                    {
+                        "serviceCenter": "The Macdepot",
+                        "address": "2025 E Dorothy Ln               Kettering, OH 45420"
+                    },
+                    {
+                        "serviceCenter": "Mactown",
+                        "address": "4398 Holly Ln               Dayton, OH 45440"
+                    },
+                    {
+                        "serviceCenter": "Mactown",
+                        "address": "8975 Kingsridge Dr               Dayton, OH 45458"
+                    },
+                    {
+                        "serviceCenter": "Micro Center",
+                        "address": "11755 Mosteller Rd               Sharonville, OH 45241"
+                    },
+                    {
+                        "serviceCenter": "Computer Dna",
+                        "address": "4680 Cooper Rd Ste B               Cincinnati, OH 45242"
+                    }
+                ]
             },
             {
                 "name": "Lorain",
-                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-lorain-ohio.htm"
+                "link": "https://www.service-center-locator.com/iphone/ohio/iphone-lorain-ohio.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Crocker Park",
+                        "address": "267 Crocker Park Blvd.               Westlake, OH 44145"
+                    },
+                    {
+                        "serviceCenter": "MCPc Inc",
+                        "address": "1401 E 18th St               Cleveland, OH 44114"
+                    },
+                    {
+                        "serviceCenter": "Quadstar Digital Guidance Ltd",
+                        "address": "Premium Service Provider               4001 Towpath Trl Ste A               Broadview Heights, OH 44147"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Legacy Village",
+                        "address": "24393 Cedar Road               Lyndhurst, OH 44124"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Summit Mall",
+                        "address": "3265 West Market Street               Akron, OH 44333"
+                    },
+                    {
+                        "serviceCenter": "Micro Center",
+                        "address": "1349 Som Center Rd               Mayfield Heights, OH 44124"
+                    }
+                ]
             },
             {
                 "name": "Toledo",
@@ -4933,7 +6612,33 @@
         "states": [
             {
                 "name": "Broken Arrow",
-                "link": "https://www.service-center-locator.com/iphone/oklahoma/iphone-broken-arrow-oklahoma.htm"
+                "link": "https://www.service-center-locator.com/iphone/oklahoma/iphone-broken-arrow-oklahoma.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Woodland Hills",
+                        "address": "7021 S. Memorial Drive               Tulsa, OK 74133"
+                    },
+                    {
+                        "serviceCenter": "Mobile Macsters LLC",
+                        "address": "6670 S Lewis Ave Ste 202               Tulsa, OK 74136"
+                    },
+                    {
+                        "serviceCenter": "Megabyte Computer Center",
+                        "address": "Premium Service Provider               1061 E Joyce Blvd Ste 5               Fayetteville, AR 72703"
+                    },
+                    {
+                        "serviceCenter": "PC Innovations",
+                        "address": "922 S Boulevard 100               Edmond, OK 73034"
+                    },
+                    {
+                        "serviceCenter": "Mobile Macsters LLC",
+                        "address": "5131n Classen Cir Ste 203               Oklahoma City, OK 73118"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Penn Square",
+                        "address": "1901 NW Expressway St., #1015A               Oklahoma City, OK 73118"
+                    }
+                ]
             },
             {
                 "name": "Edmond",
@@ -4967,11 +6672,63 @@
             },
             {
                 "name": "Enid",
-                "link": "https://www.service-center-locator.com/iphone/oklahoma/iphone-enid-oklahoma.htm"
+                "link": "https://www.service-center-locator.com/iphone/oklahoma/iphone-enid-oklahoma.htm",
+                "city": [
+                    {
+                        "serviceCenter": "PC Innovations",
+                        "address": "922 S Boulevard 100               Edmond, OK 73034"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Penn Square",
+                        "address": "1901 NW Expressway St., #1015A               Oklahoma City, OK 73118"
+                    },
+                    {
+                        "serviceCenter": "Mobile Macsters LLC",
+                        "address": "5131n Classen Cir Ste 203               Oklahoma City, OK 73118"
+                    },
+                    {
+                        "serviceCenter": "The Mac Man LLC",
+                        "address": "Premium Service Provider               524 Tower Dr Ste D               Moore, OK 73160"
+                    },
+                    {
+                        "serviceCenter": "Ribbit Computers LLC",
+                        "address": "921 E Douglas Ave               Wichita, KS 67202"
+                    },
+                    {
+                        "serviceCenter": "Haddock Computer Center",
+                        "address": "10096 E 13th St N Ste 138               Wichita, KS 67206"
+                    }
+                ]
             },
             {
                 "name": "Lawton",
-                "link": "https://www.service-center-locator.com/iphone/oklahoma/iphone-lawton-oklahoma.htm"
+                "link": "https://www.service-center-locator.com/iphone/oklahoma/iphone-lawton-oklahoma.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Mactech Solutions",
+                        "address": "3008 Kemp Blvd Ste 100               Wichita Falls, TX 76308"
+                    },
+                    {
+                        "serviceCenter": "The Mac Man LLC",
+                        "address": "Premium Service Provider               524 Tower Dr Ste D               Moore, OK 73160"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Penn Square",
+                        "address": "1901 NW Expressway St., #1015A               Oklahoma City, OK 73118"
+                    },
+                    {
+                        "serviceCenter": "Mobile Macsters LLC",
+                        "address": "5131n Classen Cir Ste 203               Oklahoma City, OK 73118"
+                    },
+                    {
+                        "serviceCenter": "PC Innovations",
+                        "address": "922 S Boulevard 100               Edmond, OK 73034"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Southlake Town Square",
+                        "address": "260 Grand Avenue               Southlake, TX 76092"
+                    }
+                ]
             },
             {
                 "name": "Moore",
@@ -5005,7 +6762,33 @@
             },
             {
                 "name": "Norman",
-                "link": "https://www.service-center-locator.com/iphone/oklahoma/iphone-norman-oklahoma.htm"
+                "link": "https://www.service-center-locator.com/iphone/oklahoma/iphone-norman-oklahoma.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Mac Man LLC",
+                        "address": "Premium Service Provider               524 Tower Dr Ste D               Moore, OK 73160"
+                    },
+                    {
+                        "serviceCenter": "Mobile Macsters LLC",
+                        "address": "5131n Classen Cir Ste 203               Oklahoma City, OK 73118"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Penn Square",
+                        "address": "1901 NW Expressway St., #1015A               Oklahoma City, OK 73118"
+                    },
+                    {
+                        "serviceCenter": "PC Innovations",
+                        "address": "922 S Boulevard 100               Edmond, OK 73034"
+                    },
+                    {
+                        "serviceCenter": "Mobile Macsters LLC",
+                        "address": "6670 S Lewis Ave Ste 202               Tulsa, OK 74136"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Woodland Hills",
+                        "address": "7021 S. Memorial Drive               Tulsa, OK 74133"
+                    }
+                ]
             },
             {
                 "name": "Oklahoma City",
@@ -5156,7 +6939,33 @@
             },
             {
                 "name": "Corvallis",
-                "link": "https://www.service-center-locator.com/iphone/oregon/iphone-corvallis-oregon.htm"
+                "link": "https://www.service-center-locator.com/iphone/oregon/iphone-corvallis-oregon.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Corvallis Mac Store",
+                        "address": "140 C Nw 3rd St               Corvallis, OR 97330             (541) 754-0811"
+                    },
+                    {
+                        "serviceCenter": "The Salem Mac Store",
+                        "address": "831 Lancaster Dr Ne Ste 178               Salem, OR 97301"
+                    },
+                    {
+                        "serviceCenter": "The Eugene Mac Store",
+                        "address": "264 Valley River Ctr               Eugene, OR 97401"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Bridgeport Village",
+                        "address": "7293 SW Bridgeport Road               Tigard, OR 97224"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Washington Square",
+                        "address": "9530 SW Washington Square Road               Tigard, OR 97223"
+                    },
+                    {
+                        "serviceCenter": "The Clackamas Mac Store",
+                        "address": "12000 Se 82nd Ave Ste K215               Happy Valley, OR 97086"
+                    }
+                ]
             },
             {
                 "name": "Eugene",
@@ -5190,7 +6999,33 @@
             },
             {
                 "name": "Gresham",
-                "link": "https://www.service-center-locator.com/iphone/oregon/iphone-gresham-oregon.htm"
+                "link": "https://www.service-center-locator.com/iphone/oregon/iphone-gresham-oregon.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Power Mac Pac",
+                        "address": "Premium Service Provider               12310 Ne Whitaker Way               Portland, OR 97230"
+                    },
+                    {
+                        "serviceCenter": "The Clackamas Mac Store",
+                        "address": "12000 Se 82nd Ave Ste K215               Happy Valley, OR 97086"
+                    },
+                    {
+                        "serviceCenter": "The Portland Mac Store",
+                        "address": "700 Ne Multnomah St Ste 190               Portland, OR 97232"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Pioneer Place",
+                        "address": "700 Southwest 5th Avenue, Suite #1035               Portland, OR 97204"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Bridgeport Village",
+                        "address": "7293 SW Bridgeport Road               Tigard, OR 97224"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Washington Square",
+                        "address": "9530 SW Washington Square Road               Tigard, OR 97223"
+                    }
+                ]
             },
             {
                 "name": "Hillsboro",
@@ -5224,7 +7059,33 @@
             },
             {
                 "name": "Medford",
-                "link": "https://www.service-center-locator.com/iphone/oregon/iphone-medford-oregon.htm"
+                "link": "https://www.service-center-locator.com/iphone/oregon/iphone-medford-oregon.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Connecting Point Computer Centers",
+                        "address": "545 Stevens St               Medford, OR 97504             (541) 773-9861"
+                    },
+                    {
+                        "serviceCenter": "Simply Macintosh",
+                        "address": "837 H St               Arcata, CA 95521"
+                    },
+                    {
+                        "serviceCenter": "The Eugene Mac Store",
+                        "address": "264 Valley River Ctr               Eugene, OR 97401"
+                    },
+                    {
+                        "serviceCenter": "Jett Net",
+                        "address": "1320 Yuba St Ste 101               Redding, CA 96001"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point Computer Ctrs",
+                        "address": "514 Nw Franklin Ave               Bend, OR 97701"
+                    },
+                    {
+                        "serviceCenter": "Paul The Computer Guy Inc",
+                        "address": "244 Ne Franklin Ave Ste 2               Bend, OR 97701"
+                    }
+                ]
             },
             {
                 "name": "Portland",
@@ -5319,7 +7180,33 @@
         "states": [
             {
                 "name": "Harrisburg",
-                "link": "https://www.service-center-locator.com/iphone/pennsylvania/iphone-harrisburg-pennsylvania.htm"
+                "link": "https://www.service-center-locator.com/iphone/pennsylvania/iphone-harrisburg-pennsylvania.htm",
+                "city": [
+                    {
+                        "serviceCenter": "2k Networking Inc",
+                        "address": "830 Sir Thomas Ct Ste 200               Harrisburg, PA 17109"
+                    },
+                    {
+                        "serviceCenter": "Digitalsunrise",
+                        "address": "1104 Fernwood Ave               Camp Hill, PA 17011"
+                    },
+                    {
+                        "serviceCenter": "Tcw Computer Systems",
+                        "address": "254 S Esbenshade Rd               Manheim, PA 17545"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Park City ",
+                        "address": "541 Park City Center               Lancaster, PA 17601"
+                    },
+                    {
+                        "serviceCenter": "Matrx Systems LLC",
+                        "address": "153 E King St Ste 210               Lancaster, PA 17602"
+                    },
+                    {
+                        "serviceCenter": "Leading Electronics Inc",
+                        "address": "2108 N Susquehanna Trl               Selinsgrove, PA 17870"
+                    }
+                ]
             },
             {
                 "name": "Philadelphia",
@@ -5538,7 +7425,33 @@
             },
             {
                 "name": "Pawtucket",
-                "link": "https://www.service-center-locator.com/iphone/rhode-island/iphone-pawtucket-rhode-island.htm"
+                "link": "https://www.service-center-locator.com/iphone/rhode-island/iphone-pawtucket-rhode-island.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Providence Place",
+                        "address": "20 Providence Place               Providence, RI 02903"
+                    },
+                    {
+                        "serviceCenter": "Computopia",
+                        "address": "205 Hallene Rd Unt A6               Warwick, RI 02886"
+                    },
+                    {
+                        "serviceCenter": "Tricom Computer Systems",
+                        "address": "1 Thurber St Ste 699               Warwick, RI 02886"
+                    },
+                    {
+                        "serviceCenter": "Cts Services Inc",
+                        "address": "260 Maple St               Bellingham, MA 02019"
+                    },
+                    {
+                        "serviceCenter": "Tech Superpowers Inc",
+                        "address": "240 Patriot Pl               Foxborough, MA 02035"
+                    },
+                    {
+                        "serviceCenter": "Flint Audio Video",
+                        "address": "77 E Main Rd               Middletown, RI 02842"
+                    }
+                ]
             },
             {
                 "name": "Providence",
@@ -5636,7 +7549,33 @@
             },
             {
                 "name": "Woonsocket",
-                "link": "https://www.service-center-locator.com/iphone/rhode-island/iphone-woonsocket-rhode-island.htm"
+                "link": "https://www.service-center-locator.com/iphone/rhode-island/iphone-woonsocket-rhode-island.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Cts Services Inc",
+                        "address": "260 Maple St               Bellingham, MA 02019"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Providence Place",
+                        "address": "20 Providence Place               Providence, RI 02903"
+                    },
+                    {
+                        "serviceCenter": "Tech Superpowers Inc",
+                        "address": "240 Patriot Pl               Foxborough, MA 02035"
+                    },
+                    {
+                        "serviceCenter": "Computopia",
+                        "address": "205 Hallene Rd Unt A6               Warwick, RI 02886"
+                    },
+                    {
+                        "serviceCenter": "Tricom Computer Systems",
+                        "address": "1 Thurber St Ste 699               Warwick, RI 02886"
+                    },
+                    {
+                        "serviceCenter": "Macs At Work Inc",
+                        "address": "775 Hartford Tpke               Shrewsbury, MA 01545"
+                    }
+                ]
             }
         ]
     },
@@ -5705,11 +7644,63 @@
             },
             {
                 "name": "Greenville",
-                "link": "https://www.service-center-locator.com/iphone/south-carolina/iphone-greenville-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/iphone/south-carolina/iphone-greenville-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Istore",
+                        "address": "550 S Main St Ste 201               Greenville, SC 29601             (864) 236-8383"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Haywood Mall",
+                        "address": "700 Haywood Road, Suite 106               Greenville, SC 29607             (864) 987-7580"
+                    },
+                    {
+                        "serviceCenter": "Charlotte Street Computers",
+                        "address": "300 Airport Rd               Arden, NC 28704"
+                    },
+                    {
+                        "serviceCenter": "City Mac",
+                        "address": "755 Biltmore Ave Ste 101               Asheville, NC 28803"
+                    },
+                    {
+                        "serviceCenter": "Irradiance Technologies",
+                        "address": "278 Smokey Park Hwy               Asheville, NC 28806"
+                    },
+                    {
+                        "serviceCenter": "Charlotte Street Computers",
+                        "address": "Premium Service Provider               252 Charlotte St               Asheville, NC 28801"
+                    }
+                ]
             },
             {
                 "name": "Mount Pleasant",
-                "link": "https://www.service-center-locator.com/iphone/south-carolina/iphone-mount-pleasant-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/iphone/south-carolina/iphone-mount-pleasant-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "L2 Technologies",
+                        "address": "401 W Coleman Blvd               Mount Pleasant, SC 29464             (843) 388-7460"
+                    },
+                    {
+                        "serviceCenter": "Apple Store King Street",
+                        "address": "301 King St.               Charleston, SC 29401"
+                    },
+                    {
+                        "serviceCenter": "Tech Plus",
+                        "address": "1890 Sam Rittenberg Blvd Ste 223               Charleston, SC 29407"
+                    },
+                    {
+                        "serviceCenter": "L2 Technologies",
+                        "address": "102 Sea Island Pkwy Ste V               Beaufort, SC 29907"
+                    },
+                    {
+                        "serviceCenter": "Progressive Technology Inc",
+                        "address": "20 Palmetto Pkwy Ste B               Hilton Head Island, SC 29926"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point",
+                        "address": "5341 Highway 17               Murrells Inlet, SC 29576"
+                    }
+                ]
             },
             {
                 "name": "North Charleston",
@@ -5773,7 +7764,33 @@
             },
             {
                 "name": "Summerville",
-                "link": "https://www.service-center-locator.com/iphone/south-carolina/iphone-summerville-south-carolina.htm"
+                "link": "https://www.service-center-locator.com/iphone/south-carolina/iphone-summerville-south-carolina.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Tech Plus",
+                        "address": "1890 Sam Rittenberg Blvd Ste 223               Charleston, SC 29407"
+                    },
+                    {
+                        "serviceCenter": "Apple Store King Street",
+                        "address": "301 King St.               Charleston, SC 29401"
+                    },
+                    {
+                        "serviceCenter": "L2 Technologies",
+                        "address": "401 W Coleman Blvd               Mount Pleasant, SC 29464"
+                    },
+                    {
+                        "serviceCenter": "L2 Technologies",
+                        "address": "102 Sea Island Pkwy Ste V               Beaufort, SC 29907"
+                    },
+                    {
+                        "serviceCenter": "Progressive Technology Inc",
+                        "address": "20 Palmetto Pkwy Ste B               Hilton Head Island, SC 29926"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point",
+                        "address": "5341 Highway 17               Murrells Inlet, SC 29576"
+                    }
+                ]
             }
         ]
     },
@@ -5812,11 +7829,63 @@
             },
             {
                 "name": "Rapid City",
-                "link": "https://www.service-center-locator.com/iphone/south-dakota/iphone-rapid-city-south-dakota.htm"
+                "link": "https://www.service-center-locator.com/iphone/south-dakota/iphone-rapid-city-south-dakota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computer Village Inc",
+                        "address": "601 12th St               Rapid City, SD 57701             (605) 343-6264"
+                    },
+                    {
+                        "serviceCenter": "Computer Village Inc",
+                        "address": "317 Thelma Dr               Casper, WY 82609"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point Computer Center",
+                        "address": "303 S 3rd St               Bismarck, ND 58504"
+                    },
+                    {
+                        "serviceCenter": "The Mac Shack",
+                        "address": "Premium Service Provider               157 N College Ave               Fort Collins, CO 80524"
+                    },
+                    {
+                        "serviceCenter": "Computer Village Inc",
+                        "address": "Premium Service Provider               1201 Grand Ave Ste 2               Billings, MT 59102"
+                    },
+                    {
+                        "serviceCenter": "The Computer Store Inc",
+                        "address": "1100 S Broadway               Minot, ND 58701"
+                    }
+                ]
             },
             {
                 "name": "Sioux Falls",
-                "link": "https://www.service-center-locator.com/iphone/south-dakota/iphone-sioux-falls-south-dakota.htm"
+                "link": "https://www.service-center-locator.com/iphone/south-dakota/iphone-sioux-falls-south-dakota.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Macdoctors",
+                        "address": "1001 W Russell St               Sioux Falls, SD 57104"
+                    },
+                    {
+                        "serviceCenter": "Mac Pros",
+                        "address": "1500 W 41st St               Sioux Falls, SD 57105"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point Computer Center",
+                        "address": "3300 W 49th St               Sioux Falls, SD 57106"
+                    },
+                    {
+                        "serviceCenter": "Advanced Computers",
+                        "address": "3109 Gordon Dr               Sioux City, IA 51105"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point Computer Center",
+                        "address": "504 Jenson Ave Se               Watertown, SD 57201"
+                    },
+                    {
+                        "serviceCenter": "Ricks Computers Inc",
+                        "address": "4482 Highway 175               Danbury, IA 51019"
+                    }
+                ]
             },
             {
                 "name": "Watertown",
@@ -5855,7 +7924,33 @@
         "states": [
             {
                 "name": "Chattanooga",
-                "link": "https://www.service-center-locator.com/iphone/tennessee/iphone-chattanooga-tennessee.htm"
+                "link": "https://www.service-center-locator.com/iphone/tennessee/iphone-chattanooga-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Macauthority",
+                        "address": "2100 Hamilton Place Blvd               Chattanooga, TN 37421             (423) 710-1581"
+                    },
+                    {
+                        "serviceCenter": "Desktop Solutions Inc",
+                        "address": "103 Jordan Dr               Chattanooga, TN 37421             (423) 553-0810"
+                    },
+                    {
+                        "serviceCenter": "Dalton Computer Services",
+                        "address": "1612 Cleveland Hwy               Dalton, GA 30721"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Bridge Street",
+                        "address": "320 The Bridge Street               Huntsville, AL 35806"
+                    },
+                    {
+                        "serviceCenter": "Mac Resource",
+                        "address": "6485 University Dr Nw               Huntsville, AL 35806"
+                    },
+                    {
+                        "serviceCenter": "Bell Industries Techlogix Grp - Local Depot",
+                        "address": "1690 Roberts Blvd Nw               Kennesaw, GA 30144"
+                    }
+                ]
             },
             {
                 "name": "Clarksville",
@@ -5887,7 +7982,33 @@
             },
             {
                 "name": "Jackson",
-                "link": "https://www.service-center-locator.com/iphone/tennessee/iphone-jackson-tennessee.htm"
+                "link": "https://www.service-center-locator.com/iphone/tennessee/iphone-jackson-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Saddle Creek",
+                        "address": "7615 W Farmington Blvd               Germantown, TN 38138"
+                    },
+                    {
+                        "serviceCenter": "Tate Computer Systems",
+                        "address": "3800 Hacks Cross Rd Ste 103               Memphis, TN 38125"
+                    },
+                    {
+                        "serviceCenter": "Computerlab Of Memphis Inc",
+                        "address": "685 N Mendenhall Rd               Memphis, TN 38122"
+                    },
+                    {
+                        "serviceCenter": "Macadvantage",
+                        "address": "4860 Poplar Ave               Memphis, TN 38117"
+                    },
+                    {
+                        "serviceCenter": "Macadvantage",
+                        "address": "4860 Poplar Ave               Memphis, TN 38117"
+                    },
+                    {
+                        "serviceCenter": "Computer Source",
+                        "address": "2623 Wayne Sullivan Dr               Paducah, KY 42003"
+                    }
+                ]
             },
             {
                 "name": "Johnson City",
@@ -5921,7 +8042,21 @@
             },
             {
                 "name": "Knoxville",
-                "link": "https://www.service-center-locator.com/iphone/tennessee/iphone-knoxville-tennessee.htm"
+                "link": "https://www.service-center-locator.com/iphone/tennessee/iphone-knoxville-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store West Town Mall",
+                        "address": "7600 Kingston Pike               Knoxville, TN 37919             (865) 824-2507"
+                    },
+                    {
+                        "serviceCenter": "Metrix Solutions",
+                        "address": "900 S Gay St Ste 1650               Knoxville, TN 37902"
+                    },
+                    {
+                        "serviceCenter": "Mcs Inc",
+                        "address": "2831 Broadway               Knoxville, TN 37917             (865) 689-6601"
+                    }
+                ]
             },
             {
                 "name": "Memphis",
@@ -5947,7 +8082,37 @@
             },
             {
                 "name": "Murfreesboro",
-                "link": "https://www.service-center-locator.com/iphone/tennessee/iphone-murfreesboro-tennessee.htm"
+                "link": "https://www.service-center-locator.com/iphone/tennessee/iphone-murfreesboro-tennessee.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computers Plus",
+                        "address": "451 N Thompson Ln               Murfreesboro, TN 37129             (615) 895-6484"
+                    },
+                    {
+                        "serviceCenter": "Mcs Inc",
+                        "address": "2831 N Broadway St               Knoxville, TN 37917"
+                    },
+                    {
+                        "serviceCenter": "Metrix Solutions",
+                        "address": "900 S Gay St Ste 1650               Knoxville, TN 37902"
+                    },
+                    {
+                        "serviceCenter": "Apple Store West Town Mall",
+                        "address": "7600 Kingston Pike               Knoxville, TN 37919"
+                    },
+                    {
+                        "serviceCenter": "Irradiance Technologies",
+                        "address": "278 Smokey Park Hwy               Asheville, NC 28806"
+                    },
+                    {
+                        "serviceCenter": "Charlotte Street Computers",
+                        "address": "Premium Service Provider               252 Charlotte St               Asheville, NC 28801"
+                    },
+                    {
+                        "serviceCenter": "City Mac",
+                        "address": "755 Biltmore Ave Ste 101               Asheville, NC 28803"
+                    }
+                ]
             },
             {
                 "name": "Nashville",
@@ -6098,11 +8263,63 @@
             },
             {
                 "name": "El Paso",
-                "link": "https://www.service-center-locator.com/iphone/texas/iphone-el-paso-texas.htm"
+                "link": "https://www.service-center-locator.com/iphone/texas/iphone-el-paso-texas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Innovei",
+                        "address": "9570 Pan American Dr               El Paso, TX 79927             (915) 225-5277"
+                    },
+                    {
+                        "serviceCenter": "Checkpoint Services Inc",
+                        "address": "1790 Commerce Park Dr Ste A1               El Paso, TX 79912             (915) 581-1185"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Cielo Vista Mall",
+                        "address": "8401 Gateway Boulevard West               El Paso, TX 79925"
+                    },
+                    {
+                        "serviceCenter": "Apple Store ABQ Uptown",
+                        "address": "2240 Q Street NE,  Suite D               Albuquerque, NM 87110"
+                    },
+                    {
+                        "serviceCenter": "Baillios",
+                        "address": "5301 Menaul Blvd Ne               Albuquerque, NM 87110"
+                    },
+                    {
+                        "serviceCenter": "Technology Integration Group",
+                        "address": "2731 Broadway Blvd Ne Ste F               Albuquerque, NM 87107"
+                    }
+                ]
             },
             {
                 "name": "Fort Worth",
-                "link": "https://www.service-center-locator.com/iphone/texas/iphone-fort-worth-texas.htm"
+                "link": "https://www.service-center-locator.com/iphone/texas/iphone-fort-worth-texas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "University Computers",
+                        "address": "3334 W 7th St               Fort Worth, TX 76107             (817) 870-2921"
+                    },
+                    {
+                        "serviceCenter": "Apple Store University Park Village",
+                        "address": "1620 S. University Drive, Suite 201               Fort Worth, TX 76107             (817) 840-9801"
+                    },
+                    {
+                        "serviceCenter": "Hardin Computer",
+                        "address": "4000 Five Points Dr Ste 191               Arlington, TX 76018"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Southlake Town Square",
+                        "address": "260 Grand Avenue               Southlake, TX 76092"
+                    },
+                    {
+                        "serviceCenter": "Sewelltech",
+                        "address": "1325 Conant St               Dallas, TX 75207"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Knox Street",
+                        "address": "3101 Knox Street               Dallas, TX 75205"
+                    }
+                ]
             },
             {
                 "name": "Garland",
@@ -6136,11 +8353,59 @@
             },
             {
                 "name": "Houston",
-                "link": "https://www.service-center-locator.com/iphone/texas/iphone-houston-texas.htm"
+                "link": "https://www.service-center-locator.com/iphone/texas/iphone-houston-texas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Houston Galleria",
+                        "address": "5085 Westheimer Rd.               Houston, TX 77056             (713) 353-5471"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Memorial City",
+                        "address": "379 Memorial City               Houston, TX 77024             (713) 986-2476"
+                    },
+                    {
+                        "serviceCenter": "Micro Center",
+                        "address": "1717 West Loop S               Houston, TX 77027             (713) 940-8500"
+                    },
+                    {
+                        "serviceCenter": "Data Tracking Associates ",
+                        "address": "3100 Timmons Ln               Houston, TX 77027             (713) 630-0079"
+                    },
+                    {
+                        "serviceCenter": "Macamerica  Odyssey Tek Texas",
+                        "address": "7026 Old Katy Rd Ste 221               Houston, TX 77024             (713) 365-3105"
+                    }
+                ]
             },
             {
                 "name": "Plano",
-                "link": "https://www.service-center-locator.com/iphone/texas/iphone-plano-texas.htm"
+                "link": "https://www.service-center-locator.com/iphone/texas/iphone-plano-texas.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Mactracks",
+                        "address": "811 E Plano Pkwy Ste 115               Plano, TX 75074             (972) 442-1545"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Stonebriar",
+                        "address": "2601 Preston Road               Frisco, TX 75034"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Willow Bend",
+                        "address": "6121 West Park Blvd.               Plano, TX 75093"
+                    },
+                    {
+                        "serviceCenter": "Computize Inc",
+                        "address": "1850 N Greenville Ave Ste 170               Richardson, TX 75081"
+                    },
+                    {
+                        "serviceCenter": "Micro Center",
+                        "address": "13929 N Central Expy               Dallas, TX 75243"
+                    },
+                    {
+                        "serviceCenter": "Associated Technical Services",
+                        "address": "5220 Spring Valley Rd Ste 170"
+                    }
+                ]
             },
             {
                 "name": "San Antonio",
@@ -6167,7 +8432,33 @@
         "states": [
             {
                 "name": "Logan",
-                "link": "https://www.service-center-locator.com/iphone/utah/iphone-logan-utah.htm"
+                "link": "https://www.service-center-locator.com/iphone/utah/iphone-logan-utah.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Expercom",
+                        "address": "1545 N Main St               Logan, UT 84341             (435) 755-7060"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "775 E University Pkwy               Orem, UT 84097"
+                    },
+                    {
+                        "serviceCenter": "imply Mac",
+                        "address": "Premium Service Provider               6936 Park Centre Dr               Salt Lake City, UT 84121"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Fashion Place",
+                        "address": "6191 S State Street               Murray, UT 84107"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1414 Foothill Dr Ste A2               Salt Lake City, UT 84108"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1435 S State St               Salt Lake City, UT 84115"
+                    }
+                ]
             },
             {
                 "name": "Ogden",
@@ -6201,7 +8492,53 @@
             },
             {
                 "name": "Orem",
-                "link": "https://www.service-center-locator.com/iphone/utah/iphone-orem-utah.htm"
+                "link": "https://www.service-center-locator.com/iphone/utah/iphone-orem-utah.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "775 E University Pkwy               Orem, UT 84097             (801) 377-0220"
+                    },
+                    {
+                        "serviceCenter": "Expercom",
+                        "address": "Premium Service Provider               80 E 10600 S               Sandy, UT 84070"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "Premium Service Provider               6936 Park Centre Dr               Salt Lake City, UT 84121"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Fashion Place",
+                        "address": "6191 S State Street               Murray, UT 84107"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1414 Foothill Dr Ste A2               Salt Lake City, UT 84108"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1435 S State St               Salt Lake City, UT 84115"
+                    },
+                    {
+                        "serviceCenter": "Expercom",
+                        "address": "Premium Service Provider               80 E 10600 S               Sandy, UT 84070"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "Premium Service Provider               6936 Park Centre Dr               Salt Lake City, UT 84121"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Fashion Place",
+                        "address": "6191 S State Street               Murray, UT 84107"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1414 Foothill Dr Ste A2               Salt Lake City, UT 84108"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1435 S State St               Salt Lake City, UT 84115"
+                    }
+                ]
             },
             {
                 "name": "Logan",
@@ -6295,7 +8632,33 @@
             },
             {
                 "name": "Sandy",
-                "link": "https://www.service-center-locator.com/iphone/utah/iphone-sandy-utah.htm"
+                "link": "https://www.service-center-locator.com/iphone/utah/iphone-sandy-utah.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Expercom",
+                        "address": "80 E 10600 S               Sandy, UT 84070             (801) 545.0321"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "Premium Service Provider               6936 Park Centre Dr               Salt Lake City, UT 84121"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Fashion Place",
+                        "address": "6191 S State Street               Murray, UT 84107"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1435 S State St               Salt Lake City, UT 84115"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1414 Foothill Dr Ste A2               Salt Lake City, UT 84108"
+                    },
+                    {
+                        "serviceCenter": "Apple Store The Gateway",
+                        "address": "10 South Rio Grande, Suite B               Salt Lake City, UT 84101"
+                    }
+                ]
             },
             {
                 "name": "West Jordan",
@@ -6364,11 +8727,63 @@
             },
             {
                 "name": "Essex",
-                "link": "https://www.service-center-locator.com/iphone/vermont/iphone-essex-vermont.htm"
+                "link": "https://www.service-center-locator.com/iphone/vermont/iphone-essex-vermont.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Dominiontech Computer Services",
+                        "address": "60 Knight Ln Ste 10               Williston, VT 05495"
+                    },
+                    {
+                        "serviceCenter": "Small Dog Electronics",
+                        "address": "100 Dorset St               South Burlington, VT 05403"
+                    },
+                    {
+                        "serviceCenter": "Small Dog Electronics",
+                        "address": "1673 Main St               Waitsfield, VT 05673"
+                    },
+                    {
+                        "serviceCenter": "Ormsbys Computer Store Inc",
+                        "address": "12 Keith Ave               Barre, VT 05641"
+                    },
+                    {
+                        "serviceCenter": "Act Computers",
+                        "address": "138 West St               Rutland, VT 05701"
+                    },
+                    {
+                        "serviceCenter": "Systems Plus Computers Inc",
+                        "address": "12 Centerra Pkwy Ste 20               Lebanon, NH 03766"
+                    }
+                ]
             },
             {
                 "name": "South Burlington",
-                "link": "https://www.service-center-locator.com/iphone/vermont/iphone-south-burlington-vermont.htm"
+                "link": "https://www.service-center-locator.com/iphone/vermont/iphone-south-burlington-vermont.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Small Dog Electronics",
+                        "address": "100 Dorset St               South Burlington, VT 05403             (802) 496-7171"
+                    },
+                    {
+                        "serviceCenter": "Dominiontech Computer Services",
+                        "address": "60 Knight Ln Ste 10               Williston, VT 05495"
+                    },
+                    {
+                        "serviceCenter": "Small Dog Electronics",
+                        "address": "1673 Main St               Waitsfield, VT 05673"
+                    },
+                    {
+                        "serviceCenter": "Ormsbys Computer Store Inc",
+                        "address": "12 Keith Ave               Barre, VT 05641"
+                    },
+                    {
+                        "serviceCenter": "Act Computers",
+                        "address": "138 West St               Rutland, VT 05701"
+                    },
+                    {
+                        "serviceCenter": "Systems Plus Computers Inc",
+                        "address": "12 Centerra Pkwy Ste 20               Lebanon, NH 03766"
+                    }
+                ]
             }
         ]
     },
@@ -6527,11 +8942,63 @@
             },
             {
                 "name": "Lynchburg",
-                "link": "https://www.service-center-locator.com/iphone/virginia/iphone-lynchburg-virginia.htm"
+                "link": "https://www.service-center-locator.com/iphone/virginia/iphone-lynchburg-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computer Pros Inc",
+                        "address": "2020b Brambleton Ave Sw               Roanoke, VA 24015"
+                    },
+                    {
+                        "serviceCenter": "Audiotronics Inc",
+                        "address": "2750 Ogden Rd               Roanoke, VA 24018"
+                    },
+                    {
+                        "serviceCenter": "Macpro Solutions",
+                        "address": "705 W Main St               Charlottesville, VA 22903"
+                    },
+                    {
+                        "serviceCenter": "Blueridgemac",
+                        "address": "182 Neff Ave Ste W 1a               Harrisonburg, VA 22801"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Short Pump Town Center",
+                        "address": "11800 W. Broad St.               Richmond, VA 23233"
+                    },
+                    {
+                        "serviceCenter": "Macpro Solutions",
+                        "address": "8026 W Broad St Unt A               Richmond, VA 23294"
+                    }
+                ]
             },
             {
                 "name": "Newport News",
-                "link": "https://www.service-center-locator.com/iphone/virginia/iphone-newport-news-virginia.htm"
+                "link": "https://www.service-center-locator.com/iphone/virginia/iphone-newport-news-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Connecting Point",
+                        "address": "4328 George Washington Mem Hwy               Grafton, VA 23692"
+                    },
+                    {
+                        "serviceCenter": "Apple Store MacArthur Center",
+                        "address": "300 Monticello Ave               Norfolk, VA 23510"
+                    },
+                    {
+                        "serviceCenter": "Computer Concepts Of Williamsburg",
+                        "address": "5118 Center St               Williamsburg, VA 23188"
+                    },
+                    {
+                        "serviceCenter": "Macspecialist Inc",
+                        "address": "4772 Euclid Rd Ste G               Virginia Beach, VA 23462"
+                    },
+                    {
+                        "serviceCenter": "Virgil Computers Inc",
+                        "address": "315 N Great Neck Rd Ste 236               Virginia Beach, VA 23454"
+                    },
+                    {
+                        "serviceCenter": "Capitolmac",
+                        "address": "1307 W Main St               Richmond, VA 23220"
+                    }
+                ]
             },
             {
                 "name": "Norfolk",
@@ -6565,7 +9032,33 @@
             },
             {
                 "name": "Portsmouth",
-                "link": "https://www.service-center-locator.com/iphone/virginia/iphone-portsmouth-virginia.htm"
+                "link": "https://www.service-center-locator.com/iphone/virginia/iphone-portsmouth-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store MacArthur Center",
+                        "address": "300 Monticello Ave               Norfolk, VA 23510"
+                    },
+                    {
+                        "serviceCenter": "Macspecialist Inc",
+                        "address": "4772 Euclid Rd Ste G               Virginia Beach, VA 23462"
+                    },
+                    {
+                        "serviceCenter": "Virgil Computers Inc",
+                        "address": "315 N Great Neck Rd Ste 236               Virginia Beach, VA 23454"
+                    },
+                    {
+                        "serviceCenter": "Connecting Point",
+                        "address": "4328 George Washington Mem Hwy               Grafton, VA 23692"
+                    },
+                    {
+                        "serviceCenter": "Computer Concepts Of Williamsburg",
+                        "address": "5118 Center St               Williamsburg, VA 23188"
+                    },
+                    {
+                        "serviceCenter": "Capitolmac",
+                        "address": "1307 W Main St               Richmond, VA 23220"
+                    }
+                ]
             },
             {
                 "name": "Richmond",
@@ -6772,7 +9265,33 @@
             },
             {
                 "name": "Kent",
-                "link": "https://www.service-center-locator.com/iphone/washington/iphone-kent-washington.htm"
+                "link": "https://www.service-center-locator.com/iphone/washington/iphone-kent-washington.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Apple Store Southcenter",
+                        "address": "801 Southcenter Mall               Tukwila, WA 98188"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Bellevue Square",
+                        "address": "106 Bellevue Square                Bellevue, WA 98004"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Tacoma Mall",
+                        "address": "4502 S Steele Street               Tacoma, WA 98409"
+                    },
+                    {
+                        "serviceCenter": "Apple Store University Village",
+                        "address": "2656 NE University Village Street               Seattle, WA 98105"
+                    },
+                    {
+                        "serviceCenter": "The Seattle Mac Store",
+                        "address": "Premium Service Provider               815 Ne 45th St               Seattle, WA 98105"
+                    },
+                    {
+                        "serviceCenter": "Macpds",
+                        "address": "9102 20th Ave Ne               Seattle, WA 98115"
+                    }
+                ]
             },
             {
                 "name": "Seattle",
@@ -6842,7 +9361,33 @@
             },
             {
                 "name": "Vancouver",
-                "link": "https://www.service-center-locator.com/iphone/washington/iphone-vancouver-washington.htm"
+                "link": "https://www.service-center-locator.com/iphone/washington/iphone-vancouver-washington.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Portland Mac Store",
+                        "address": "700 Ne Multnomah St Ste 190               Portland, OR 97232"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Pioneer Place",
+                        "address": "700 Southwest 5th Avenue, Suite #1035               Portland, OR 97204"
+                    },
+                    {
+                        "serviceCenter": "Power Mac Pac",
+                        "address": "Premium Service Provider               12310 Ne Whitaker Way               Portland, OR 97230"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Washington Square",
+                        "address": "9530 SW Washington Square Road               Tigard, OR 97223"
+                    },
+                    {
+                        "serviceCenter": "The Clackamas Mac Store",
+                        "address": "12000 Se 82nd Ave Ste K215               Happy Valley, OR 97086"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Bridgeport Village",
+                        "address": "7293 SW Bridgeport Road               Tigard, OR 97224"
+                    }
+                ]
             },
             {
                 "name": "Yakima",
@@ -6881,7 +9426,33 @@
         "states": [
             {
                 "name": "Charleston",
-                "link": "https://www.service-center-locator.com/iphone/west-virginia/iphone-charleston-west-virginia.htm"
+                "link": "https://www.service-center-locator.com/iphone/west-virginia/iphone-charleston-west-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computers Plus Inc",
+                        "address": "1101 Jefferson Rd               South Charleston, WV 25309             (304) 744-1832"
+                    },
+                    {
+                        "serviceCenter": "Computer Pros Inc",
+                        "address": "2020b Brambleton Ave Sw               Roanoke, VA 24015"
+                    },
+                    {
+                        "serviceCenter": "Audiotronics Inc",
+                        "address": "2750 Ogden Rd               Roanoke, VA 24018"
+                    },
+                    {
+                        "serviceCenter": "Pomeroy It Solutions",
+                        "address": "5000 Greenbag Rd Aa               Morgantown, WV 26501"
+                    },
+                    {
+                        "serviceCenter": "Future Concepts",
+                        "address": "85 N 3rd St               Newark, OH 43055"
+                    },
+                    {
+                        "serviceCenter": "Elan Technologies",
+                        "address": "331 Stoneridge Ln               Columbus, OH 43230"
+                    }
+                ]
             },
             {
                 "name": "Huntington",
@@ -6953,7 +9524,33 @@
             },
             {
                 "name": "Parkersburg",
-                "link": "https://www.service-center-locator.com/iphone/west-virginia/iphone-parkersburg-west-virginia.htm"
+                "link": "https://www.service-center-locator.com/iphone/west-virginia/iphone-parkersburg-west-virginia.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computers Plus Inc",
+                        "address": "301 Rhl Ste 2               South Charleston, WV 25309"
+                    },
+                    {
+                        "serviceCenter": "Future Concepts",
+                        "address": "85 N 3rd St               Newark, OH 43055"
+                    },
+                    {
+                        "serviceCenter": "Pomeroy It Solutions",
+                        "address": "5000 Greenbag Rd Aa               Morgantown, WV 26501"
+                    },
+                    {
+                        "serviceCenter": "Elan Technologies",
+                        "address": "331 Stoneridge Ln               Columbus, OH 43230"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Easton Town Center",
+                        "address": "4070 The Strand East               Columbus, OH 43219"
+                    },
+                    {
+                        "serviceCenter": "Micro Center",
+                        "address": "747 Bethel Rd               Columbus, OH 43214"
+                    }
+                ]
             },
             {
                 "name": "Wheeling",
@@ -6992,7 +9589,33 @@
         "states": [
             {
                 "name": "Appleton",
-                "link": "https://www.service-center-locator.com/iphone/wisconsin/iphone-appleton-wisconsin.htm"
+                "link": "https://www.service-center-locator.com/iphone/wisconsin/iphone-appleton-wisconsin.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computer World",
+                        "address": "3015 W Wisconsin Ave               Appleton, WI 54914"
+                    },
+                    {
+                        "serviceCenter": "Camera Corner Connecting Point",
+                        "address": "529 N Monroe Ave               Green Bay, WI 54301"
+                    },
+                    {
+                        "serviceCenter": "Zaxx Technology Specialists LLC",
+                        "address": "1542 Plover Rd               Plover, WI 54467"
+                    },
+                    {
+                        "serviceCenter": "Zaxx Technology Specialists LLC",
+                        "address": "240 W Grand Ave               Wisconsin Rapids, WI 54495"
+                    },
+                    {
+                        "serviceCenter": "Happymac",
+                        "address": "1000 S 17th Ave               Wausau, WI 54401"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Bayshore",
+                        "address": "5715 N Centerpark Way, Suite N117               Glendale, WI 53217"
+                    }
+                ]
             },
             {
                 "name": "Eau Claire",
@@ -7124,7 +9747,29 @@
             },
             {
                 "name": "Madison",
-                "link": "https://www.service-center-locator.com/iphone/wisconsin/iphone-madison-wisconsin.htm"
+                "link": "https://www.service-center-locator.com/iphone/wisconsin/iphone-madison-wisconsin.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Gillware Inc",
+                        "address": "10 Terrace Ct               Madison, WI 53718             (608) 237-8780"
+                    },
+                    {
+                        "serviceCenter": "Graphite Digital Solutions",
+                        "address": "4805 Voges Rd Ste 1               Madison, WI 53718             (608) 838-6650"
+                    },
+                    {
+                        "serviceCenter": "Macxprts Madison",
+                        "address": "3232 University Ave               Madison, WI 53705             (608) 233-2775"
+                    },
+                    {
+                        "serviceCenter": "Madison Computer Works",
+                        "address": "353 Island Dr               Madison, WI 53705             (608) 231-8000"
+                    },
+                    {
+                        "serviceCenter": "Apple Store West Towne",
+                        "address": "18 West Towne Mall               Madison, WI 53719             (608) 827-9840"
+                    }
+                ]
             },
             {
                 "name": "Milwaukee",
@@ -7257,7 +9902,33 @@
         "states": [
             {
                 "name": "Casper",
-                "link": "https://www.service-center-locator.com/iphone/wyoming/iphone-casper-wyoming.htm"
+                "link": "https://www.service-center-locator.com/iphone/wyoming/iphone-casper-wyoming.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Computer Village Inc",
+                        "address": "317 Thelma Dr               Casper, WY 82609"
+                    },
+                    {
+                        "serviceCenter": "The Mac Ranch LLC",
+                        "address": "117 8th St               Steamboat Springs, CO 80487"
+                    },
+                    {
+                        "serviceCenter": "The Mac Shack",
+                        "address": "Premium Service Provider               157 N College Ave               Fort Collins, CO 80524"
+                    },
+                    {
+                        "serviceCenter": "Computer Village Inc",
+                        "address": "601 12th St Ste 2               Rapid City, SD 57701"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Twenty Ninth Street",
+                        "address": "1755 29th St               Boulder, CO 80301"
+                    },
+                    {
+                        "serviceCenter": "The Mac Shack",
+                        "address": "1301 Pennsylvania Ave               Boulder, CO 80302"
+                    }
+                ]
             },
             {
                 "name": "Cheyenne",
@@ -7291,11 +9962,63 @@
             },
             {
                 "name": "Laramie",
-                "link": "https://www.service-center-locator.com/iphone/wyoming/iphone-laramie-wyoming.htm"
+                "link": "https://www.service-center-locator.com/iphone/wyoming/iphone-laramie-wyoming.htm",
+                "city": [
+                    {
+                        "serviceCenter": "The Mac Ranch LLC",
+                        "address": "117 8th St               Steamboat Springs, CO 80487"
+                    },
+                    {
+                        "serviceCenter": "The Mac Shack",
+                        "address": "Premium Service Provider               157 N College Ave               Fort Collins, CO 80524"
+                    },
+                    {
+                        "serviceCenter": "The Mac Shack",
+                        "address": "1301 Pennsylvania Ave               Boulder, CO 80302"
+                    },
+                    {
+                        "serviceCenter": "Apple Store Twenty Ninth Street",
+                        "address": "1755 29th St               Boulder, CO 80301"
+                    },
+                    {
+                        "serviceCenter": "Apple Store FlatIron Crossing",
+                        "address": "One West Flatiron Crossing Drive               Broomfield, CO 80021"
+                    },
+                    {
+                        "serviceCenter": "Digital Systems Inc",
+                        "address": "40928 Us Hwy 6 And 24               Avon, CO 81620"
+                    }
+                ]
             },
             {
                 "name": "Rock Springs",
-                "link": "https://www.service-center-locator.com/iphone/wyoming/iphone-rock-springs-wyoming.htm"
+                "link": "https://www.service-center-locator.com/iphone/wyoming/iphone-rock-springs-wyoming.htm",
+                "city": [
+                    {
+                        "serviceCenter": "Expercom",
+                        "address": "1545 N Main St Ste 120               Logan, UT 84341"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "2064 Layton Hills Mall               Layton, UT 84041"
+                    },
+                    {
+                        "serviceCenter": "The Mac Ranch LLC",
+                        "address": "117 8th St               Steamboat Springs, CO 80487"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1414 Foothill Dr Ste A2               Salt Lake City, UT 84108"
+                    },
+                    {
+                        "serviceCenter": "Apple Store The Gateway",
+                        "address": "10 South Rio Grande, Suite B               Salt Lake City, UT 84101"
+                    },
+                    {
+                        "serviceCenter": "Simply Mac",
+                        "address": "1435 S State St               Salt Lake City, UT 84115"
+                    }
+                ]
             }
         ]
     }

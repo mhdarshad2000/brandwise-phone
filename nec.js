@@ -31,7 +31,7 @@ async function scrap() {
                 const brand = JSON.stringify(nec)
                 fs.writeFileSync("./nec.json", brand)
 
-            }, 7000)
+            }, 20000)
 
         } catch (error) {
 

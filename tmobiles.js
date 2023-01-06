@@ -32,7 +32,7 @@ async function scrap() {
                 const brand = JSON.stringify(tmobiles)
                 fs.writeFileSync("./t-mobiles.json", brand)
 
-            }, 7000)
+            }, 16000)
 
         } catch (error) {
 

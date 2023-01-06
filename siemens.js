@@ -31,10 +31,10 @@ async function scrap() {
                 const brand = JSON.stringify(siemens)
                 fs.writeFileSync("./siemens.json", brand)
 
-            }, 7000)
+            }, 20000)
 
         } catch (error) {
-
+            console.log(error.message)
         }
     })
 }
@@ -60,15 +60,15 @@ async function detailsPage(cityUrl, brand) {
                     const header = $(p).children("strong").text()
                     arr[count]["serviceCenter"] = header 
                     arr[count]["address"] = $(p).text().replace(header,"").split("Phone:")[0].replaceAll("\n","").replaceAll("\t","").trim()
-                    arr[count]["phone"] = $(p).text().split("Phone:")[1].split("Fax:")[0].replaceAll("\n","").replaceAll("\t","").trim()
-                    arr[count]["fax"] = $(p).text().split("Fax:")[1].replaceAll("\n","").replaceAll("\t","").trim()
+                    arr[count]["phone"] = $(p).text()?.split("Phone:")[1]?.split("Fax:")[0]?.replaceAll("\n","")?.replaceAll("\t","")?.trim()
+                    arr[count]["fax"] = $(p).text()?.split("Fax:")[1]?.replaceAll("\n","")?.replaceAll("\t","")?.trim()
                     count++
                 }
             })
 
             resolve(arr)
         } catch (error) {
-            // console.error(error)
+            console.error(error)
         }
     })
 }

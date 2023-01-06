@@ -32,7 +32,7 @@ async function scrap() {
                 const brand = JSON.stringify(atNt)
                 fs.writeFileSync("./at&t.json", brand)
 
-            }, 7000)
+            }, 20000)
 
         } catch (error) {
 
